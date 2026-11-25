@@ -295,7 +295,7 @@
       "path": "mods/FMDM-1.20.1-7.3.jar",
       "sha256": "6c37d23c4f2c4b753c6a30861f306e277aeb08025ad0296710da579df2ef8442",
       "size": 97498846,
-      "url": "https://raw.githubusercontent.com/hodiw1/terrapolis-hdteam/main/instances/fazcraft/pack/mods/FMDM-1.20.1-7.3.jar"
+      "url": "https://github.com/hodiw1/terrapolis-hdteam/releases/download/pack-files/FMDM-1.20.1-7.3.bin"
     },
     {
       "path": "mods/geckolib-forge-1.20.1-4.8.5.jar",
