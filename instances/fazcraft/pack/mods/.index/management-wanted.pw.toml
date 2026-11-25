@@ -1,0 +1,33 @@
+filename = 'management_wanted-1.3.3-forge-1.20.1.jar'
+name = "Five Nights at Freddy's: Management Wanted | FNAF MW"
+side = 'both'
+x-prismlauncher-loaders = [ 'forge' ]
+x-prismlauncher-mc-versions = [ '1.20.1' ]
+x-prismlauncher-release-type = 'beta'
+x-prismlauncher-version-number = '0.3.3'
+
+[download]
+hash = 'd2cf5f81ba84ef122d034b6c72ad434e92bd6dcb12ee9c536cc5ac47837bf8d4729273775a82d6e6022ee2b387d5c8099dfbac8056bba9de2ac225a3ee976ae7'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/AfaWrHwE/versions/7btuCB5I/management_wanted-1.3.3-forge-1.20.1.jar'
+
+[update.modrinth]
+mod-id = 'AfaWrHwE'
+version = '7btuCB5I'
+
+[[x-prismlauncher-dependencies]]
+addonId = '8BmcQJ2H'
+type = 'REQUIRED'
+
+[[x-prismlauncher-dependencies]]
+addonId = 'UxA6KeZA'
+type = 'REQUIRED'
+
+[[x-prismlauncher-dependencies]]
+addonId = 'oLW0iWmg'
+type = 'OPTIONAL'
+
+[[x-prismlauncher-dependencies]]
+addonId = 'ihhiZe66'
+type = 'OPTIONAL'

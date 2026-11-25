@@ -1,0 +1,18 @@
+filename = 'FMDM-1.20.1-7.3.jar'
+name = 'FNaF Music Disk Mod'
+side = 'both'
+x-prismlauncher-dependencies = []
+x-prismlauncher-loaders = [ 'forge' ]
+x-prismlauncher-mc-versions = [ '1.20.1', '1.20.2', '1.20.3', '1.20.4', '1.20.5', '1.20.6' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = '1.20.1-7.3'
+
+[download]
+hash = '5d2cf85d06e87734826a9d1a972be1e7163ca6093e91437c4fe790809f40e8c87db845a6989c5b704f59d46d9cf8e47643eb9f9905677504779357a3947e123e'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/Uhcgsuxn/versions/oIk56tsf/FMDM-1.20.1-7.3.jar'
+
+[update.modrinth]
+mod-id = 'Uhcgsuxn'
+version = 'oIk56tsf'

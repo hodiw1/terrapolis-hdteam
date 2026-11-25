@@ -1,0 +1,21 @@
+filename = 'FBND-Java-Build2-Forge-1-20-1.jar'
+name = "(Discontinued) FNaF's: Build & Decor (Java Edition)"
+side = 'both'
+x-prismlauncher-loaders = [ 'forge' ]
+x-prismlauncher-mc-versions = [ '1.20.1' ]
+x-prismlauncher-release-type = 'beta'
+x-prismlauncher-version-number = 'build.2.1'
+
+[download]
+hash = '9af06a1dcdb45fd22093d1a79899655622aab542883ed1e3427f13e288ecbc1420b1420fbb01355572d443146417d4cced2a16963d4af84b96bc2687d87b4e6d'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/W0OPs1mV/versions/cBljcl7o/FBND-Java-Build2-Forge-1-20-1.jar'
+
+[update.modrinth]
+mod-id = 'W0OPs1mV'
+version = 'cBljcl7o'
+
+[[x-prismlauncher-dependencies]]
+addonId = '8BmcQJ2H'
+type = 'REQUIRED'

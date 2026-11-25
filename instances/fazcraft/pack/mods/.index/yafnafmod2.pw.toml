@@ -1,0 +1,29 @@
+filename = 'ya_fnafmod2-1.0.0-forge-1.20.1-publicbeta3.jar'
+name = 'Yet Another FNAF Mod Extra Additions'
+side = 'both'
+x-prismlauncher-loaders = [ 'forge' ]
+x-prismlauncher-mc-versions = [ '1.20.1' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = '1.0.0'
+
+[download]
+hash = '50895ad715120c7a61687e6820d7c7015f21f1c8c5bdfb4d86889a39b822e1ca63aac4e47b02bbb5ecf40e4a4ac279aae3af69359757246bd188b784758e5817'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/xxgcY1o1/versions/ZjbRdEJg/ya_fnafmod2-1.0.0-forge-1.20.1-publicbeta3.jar'
+
+[update.modrinth]
+mod-id = 'xxgcY1o1'
+version = 'ZjbRdEJg'
+
+[[x-prismlauncher-dependencies]]
+addonId = '8BmcQJ2H'
+type = 'REQUIRED'
+
+[[x-prismlauncher-dependencies]]
+addonId = 'vvgTqF0n'
+type = 'OPTIONAL'
+
+[[x-prismlauncher-dependencies]]
+addonId = 'DSy9mXpz'
+type = 'REQUIRED'

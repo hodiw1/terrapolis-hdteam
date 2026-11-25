@@ -1,0 +1,18 @@
+
+#Client Settings for Management Wanted
+[management_wanted_2]
+	#Toggle Custom Title Screen
+	toggleMWTitleScreen = true
+	#Toggle Social Media Icons
+	toggleSocialIcons = true
+	#Toggle Bisect Hosting Icon
+	toggleBisectIcon = true
+	#Toggle Discord Rich Presence
+	toggleDiscordRichPresence = true
+	#Toggle OVDR Studios Splash Screen
+	toggleSplashScreen = true
+	#Toggle Global Announcements
+	toggleGlobalAnnouncements = true
+	#Toggle Biome Entry Overlay (the title card image shown when entering a biome)
+	toggleBiomeOverlay = true
+

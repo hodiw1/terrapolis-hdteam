@@ -1,0 +1,53 @@
+
+[Entities]
+
+	[Entities.Humans]
+
+		[Entities.Humans."First Names"]
+
+			[Entities.Humans."First Names"."Male Names"]
+				#- Possible American names for boys
+				"American Male Names" = "Tyler,Brandon,Jake,Austin,Carter,Mason,Ryan,Logan,Kyle,Caleb,Hunter,Blake,Ethan,Noah,Chase,Dylan,Zachary,Luke,Jordan,Travis,Jason,Cole,Levi,Nathan,Gavin,Shane,Eric,Connor,Owen,Jace,Connor,Marcelo,Lewis,Jeremy,Michael,Johnathan,Richard,Steve,Hudson,Gregory,Gabriel,Fritz,Andrew,Stanley,Stanford,Stan,William,Bill,Samuel,Sam,Peter,Freddy,Marty,Dave,David,Edwin,Henry,Oswald,,Curt,Tony,Luke,Emmet,Jake,Finn,Rayson,Terry,Dwight,Ben,Charles"
+				#- Possible latin names for boys
+				"Latin Male Names" = "Mateo,Santiago,Alejandro,Diego,Luis,Javier,Carlos,Juan,Miguel,Antonio,Eduardo,Andrés,Manuel,Fernando,Jorge,Ricardo,César,Marcos,Tomás,Emilio,Rafael,Armando,Bruno,Ernesto,Cristian,Hugo,Esteban,Nico,Raul,Ismael"
+				#- Possible latin names for boys
+				"Asian Male Names" = "Hiroshi,Kenji,Takeshi,Jun,Sung,Hao,Minh,Arjun,Haruto,Yuki,Jin,Anil,Wei,Hyun,Daiki,Ravi,Kenta,Tien,Akira,Sunil,Nam,Ichiro,Sanjay,Koji,Ryo,Thanh,Kai,Manuel,Hideki,Bao"
+				#- Possible latin names for boys
+				"European Male Names" = "Luca,Matteo,Nikolai,Andreas,Leo,Jakub,Oscar,Henrik,Thiago,Filip,Emil,Jan,Tomasz,Fabian,Álvaro,Sebastian,Anton,Milosz,Olivier,Erik,Viktor,Artem,Marco,Ivan,Damien,Kristof,Mario,Laurent,Georg,Ilia"
+
+			[Entities.Humans."First Names"."Female Names"]
+				#- Possible American names for girls
+				"American Female Names" = "Emily,Madison,Brooke,Hailey,Kylie,Jessica,Chloe,Savannah,Taylor,Alexa,Riley,Megan,Kaitlyn,Amber,Skylar,Peyton,Ashley,Lauren,Zoe,Sierra,Bella,Reagan,Lily,Morgan,Avery,Kennedy,Cassidy,Autumn,Paige,Faith,Luna,Veronica,Monika,Monica,Evelyn,Linda,Matilda,Cassidy,Cassie,Susie,Samantha,Sam,Vanessa,Delilah,April,Clara,Melissa,Maggie,Amy,Gina,Maria,Dorothy,Hermione,Ava,Anna,Ana,Victoria,Vivienne,Lilith"
+				#- Possible Latin names for girls
+				"Latin Female Names" = "Camila,Isabella,Sofia,Valeria,Mariana,Lucía,Gabriela,Daniela,Elena,Carla,Ana,Rosa,Carmen,Natalia,Julieta,Bianca,Paula,Teresa,Lourdes,Estela,Flor,Josefina,Paloma,Xiomara,Almendra,Renata,Liliana,Inés,Yesenia,Abril,Rosa,Amy"
+				#- Possible Asian names for girls
+				"Asian Female Names" = "Aiko,Yuna,Mei,Leena,Hana,Jiwoo,Sakura,Anika,Suki,Min,Kaori,Rina,Linh,Haruka,Myra,Nari,Tamiko,Thuy,Mika,Priya,Jia,Lani,Yuri,Trang,Satomi,Mina,Indira,Chika,Kumiko,Noor"
+				#- Possible Europian names for girls
+				"European Female Names" = "Elena,Anya,Sofia,Chiara,Isla,Freya,Lucia,Nina,Amélie,Klara,Greta,Leonie,Catalina,Inga,Zuzanna,Astrid,Eliska,Beatriz,Tereza,Marta,Noemi,Olga,Irina,Rosalie,Petra,Giulia,Alina,Silje,Agata,Raisa"
+
+			[Entities.Humans."First Names"."Unisex Names"]
+				#- Possible American unisex names
+				"American Unisex Names" = "Alex,Taylor,Jordan,Casey,Riley,Avery,Morgan,Cameron,Quinn,Peyton,Skyler,Dakota,Rowan,Reese,Jamie,Kendall,Drew,Blake,Logan,Hayden,Parker,Emerson,Jesse,Ryan,Finley,Marley,Charlie,Corey,Hunter,Sage"
+				#- Possible latin unisex names
+				"Latin Unisex Names" = "Ángel,Alexis,Cruz,Jaime,Noel,Ariel,René,Luz,Rosario,Milagros,Sol,Mar,Isa,Cielo,Paz,Sam,Dani,Andy,Charly,Toni,Adri,Eli,Max,Cris,Alex,Nico,Joss,Robin,Manu,Rafa"
+				#- Possible asian unisex names
+				"Asian Unisex Names" = "Ren,Yuki,Min,Jin,Hayun,Akira,Hari,Nari,Dao,Hikaru,Devi,Kai,An,Yan,Sora,Niko,Sage,Kiran,Tae,Rumi,Mei,Tien,Haru,Jaya,Rei,Bo,Linh,Yun,Ari,Noa"
+				#- Possible european unisex names
+				"European Unisex Names" = "Alex,Nikola,Emery,Robin,Sasha,Dani,Milan,Noel,Luca,Alix,Misha,Joan,Eli,Andrea,Remi,Sam,René,Jean,Stef,Toni,Maxi,Niki,Val,Chris,Claude,Adrian,Ray,Nikita,Téo,Georgie"
+
+		[Entities.Humans."Last names"]
+			#- Possible American last names
+			"American Last Names" = "Johnson,Miller,Anderson,Taylor,Moore,Jackson,Lewis,Walker,Hall,Allen,Young,Hernandez,King,Wright,Scott,Torres,Rivera,Morgan,Cooper,Bailey,Reed,Hughes,Peterson,Simmons,Ward,Fisher,Powell,Griffin,Lawson,Barker,Schmidt,Fitzgerald,Foster"
+			#- Possible latin last names
+			"Latin Last Names" = "García,Rodríguez,Martínez,Hernández,López,González,Pérez,Sánchez,Ramírez,Torres,Flores,Rivera,Díaz,Morales,Romero,Cruz,Reyes,Mendoza,Castillo,Ortega,Guerrero,Delgado,Vega,Soto,Ríos,Campos,Navarro,Salazar,Espinoza,Fuentes"
+			#- Possible latin last names
+			"Asian Last Names" = "Tanaka,Lee,Kim,Wang,Nguyen,Chen,Park,Li,Choi,Yamamoto,Liu,Kumar,Kobayashi,Lam,Hashimoto,Tran,Tsai,Das,Singh,Go,Hashim,Tan,Chang,Murakami,Phan,Zhang,Yeo,Okada,Rahman,Saito"
+			#- Possible latin last names
+			"European Last Names" = "Kovács,Fernandez,Novak,Dubois,Moretti,Popescu,Horváth,Smirnov,Andersson,Kowalski,Gruber,Nielsen,Müller,López,Petrov,Silva,Huber,Bianchi,Bernard,Luka,Martins,Sorensen,Volkov,Rossi,Benedek,Varga,Nowak,Dragunov,Costa,Dimitrov,Holmes"
+
+[Blocks]
+
+	[Blocks."Function Blocks"]
+		#This is the probability of how much the audio lure breaks, the higher, the rarer.
+		"Audio Lure break chance" = 10.0
+

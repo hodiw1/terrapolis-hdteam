@@ -1,0 +1,421 @@
+{
+  "name": "Fazcraft Reborned",
+  "version": "1.0.0",
+  "minecraft_version": "1.20.1",
+  "loader": {
+    "type": "forge",
+    "version": "47.4.28"
+  },
+  "java_major": 17,
+  "recommended_ram_mb": 5120,
+  "files": [
+    {
+      "path": "config/chatanimation.json",
+      "sha256": "b0fa9ec5d41f666fa2c770bb2bde4753cbeeef76909f4765d6ebbf5683c4ae58",
+      "size": 185,
+      "url": "https://raw.githubusercontent.com/hodiw1/terrapolis-hdteam/main/instances/fazcraft/pack/config/chatanimation.json"
+    },
+    {
+      "path": "config/entityculling.json",
+      "sha256": "4a6d510b7e0157027b1cf2022184567fd5387aa09d08db108cb0369ba371ddbe",
+      "size": 2248,
+      "url": "https://raw.githubusercontent.com/hodiw1/terrapolis-hdteam/main/instances/fazcraft/pack/config/entityculling.json"
+    },
+    {
+      "path": "config/ferritecore-mixin.toml",
+      "sha256": "c164439c632aa7c95c07edec5cfef74b8e2d5671a8445a781deeb4de7ad0c8b6",
+      "size": 1516,
+      "url": "https://raw.githubusercontent.com/hodiw1/terrapolis-hdteam/main/instances/fazcraft/pack/config/ferritecore-mixin.toml"
+    },
+    {
+      "path": "config/fml.toml",
+      "sha256": "eb6e8b8eda9682889a83d55262ef96cf37153d58fe7f0fa5d5cb1da5d9f7dd9b",
+      "size": 1147,
+      "url": "https://raw.githubusercontent.com/hodiw1/terrapolis-hdteam/main/instances/fazcraft/pack/config/fml.toml"
+    },
+    {
+      "path": "config/forge-client.toml",
+      "sha256": "0b1b3c45343435184c9dde3149b38afcdb97953e287686ecda54385f53ebcddc",
+      "size": 1628,
+      "url": "https://raw.githubusercontent.com/hodiw1/terrapolis-hdteam/main/instances/fazcraft/pack/config/forge-client.toml"
+    },
+    {
+      "path": "config/immediatelyfast.json",
+      "sha256": "f2b7f219198f0a911d04b09f545f2c1256e8d114951443924878dc10963e16aa",
+      "size": 1060,
+      "url": "https://raw.githubusercontent.com/hodiw1/terrapolis-hdteam/main/instances/fazcraft/pack/config/immediatelyfast.json"
+    },
+    {
+      "path": "config/management_wanted-client.toml",
+      "sha256": "9fd8c4047bdd97a8bcdf5305ce0e7dc570d06815510eee2d5e8ca85191006edf",
+      "size": 236,
+      "url": "https://raw.githubusercontent.com/hodiw1/terrapolis-hdteam/main/instances/fazcraft/pack/config/management_wanted-client.toml"
+    },
+    {
+      "path": "config/management_wanted_2-client.toml",
+      "sha256": "35d998b3136209c40b317332d699fcaf2be2de382de069c2d3562b454429e36a",
+      "size": 545,
+      "url": "https://raw.githubusercontent.com/hodiw1/terrapolis-hdteam/main/instances/fazcraft/pack/config/management_wanted_2-client.toml"
+    },
+    {
+      "path": "config/modernfix-common.toml",
+      "sha256": "fad9aea710ec3508eab562cd8f2b5f8e2dda6ee1c5fb1fe818f90ce253017f66",
+      "size": 107,
+      "url": "https://raw.githubusercontent.com/hodiw1/terrapolis-hdteam/main/instances/fazcraft/pack/config/modernfix-common.toml"
+    },
+    {
+      "path": "config/modernfix-mixins.properties",
+      "sha256": "720ad313a5d0bd55cdf40dc870383cb66081ffe687d9107d1622c7868d023a8f",
+      "size": 6662,
+      "url": "https://raw.githubusercontent.com/hodiw1/terrapolis-hdteam/main/instances/fazcraft/pack/config/modernfix-mixins.properties"
+    },
+    {
+      "path": "config/mw_announcement_content.txt",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "size": 0,
+      "url": "https://raw.githubusercontent.com/hodiw1/terrapolis-hdteam/main/instances/fazcraft/pack/config/mw_announcement_content.txt"
+    },
+    {
+      "path": "config/mw_announcement_state.txt",
+      "sha256": "fcbcf165908dd18a9e49f7ff27810176db8e9f63b4352213741664245224f8aa",
+      "size": 5,
+      "url": "https://raw.githubusercontent.com/hodiw1/terrapolis-hdteam/main/instances/fazcraft/pack/config/mw_announcement_state.txt"
+    },
+    {
+      "path": "config/skinlayers.json",
+      "sha256": "45162f45aa2db525a0edc483959f35b6d958ba2e54066a4f87e7f3c3f0f99166",
+      "size": 497,
+      "url": "https://raw.githubusercontent.com/hodiw1/terrapolis-hdteam/main/instances/fazcraft/pack/config/skinlayers.json"
+    },
+    {
+      "path": "config/smoothboot.json",
+      "sha256": "dc97714e5a1b4bc9f895c3b7604cdf4ab17fd2d57104c46a30808503ab191f4b",
+      "size": 197,
+      "url": "https://raw.githubusercontent.com/hodiw1/terrapolis-hdteam/main/instances/fazcraft/pack/config/smoothboot.json"
+    },
+    {
+      "path": "config/smoothswapping.json",
+      "sha256": "3edb7a3cca0e7c3ec09f642516aba923bd8eba7ca414289a4103912fd24a7e66",
+      "size": 72,
+      "url": "https://raw.githubusercontent.com/hodiw1/terrapolis-hdteam/main/instances/fazcraft/pack/config/smoothswapping.json"
+    },
+    {
+      "path": "config/SoundPhysicsPerfected.json5",
+      "sha256": "814eb349b18ae5bd3df70e52423aebb0e87960d3d016e361aa9a37d3b8756e87",
+      "size": 1707,
+      "url": "https://raw.githubusercontent.com/hodiw1/terrapolis-hdteam/main/instances/fazcraft/pack/config/SoundPhysicsPerfected.json5"
+    },
+    {
+      "path": "config/sp-client.toml",
+      "sha256": "19207f05b5ba352a7437983b03d100b2de0fa5e24da4cc14eb1acbfe3b125952",
+      "size": 449,
+      "url": "https://raw.githubusercontent.com/hodiw1/terrapolis-hdteam/main/instances/fazcraft/pack/config/sp-client.toml"
+    },
+    {
+      "path": "config/transition.json",
+      "sha256": "60420a41571a4658b91babfa2b47d6fefb7c1766eeea969f51ff98ab34c2431c",
+      "size": 97,
+      "url": "https://raw.githubusercontent.com/hodiw1/terrapolis-hdteam/main/instances/fazcraft/pack/config/transition.json"
+    },
+    {
+      "path": "config/trender.json",
+      "sha256": "fe0bed19bd0927b3d519816c73378730689080a8f07e66a6167c266ffde29dd2",
+      "size": 44,
+      "url": "https://raw.githubusercontent.com/hodiw1/terrapolis-hdteam/main/instances/fazcraft/pack/config/trender.json"
+    },
+    {
+      "path": "config/voicechat-client.toml",
+      "sha256": "24a7b91377e08d0d8bc2805793c8150d473241aa816cbaa6fca9d254aa537ca5",
+      "size": 94,
+      "url": "https://raw.githubusercontent.com/hodiw1/terrapolis-hdteam/main/instances/fazcraft/pack/config/voicechat-client.toml"
+    },
+    {
+      "path": "config/waterdripsound.json",
+      "sha256": "6c19f3678260f19ee94795be0ccf28ec0f1a9c9aa5cb6dc07090d99f2505c71c",
+      "size": 194,
+      "url": "https://raw.githubusercontent.com/hodiw1/terrapolis-hdteam/main/instances/fazcraft/pack/config/waterdripsound.json"
+    },
+    {
+      "path": "config/yacl.json5",
+      "sha256": "d26a63d3cdf326412ba86dcc2781060bc53ed6c74ac7808e65325452e264e820",
+      "size": 35,
+      "url": "https://raw.githubusercontent.com/hodiw1/terrapolis-hdteam/main/instances/fazcraft/pack/config/yacl.json5"
+    },
+    {
+      "path": "config/yafnafmod_entityconfig.toml",
+      "sha256": "5e9c4500203f6aa6f504af6cb28d6e374c89187abdcdefe38fe95afe3a2f81a5",
+      "size": 5036,
+      "url": "https://raw.githubusercontent.com/hodiw1/terrapolis-hdteam/main/instances/fazcraft/pack/config/yafnafmod_entityconfig.toml"
+    },
+    {
+      "path": "config/presencefootsteps/updater.json",
+      "sha256": "1e7c61df09c105e1eeca8cf3dcbdfeb976700e9904bcb3983fc7791adb7fad2e",
+      "size": 68,
+      "url": "https://raw.githubusercontent.com/hodiw1/terrapolis-hdteam/main/instances/fazcraft/pack/config/presencefootsteps/updater.json"
+    },
+    {
+      "path": "config/presencefootsteps/userconfig.json",
+      "sha256": "8cf6192eda81b3a27737440cfdedc05c40a8c1b552583114c1aa6fb2673ca907",
+      "size": 427,
+      "url": "https://raw.githubusercontent.com/hodiw1/terrapolis-hdteam/main/instances/fazcraft/pack/config/presencefootsteps/userconfig.json"
+    },
+    {
+      "path": "config/sounds/chat.json",
+      "sha256": "984bd38dddf8c2359482b1910026804a1629fd99d347b3bd367fb2b0a887efca",
+      "size": 587,
+      "url": "https://raw.githubusercontent.com/hodiw1/terrapolis-hdteam/main/instances/fazcraft/pack/config/sounds/chat.json"
+    },
+    {
+      "path": "config/sounds/event.json",
+      "sha256": "6245d6fd01be9aac33c2c7967fb795b8542a21526623ffc19a85596b3a6e1d1f",
+      "size": 797,
+      "url": "https://raw.githubusercontent.com/hodiw1/terrapolis-hdteam/main/instances/fazcraft/pack/config/sounds/event.json"
+    },
+    {
+      "path": "config/sounds/mod_utils.json",
+      "sha256": "ad4c5fe9811db5595602b39957453cf553ca0ccf0c084db6393caa2f2fa05132",
+      "size": 41,
+      "url": "https://raw.githubusercontent.com/hodiw1/terrapolis-hdteam/main/instances/fazcraft/pack/config/sounds/mod_utils.json"
+    },
+    {
+      "path": "config/sounds/ui.json",
+      "sha256": "ad2d93625c17340af17d4f8160853cb2a8db338ebc5e8989c574798039379f56",
+      "size": 2108,
+      "url": "https://raw.githubusercontent.com/hodiw1/terrapolis-hdteam/main/instances/fazcraft/pack/config/sounds/ui.json"
+    },
+    {
+      "path": "config/sounds/world.json",
+      "sha256": "370cb0d795cd5143f878dbaa489ba2ec7cbd14228cafa07d4a86a27a2e08f923",
+      "size": 1576,
+      "url": "https://raw.githubusercontent.com/hodiw1/terrapolis-hdteam/main/instances/fazcraft/pack/config/sounds/world.json"
+    },
+    {
+      "path": "config/sound_physics_remastered/occlusion.properties",
+      "sha256": "ebbac45fbb3ca01487b85ffee9601b213b71896e6606fb297bcb0f3ac9c30ffb",
+      "size": 4831,
+      "url": "https://raw.githubusercontent.com/hodiw1/terrapolis-hdteam/main/instances/fazcraft/pack/config/sound_physics_remastered/occlusion.properties"
+    },
+    {
+      "path": "config/sound_physics_remastered/reflectivity.properties",
+      "sha256": "e26b00784bb6239988759ed1a64551b9f301dc33c5a855d91e976ee4bf40ac8a",
+      "size": 4713,
+      "url": "https://raw.githubusercontent.com/hodiw1/terrapolis-hdteam/main/instances/fazcraft/pack/config/sound_physics_remastered/reflectivity.properties"
+    },
+    {
+      "path": "config/sound_physics_remastered/soundphysics.properties",
+      "sha256": "d29dede3f214ee4b1aa03314f92c3f973c21ee6e26d173eba3d01a2083237b6d",
+      "size": 5104,
+      "url": "https://raw.githubusercontent.com/hodiw1/terrapolis-hdteam/main/instances/fazcraft/pack/config/sound_physics_remastered/soundphysics.properties"
+    },
+    {
+      "path": "config/sound_physics_remastered/sound_rates.properties",
+      "sha256": "08c17754b45dd3f3a36f33eb927d37671cb84923e246a4477aea2020ce518a24",
+      "size": 80436,
+      "url": "https://raw.githubusercontent.com/hodiw1/terrapolis-hdteam/main/instances/fazcraft/pack/config/sound_physics_remastered/sound_rates.properties"
+    },
+    {
+      "path": "config/voicechat/category-volumes.properties",
+      "sha256": "94c1c4f70e5b995fbd71e86d4fa646030437fecae0685875b560a55fbd0d0e56",
+      "size": 46,
+      "url": "https://raw.githubusercontent.com/hodiw1/terrapolis-hdteam/main/instances/fazcraft/pack/config/voicechat/category-volumes.properties"
+    },
+    {
+      "path": "config/voicechat/player-volumes.properties",
+      "sha256": "0332261861a5ace96f503e85b0d48a8df74ea6c2f3545cd229543a6afb55ad96",
+      "size": 44,
+      "url": "https://raw.githubusercontent.com/hodiw1/terrapolis-hdteam/main/instances/fazcraft/pack/config/voicechat/player-volumes.properties"
+    },
+    {
+      "path": "config/voicechat/translations.properties",
+      "sha256": "693643b1d393cbb3ea7f062afc4474fcd66e4036c4f8d7c056434979cbf512d1",
+      "size": 1182,
+      "url": "https://raw.githubusercontent.com/hodiw1/terrapolis-hdteam/main/instances/fazcraft/pack/config/voicechat/translations.properties"
+    },
+    {
+      "path": "config/voicechat/username-cache.json",
+      "sha256": "44136fa355b3678a1146ad16f7e8649e94fb4fc21fe77e8310c060f61caaff8a",
+      "size": 2,
+      "url": "https://raw.githubusercontent.com/hodiw1/terrapolis-hdteam/main/instances/fazcraft/pack/config/voicechat/username-cache.json"
+    },
+    {
+      "path": "config/voicechat/voicechat-client.properties",
+      "sha256": "b7bae2e4138233a81a06de7e2dc90e8e597054e19140889d377762800d3da6a4",
+      "size": 5063,
+      "url": "https://raw.githubusercontent.com/hodiw1/terrapolis-hdteam/main/instances/fazcraft/pack/config/voicechat/voicechat-client.properties"
+    },
+    {
+      "path": "config/voicechat/voicechat-server.properties",
+      "sha256": "3284a83abd1175dd81604812e1771ef66a69c8d00503e8c39db31276cd008a33",
+      "size": 3214,
+      "url": "https://raw.githubusercontent.com/hodiw1/terrapolis-hdteam/main/instances/fazcraft/pack/config/voicechat/voicechat-server.properties"
+    },
+    {
+      "path": "mods/chatanimation-forge-1.3.5+mc1.20.1.jar",
+      "sha256": "38e6ad4537fbad611e231ec6d881f67dd3d4c3fe35b553c3aab43f2b9b858823",
+      "size": 1068918,
+      "url": "https://raw.githubusercontent.com/hodiw1/terrapolis-hdteam/main/instances/fazcraft/pack/mods/chatanimation-forge-1.3.5+mc1.20.1.jar"
+    },
+    {
+      "path": "mods/cloth-config-11.1.136-forge.jar",
+      "sha256": "1e895e85cf5b1e1905ef3178ec155c8badfe22a1577b92c09143a5aa1f4ce0f2",
+      "size": 1181413,
+      "url": "https://raw.githubusercontent.com/hodiw1/terrapolis-hdteam/main/instances/fazcraft/pack/mods/cloth-config-11.1.136-forge.jar"
+    },
+    {
+      "path": "mods/CreativeCore_FORGE_v2.12.42_mc1.20.1.jar",
+      "sha256": "8d90a490c590613f79e51066bd885e5d93f947ab12790740c9b7cbd4e49b2676",
+      "size": 1144767,
+      "url": "https://raw.githubusercontent.com/hodiw1/terrapolis-hdteam/main/instances/fazcraft/pack/mods/CreativeCore_FORGE_v2.12.42_mc1.20.1.jar"
+    },
+    {
+      "path": "mods/Drip Sounds-0.6.3+1.20.1-Forge.jar",
+      "sha256": "738cb11bdc7eca4bc46c8c24ad8d69569ab7fcfc2463063fe6df3738f7795cce",
+      "size": 56639,
+      "url": "https://raw.githubusercontent.com/hodiw1/terrapolis-hdteam/main/instances/fazcraft/pack/mods/Drip%20Sounds-0.6.3+1.20.1-Forge.jar"
+    },
+    {
+      "path": "mods/entityculling-forge-1.12.2-mc1.20.1.jar",
+      "sha256": "d82f6350b6e4b5ac48d4054ad5a54469ab14f019040e9053f38c192b4b1adc9d",
+      "size": 1529393,
+      "url": "https://raw.githubusercontent.com/hodiw1/terrapolis-hdteam/main/instances/fazcraft/pack/mods/entityculling-forge-1.12.2-mc1.20.1.jar"
+    },
+    {
+      "path": "mods/FBND-Java-Build2-Forge-1-20-1.jar",
+      "sha256": "f83bdba986a015e542543395514487b6082f5ca94ca836bcd9e02178618b54ca",
+      "size": 4087960,
+      "url": "https://raw.githubusercontent.com/hodiw1/terrapolis-hdteam/main/instances/fazcraft/pack/mods/FBND-Java-Build2-Forge-1-20-1.jar"
+    },
+    {
+      "path": "mods/ferritecore-6.0.1-forge.jar",
+      "sha256": "9c2c9396a49e796d88497758caa4637d2bcbb433c318e2dd9cebcffbaf0f6c54",
+      "size": 123034,
+      "url": "https://raw.githubusercontent.com/hodiw1/terrapolis-hdteam/main/instances/fazcraft/pack/mods/ferritecore-6.0.1-forge.jar"
+    },
+    {
+      "path": "mods/FMDM-1.20.1-7.3.jar",
+      "sha256": "6c37d23c4f2c4b753c6a30861f306e277aeb08025ad0296710da579df2ef8442",
+      "size": 97498846,
+      "url": "https://raw.githubusercontent.com/hodiw1/terrapolis-hdteam/main/instances/fazcraft/pack/mods/FMDM-1.20.1-7.3.jar"
+    },
+    {
+      "path": "mods/geckolib-forge-1.20.1-4.8.5.jar",
+      "sha256": "385b8888d7c739f554e3aa33855aa7f8d5f984cbb484fabc82d94d38f2c478fa",
+      "size": 1044857,
+      "url": "https://raw.githubusercontent.com/hodiw1/terrapolis-hdteam/main/instances/fazcraft/pack/mods/geckolib-forge-1.20.1-4.8.5.jar"
+    },
+    {
+      "path": "mods/ImmediatelyFast-Forge-1.5.5+1.20.4.jar",
+      "sha256": "82db19cc65b5c11a444498fb4b8cbcb0393c043e794cb5bf368631a0af765035",
+      "size": 532063,
+      "url": "https://raw.githubusercontent.com/hodiw1/terrapolis-hdteam/main/instances/fazcraft/pack/mods/ImmediatelyFast-Forge-1.5.5+1.20.4.jar"
+    },
+    {
+      "path": "mods/management_wanted-1.3.3-forge-1.20.1.jar",
+      "sha256": "045245c8e805f7c550889f48db39f784f8262f58eb60c9f2b3ed5895b807bb15",
+      "size": 140148655,
+      "url": "https://github.com/hodiw1/terrapolis-hdteam/releases/download/pack-files/management_wanted-1.3.3-forge-1.20.1.jar"
+    },
+    {
+      "path": "mods/management_wanted_2-2.7.jar",
+      "sha256": "d5f71ded50732e1e46af88ed319da471db5cb4933d851c837802812369b5d747",
+      "size": 80845049,
+      "url": "https://raw.githubusercontent.com/hodiw1/terrapolis-hdteam/main/instances/fazcraft/pack/mods/management_wanted_2-2.7.jar"
+    },
+    {
+      "path": "mods/management_wanted_fixes-1.0.4.jar",
+      "sha256": "d662f0ed847875a26e10bb1210326b3f4e595c5bba51324d5ddc860248a00284",
+      "size": 64328,
+      "url": "https://raw.githubusercontent.com/hodiw1/terrapolis-hdteam/main/instances/fazcraft/pack/mods/management_wanted_fixes-1.0.4.jar"
+    },
+    {
+      "path": "mods/modernfix-forge-5.28.0+mc1.20.1.jar",
+      "sha256": "bf470a500fdb4d9ec83e7efef32a8202fb9dd80ce6eeeb09fa51d948206619fd",
+      "size": 1016430,
+      "url": "https://raw.githubusercontent.com/hodiw1/terrapolis-hdteam/main/instances/fazcraft/pack/mods/modernfix-forge-5.28.0+mc1.20.1.jar"
+    },
+    {
+      "path": "mods/MRU-1.0.4+1.20.1+forge.jar",
+      "sha256": "520c07bceb8987c4bb355d32b495ae03e4f106553df47b1a9691a08420016fa2",
+      "size": 287393,
+      "url": "https://raw.githubusercontent.com/hodiw1/terrapolis-hdteam/main/instances/fazcraft/pack/mods/MRU-1.0.4+1.20.1+forge.jar"
+    },
+    {
+      "path": "mods/Presence Footsteps [FORGE] 1.0.0.jar",
+      "sha256": "290cce2b6e9916c5713769fc830475d8a51e9745f5b33688e32a35dd10d43e37",
+      "size": 5567573,
+      "url": "https://raw.githubusercontent.com/hodiw1/terrapolis-hdteam/main/instances/fazcraft/pack/mods/Presence%20Footsteps%20%5BFORGE%5D%201.0.0.jar"
+    },
+    {
+      "path": "mods/skinlayers3d-forge-1.11.4-mc1.20.1.jar",
+      "sha256": "df839af815c55fff84136136bc02868d93771f4a7fcbbf9a9f9d0e04c0d29904",
+      "size": 2096322,
+      "url": "https://raw.githubusercontent.com/hodiw1/terrapolis-hdteam/main/instances/fazcraft/pack/mods/skinlayers3d-forge-1.11.4-mc1.20.1.jar"
+    },
+    {
+      "path": "mods/smoothboot(reloaded)-mc1.20.1-0.0.4.jar",
+      "sha256": "5a0d2682493ffa7b140a7b81f0d1e70c7536c97969397cf9e718e31391b5b9d5",
+      "size": 41044,
+      "url": "https://raw.githubusercontent.com/hodiw1/terrapolis-hdteam/main/instances/fazcraft/pack/mods/smoothboot(reloaded)-mc1.20.1-0.0.4.jar"
+    },
+    {
+      "path": "mods/smoothswapping-0.9.3.2-1.20.1-forge.jar",
+      "sha256": "c6d75a2acd9b269524da4de35a1681535069f885e7a910b013962db3f7842709",
+      "size": 60843,
+      "url": "https://raw.githubusercontent.com/hodiw1/terrapolis-hdteam/main/instances/fazcraft/pack/mods/smoothswapping-0.9.3.2-1.20.1-forge.jar"
+    },
+    {
+      "path": "mods/sound-physics-remastered-forge-1.20.1-1.5.1.jar",
+      "sha256": "1d7a0d4cdbdee61532dd23ddbc2833292e945d8ec2d20f3271af86b02b0fc108",
+      "size": 206984,
+      "url": "https://raw.githubusercontent.com/hodiw1/terrapolis-hdteam/main/instances/fazcraft/pack/mods/sound-physics-remastered-forge-1.20.1-1.5.1.jar"
+    },
+    {
+      "path": "mods/Sounds-2.2.1+1.20.1+forge.jar",
+      "sha256": "2fa22c59f967e963c97e7d4374a8713247402fa6c87654b3057a1c248217c7fd",
+      "size": 10974911,
+      "url": "https://raw.githubusercontent.com/hodiw1/terrapolis-hdteam/main/instances/fazcraft/pack/mods/Sounds-2.2.1+1.20.1+forge.jar"
+    },
+    {
+      "path": "mods/sound_physics_perfected-1.17.5+1.20.1-forge.jar",
+      "sha256": "d95b69224191f5b889568956914be163768682185ef5170776ee2a11896c1f3d",
+      "size": 439126,
+      "url": "https://raw.githubusercontent.com/hodiw1/terrapolis-hdteam/main/instances/fazcraft/pack/mods/sound_physics_perfected-1.17.5+1.20.1-forge.jar"
+    },
+    {
+      "path": "mods/sp-1.20.1-1.6.5.jar",
+      "sha256": "5ae66a94221655d7bc2e677168ef3d47c171479eaec62819c17e86f2cb7e19da",
+      "size": 768645,
+      "url": "https://raw.githubusercontent.com/hodiw1/terrapolis-hdteam/main/instances/fazcraft/pack/mods/sp-1.20.1-1.6.5.jar"
+    },
+    {
+      "path": "mods/voicechat-forge-1.20.1-2.6.27.jar",
+      "sha256": "e48098690a01ba75e4f5549cbfda142de4513ec421001914a4a11164cceaccd0",
+      "size": 4941878,
+      "url": "https://raw.githubusercontent.com/hodiw1/terrapolis-hdteam/main/instances/fazcraft/pack/mods/voicechat-forge-1.20.1-2.6.27.jar"
+    },
+    {
+      "path": "mods/ya_fnafmod-2.0.0-forge-1.20.1-publicbeta5.jar",
+      "sha256": "cdb550ee511800df79e30b774e46449e1d7d7406f165c520b42c2ebfbf5235d3",
+      "size": 84064424,
+      "url": "https://raw.githubusercontent.com/hodiw1/terrapolis-hdteam/main/instances/fazcraft/pack/mods/ya_fnafmod-2.0.0-forge-1.20.1-publicbeta5.jar"
+    },
+    {
+      "path": "mods/ya_fnafmod2-1.0.0-forge-1.20.1-publicbeta3.jar",
+      "sha256": "4eafbb80c7f566acec18129c5a15ce9ff847d8fa1f39d0a71b3c4541bf515033",
+      "size": 14967743,
+      "url": "https://raw.githubusercontent.com/hodiw1/terrapolis-hdteam/main/instances/fazcraft/pack/mods/ya_fnafmod2-1.0.0-forge-1.20.1-publicbeta3.jar"
+    },
+    {
+      "path": "mods/yet_another_config_lib_v3-3.6.6+1.20.1-forge.jar",
+      "sha256": "bd05da3d9df29b914165583f1c6dfd918a138996447ff32c0418329824027a8f",
+      "size": 1105891,
+      "url": "https://raw.githubusercontent.com/hodiw1/terrapolis-hdteam/main/instances/fazcraft/pack/mods/yet_another_config_lib_v3-3.6.6+1.20.1-forge.jar"
+    },
+    {
+      "path": "shaderpacks/Solas Shader V3.9.zip",
+      "sha256": "e207c3c7e2ca572457e03b998dbfa383fb1251324ad78ea7b7faee90b533d748",
+      "size": 1243081,
+      "url": "https://raw.githubusercontent.com/hodiw1/terrapolis-hdteam/main/instances/fazcraft/pack/shaderpacks/Solas%20Shader%20V3.9.zip"
+    }
+  ]
+}

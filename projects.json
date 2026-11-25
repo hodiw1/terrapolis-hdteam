@@ -1,0 +1,17 @@
+{
+  "projects": {
+    "HDTeam": {
+      "instances": [
+        {
+          "id": "fazcraft",
+          "name": "Fazcraft Reborned",
+          "mc": "1.20.1",
+          "loader": "Forge 47.4.28",
+          "description": "Офіційна збірка Fazcraft Reborned. Рекомендовано 4–6 ГБ ОЗУ.",
+          "sizeMb": 436,
+          "manifest_url": "https://raw.githubusercontent.com/hodiw1/terrapolis-hdteam/main/instances/fazcraft/manifest.json"
+        }
+      ]
+    }
+  }
+}
