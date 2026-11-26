@@ -1,0 +1,32 @@
+{
+    "general": {
+        "buttons": {},
+        "data_caching": true,
+        "enable_forge_triggers": false,
+        "load_custom_sounds_on_login": true
+    },
+    "npc": {
+        "peaceful_damage": true,
+        "tool_only_op": true,
+        "tool_only_creative": false,
+        "dashboard_only_creative": false
+    },
+    "events": {
+        "max_executions": 10124,
+        "use_server_for_commands": false
+    },
+    "gui": {
+        "pulse_background_color": 0,
+        "pulse_background_mclib": false,
+        "node_thickness": 3,
+        "quest_preview_rewards": true,
+        "journal_button_x": 0,
+        "journal_button_y": 0
+    },
+    "script_editor": {
+        "syntax_style": "dracula.json",
+        "sounds": false,
+        "ui_debug": true,
+        "docs_new_structure": false
+    }
+}

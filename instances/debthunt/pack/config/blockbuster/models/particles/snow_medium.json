@@ -1,0 +1,101 @@
+{
+    "format_version": "1.10.0",
+    "particle_effect": {
+        "description": {
+            "identifier": "medium_snow",
+            "basic_render_parameters": {
+                "material": "particles_alpha",
+                "texture": "b.a:particles/snow.png"
+            }
+        },
+        "curves": {},
+        "components": {
+            "minecraft:emitter_shape_box": {
+                "offset": [
+                    0.0,
+                    10.0,
+                    0.0
+                ],
+                "direction": [
+                    "math.random(-5.0, -10.0)",
+                    "math.random(-13.0, -15.0)",
+                    0.0
+                ],
+                "half_dimensions": [
+                    65.0,
+                    0.0,
+                    65.0
+                ]
+            },
+            "minecraft:particle_lifetime_expression": {
+                "max_lifetime": 3.0
+            },
+            "minecraft:particle_initial_spin": {
+                "rotation": "variable.particle_random_3 * 360.0"
+            },
+            "minecraft:particle_initial_speed": "math.random(10.0, 13.0)",
+            "minecraft:particle_appearance_billboard": {
+                "size": [
+                    0.02,
+                    0.02
+                ],
+                "facing_camera_mode": "rotate_xyz",
+                "uv": {
+                    "texture_width": 3,
+                    "texture_height": 3,
+                    "uv": [
+                        1.0,
+                        1.0
+                    ],
+                    "uv_size": [
+                        1.0,
+                        1.0
+                    ]
+                }
+            },
+            "minecraft:emitter_local_space": {
+                "position": true,
+                "rotation": true
+            },
+            "minecraft:emitter_lifetime_looping": {
+                "active_time": 0.0
+            },
+            "minecraft:particle_motion_dynamic": {
+                "linear_acceleration": [
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "linear_drag_coefficient": "math.random(0.1, 0.5)"
+            },
+            "minecraft:particle_motion_collision": {
+                "expire_on_contact": true
+            },
+            "minecraft:particle_appearance_lighting": {},
+            "blockbuster:particle_collision_appearance": {
+                "enabled": 0.0,
+                "lit": false,
+                "material": "particles_opaque",
+                "size": [
+                    0.0,
+                    0.0
+                ],
+                "facing_camera_mode": "lookat_xyz",
+                "uv": {
+                    "texture_width": 128,
+                    "texture_height": 128
+                }
+            },
+            "blockbuster:particle_collision_tinting": {
+                "enabled": 0.0
+            },
+            "blockbuster:particle_morph": {
+                "enabled": false,
+                "render_texture": false
+            },
+            "minecraft:emitter_rate_instant": {
+                "num_particles": "7.0"
+            }
+        }
+    }
+}
