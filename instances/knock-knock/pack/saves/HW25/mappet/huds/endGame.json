@@ -1,0 +1,57 @@
+{
+    "Hide": 0b,
+    "Fov": 70.0f,
+    "Morphs": [
+        {
+            "Expire": 100,
+            "Ortho": 1b,
+            "OrthoY": 0.5f,
+            "Scale": [
+                90.0f,
+                90.0f,
+                90.0f
+            ],
+            "OrthoX": 0.5f
+        },
+        {
+            "Expire": 100,
+            "Ortho": 1b,
+            "Morph": {
+                "Color": 12434877,
+                "Label": "Список гостей:",
+                "Shadow": 1b,
+                "Name": "label",
+                "ForcedSettings": 0b
+            },
+            "OrthoY": 0.5f,
+            "Scale": [
+                65.0f,
+                65.0f,
+                65.0f
+            ],
+            "OrthoX": 0.5f,
+            "Translate": [
+                0.0f,
+                -30.0f,
+                0.0f
+            ]
+        },
+        {
+            "Expire": 100,
+            "Ortho": 1b,
+            "OrthoY": 0.5f,
+            "Scale": [
+                63.0f,
+                63.0f,
+                63.0f
+            ],
+            "OrthoX": 0.5f,
+            "Translate": [
+                -73.0f,
+                -50.0f,
+                0.0f
+            ]
+        }
+    ],
+    "Global": 0b
+}

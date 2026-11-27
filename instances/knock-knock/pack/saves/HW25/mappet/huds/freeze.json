@@ -1,0 +1,23 @@
+{
+    "Hide": 0b,
+    "Fov": 70.0f,
+    "Morphs": [
+        {
+            "Expire": 0,
+            "Ortho": 0b,
+            "OrthoY": 0.0f,
+            "Scale": [
+                10.0f,
+                10.0f,
+                10.0f
+            ],
+            "OrthoX": 0.0f,
+            "Translate": [
+                0.0f,
+                1.0f,
+                0.0f
+            ]
+        }
+    ],
+    "Global": 0b
+}

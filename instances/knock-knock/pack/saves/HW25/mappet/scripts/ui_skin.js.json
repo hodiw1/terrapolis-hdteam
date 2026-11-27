@@ -1,0 +1,9 @@
+{
+    "GlobalLibrary": 0b,
+    "Unique": 0b,
+    "Libraries": [
+        "CommonLibrary.js",
+        "GameAllList.js",
+        "SkinRequester.js"
+    ]
+}

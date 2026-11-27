@@ -1,0 +1,53 @@
+{
+    "Hide": 0b,
+    "Fov": 70.0f,
+    "Morphs": [
+        {
+            "Expire": 0,
+            "Ortho": 1b,
+            "Morph": {
+                "Label": "1 : 0",
+                "Shadow": 1b,
+                "AnchorX": 1.0f,
+                "Name": "label",
+                "ForcedSettings": 0b
+            },
+            "OrthoY": 1.0f,
+            "Scale": [
+                35.0f,
+                35.0f,
+                35.0f
+            ],
+            "OrthoX": 1.0f,
+            "Translate": [
+                -5.0f,
+                -22.0f,
+                0.0f
+            ]
+        },
+        {
+            "Expire": 0,
+            "Ortho": 1b,
+            "Morph": {
+                "Label": "День 1",
+                "Shadow": 1b,
+                "AnchorX": 1.0f,
+                "Name": "label",
+                "ForcedSettings": 0b
+            },
+            "OrthoY": 1.0f,
+            "Scale": [
+                50.0f,
+                50.0f,
+                50.0f
+            ],
+            "OrthoX": 1.0f,
+            "Translate": [
+                -5.0f,
+                -10.0f,
+                0.0f
+            ]
+        }
+    ],
+    "Global": 0b
+}

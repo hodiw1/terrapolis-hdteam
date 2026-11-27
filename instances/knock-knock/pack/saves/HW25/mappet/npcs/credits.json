@@ -1,0 +1,245 @@
+{
+    "States": {
+        "default": {
+            "RespawnSaveUUID": 0,
+            "TriggerRespawn": {
+                "Blocks": [
+                ]
+            },
+            "TriggerTick": {
+                "Blocks": [
+                ]
+            },
+            "StateName": "default",
+            "TriggerInitialize": {
+                "Blocks": [
+                    {
+                        "Script": "",
+                        "Function": "",
+                        "Type": "script",
+                        "CustomData": "",
+                        "Frequency": 1,
+                        "Inline": 1b,
+                        "Code": "c.getSubject().setAIEnabled(false)"
+                    }
+                ]
+            },
+            "Killable": 0,
+            "CanFallDamage": 0,
+            "States": {
+            },
+            "PathDistance": 32.0f,
+            "Follow": "",
+            "Xp": 0,
+            "Morph": {
+                "Hitbox": {
+                    "Eye": 0.9f,
+                    "Sneak": 0.5f,
+                    "Enabled": 1b,
+                    "Height": 0.5f,
+                    "Width": 0.5f
+                },
+                "Skin": "b.a:empty/skins/texture.png",
+                "BodyParts": [
+                    {
+                        "R": [
+                            180.0f,
+                            200.0f,
+                            0.0f
+                        ],
+                        "T": [
+                            0.0f,
+                            -0.5f,
+                            0.0f
+                        ],
+                        "Limb": "cube",
+                        "Morph": {
+                            "Transform": "",
+                            "Name": "item",
+                            "ForcedSettings": 0b,
+                            "Stack": {
+                                "id": "hnt:hammer",
+                                "Count": 1b,
+                                "Damage": 0s
+                            }
+                        }
+                    },
+                    {
+                        "S": [
+                            0.5f,
+                            0.5f,
+                            0.5f
+                        ],
+                        "T": [
+                            -0.0625f,
+                            -0.25f,
+                            0.03125f
+                        ],
+                        "Limb": "cube",
+                        "Morph": {
+                            "List": [
+                                {
+                                    "Random": 0.0f,
+                                    "SetDuration": 0b,
+                                    "Morph": {
+                                        "Lighting": 0b,
+                                        "Color": -5921114,
+                                        "Shadow": 0b,
+                                        "Animation": {
+                                            "Interp": 8,
+                                            "Animates": 1b,
+                                            "Duration": 0
+                                        },
+                                        "Billboard": 1b,
+                                        "Texture": "b.a:hw/credits.png",
+                                        "Shaded": 0b,
+                                        "Name": "blockbuster.image",
+                                        "ForcedSettings": 0b
+                                    },
+                                    "Duration": 0.0f,
+                                    "EndPoint": 0b
+                                },
+                                {
+                                    "Random": 0.0f,
+                                    "SetDuration": 0b,
+                                    "Morph": {
+                                        "Lighting": 0b,
+                                        "Pose": {
+                                            "P": [
+                                                0.0f,
+                                                0.05f,
+                                                0.0f
+                                            ]
+                                        },
+                                        "Shadow": 0b,
+                                        "Animation": {
+                                            "Interp": 8,
+                                            "Animates": 1b,
+                                            "Duration": 20
+                                        },
+                                        "Billboard": 1b,
+                                        "Texture": "b.a:hw/credits.png",
+                                        "Shaded": 0b,
+                                        "Name": "blockbuster.image",
+                                        "ForcedSettings": 0b
+                                    },
+                                    "Duration": 20.0f,
+                                    "EndPoint": 0b
+                                },
+                                {
+                                    "Random": 0.0f,
+                                    "SetDuration": 0b,
+                                    "Morph": {
+                                        "Lighting": 0b,
+                                        "Color": -5921114,
+                                        "Shadow": 0b,
+                                        "Animation": {
+                                            "Interp": 7,
+                                            "Animates": 1b,
+                                            "Duration": 20
+                                        },
+                                        "Billboard": 1b,
+                                        "Texture": "b.a:hw/credits.png",
+                                        "Shaded": 0b,
+                                        "Name": "blockbuster.image",
+                                        "ForcedSettings": 0b
+                                    },
+                                    "Duration": 20.0f,
+                                    "EndPoint": 0b
+                                }
+                            ],
+                            "Name": "sequencer",
+                            "ForcedSettings": 0b,
+                            "Offset": [
+                                0.0f,
+                                0.0f,
+                                0.0f
+                            ]
+                        }
+                    }
+                ],
+                "Name": "blockbuster.empty",
+                "ForcedSettings": 0b
+            },
+            "FlightMinHeight": 4.0d,
+            "CanBeSteered": 0,
+            "Damage": 2.0f,
+            "FlightMaxHeight": 6.0d,
+            "ShadowSize": 0.6f,
+            "JumpPower": 0.6f,
+            "TriggerInteract": {
+                "Blocks": [
+                    {
+                        "Script": "ui_credits.js",
+                        "Function": "",
+                        "Type": "script",
+                        "CustomData": "",
+                        "Frequency": 1,
+                        "Inline": 0b,
+                        "Code": ""
+                    }
+                ]
+            },
+            "CanSwim": 1,
+            "Flee": 4.0f,
+            "LookAtPlayer": 0,
+            "Respawn": 0,
+            "Immovable": 1,
+            "MaxHealth": 20.0f,
+            "TriggerDamaged": {
+                "Blocks": [
+                ]
+            },
+            "PatrolTriggers": [
+            ],
+            "CanRanged": 0,
+            "Drops": [
+            ],
+            "Fallback": 15.0f,
+            "CanPickUpLoot": 0,
+            "Unique": 0,
+            "Id": "credits",
+            "AlwaysWander": 0,
+            "SteeringOffsets": [
+            ],
+            "PatrolCirculate": 0,
+            "DamageDelay": 10,
+            "TriggerEntityCollision": {
+                "Blocks": [
+                ]
+            },
+            "CanGetBurned": 0,
+            "Wander": 0,
+            "RespawnOnCoordinates": 1,
+            "LookAround": 0,
+            "RespawnPosY": 0.0d,
+            "RespawnDelay": 0,
+            "RespawnPosX": 0.0d,
+            "SightDistance": 25.0f,
+            "RespawnPosZ": 0.0d,
+            "Invincible": 1,
+            "TriggerDied": {
+                "Blocks": [
+                ]
+            },
+            "Faction": "",
+            "Speed": 3.0f,
+            "SightRadius": 120.0f,
+            "Health": 20.0f,
+            "Post": [
+            ],
+            "RegenDelay": 80,
+            "TriggerTarget": {
+                "Blocks": [
+                ]
+            },
+            "HasNoGravity": 0,
+            "RegenFrequency": 20,
+            "HasPost": 0,
+            "CanFly": 0,
+            "Patrol": [
+            ],
+            "PostRadius": 1.0f
+        }
+    }
+}

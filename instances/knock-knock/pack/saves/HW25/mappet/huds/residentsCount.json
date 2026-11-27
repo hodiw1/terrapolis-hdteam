@@ -1,0 +1,158 @@
+{
+    "Hide": 0b,
+    "Fov": 70.0f,
+    "Morphs": [
+        {
+            "Expire": 110,
+            "Ortho": 1b,
+            "Morph": {
+                "List": [
+                    {
+                        "Random": 0.0f,
+                        "SetDuration": 0b,
+                        "Morph": {
+                            "Animation": {
+                                "Interp": 21,
+                                "Duration": 0
+                            },
+                            "Skin": "b.a:empty/skins/texture.png",
+                            "BodyParts": [
+                                {
+                                    "S": [
+                                        1.0f,
+                                        0.0f,
+                                        1.0f
+                                    ],
+                                    "Limb": "cube",
+                                    "Morph": {
+                                        "Label": "Чтобы пережить неделю, нужно впустить ещё 2 гостей...",
+                                        "Shadow": 1b,
+                                        "Name": "label",
+                                        "ForcedSettings": 0b
+                                    }
+                                }
+                            ],
+                            "Settings": {
+                                "Hands": 0b,
+                                "Speed": 0.1f,
+                                "Action": "null",
+                                "ShadowOption": 1,
+                                "Abilities": [
+                                ],
+                                "Updates": 1b,
+                                "HP": 20,
+                                "Attack": "null",
+                                "Hostile": 1b
+                            },
+                            "Name": "blockbuster.empty",
+                            "ForcedSettings": 1b
+                        },
+                        "Duration": 0.0f,
+                        "EndPoint": 0b
+                    },
+                    {
+                        "Random": 0.0f,
+                        "SetDuration": 0b,
+                        "Morph": {
+                            "Animation": {
+                                "Interp": 21,
+                                "Animates": 1b
+                            },
+                            "Skin": "b.a:empty/skins/texture.png",
+                            "BodyParts": [
+                                {
+                                    "Limb": "cube",
+                                    "Morph": {
+                                        "Label": "Чтобы пережить неделю, нужно впустить ещё 2 гостей...",
+                                        "Shadow": 1b,
+                                        "Name": "label",
+                                        "ForcedSettings": 0b
+                                    }
+                                }
+                            ],
+                            "Settings": {
+                                "Hands": 0b,
+                                "Speed": 0.1f,
+                                "Action": "null",
+                                "ShadowOption": 1,
+                                "Abilities": [
+                                ],
+                                "Updates": 1b,
+                                "HP": 20,
+                                "Attack": "null",
+                                "Hostile": 1b
+                            },
+                            "Name": "blockbuster.empty",
+                            "ForcedSettings": 1b
+                        },
+                        "Duration": 100.0f,
+                        "EndPoint": 0b
+                    },
+                    {
+                        "Random": 0.0f,
+                        "SetDuration": 0b,
+                        "Morph": {
+                            "Animation": {
+                                "Interp": 21,
+                                "Animates": 1b
+                            },
+                            "Skin": "b.a:empty/skins/texture.png",
+                            "BodyParts": [
+                                {
+                                    "S": [
+                                        1.0f,
+                                        0.0f,
+                                        1.0f
+                                    ],
+                                    "Limb": "cube",
+                                    "Morph": {
+                                        "Label": "Чтобы пережить неделю, нужно впустить ещё 2 гостей...",
+                                        "Shadow": 1b,
+                                        "Name": "label",
+                                        "ForcedSettings": 0b
+                                    }
+                                }
+                            ],
+                            "Settings": {
+                                "Hands": 0b,
+                                "Speed": 0.1f,
+                                "Action": "null",
+                                "ShadowOption": 1,
+                                "Abilities": [
+                                ],
+                                "Updates": 1b,
+                                "HP": 20,
+                                "Attack": "null",
+                                "Hostile": 1b
+                            },
+                            "Name": "blockbuster.empty",
+                            "ForcedSettings": 1b
+                        },
+                        "Duration": 10.0f,
+                        "EndPoint": 0b
+                    }
+                ],
+                "Name": "sequencer",
+                "ForcedSettings": 0b,
+                "Offset": [
+                    0.0f,
+                    0.0f,
+                    0.0f
+                ]
+            },
+            "OrthoY": 0.5f,
+            "Scale": [
+                50.0f,
+                50.0f,
+                50.0f
+            ],
+            "OrthoX": 0.5f,
+            "Translate": [
+                0.0f,
+                230.0f,
+                0.0f
+            ]
+        }
+    ],
+    "Global": 0b
+}

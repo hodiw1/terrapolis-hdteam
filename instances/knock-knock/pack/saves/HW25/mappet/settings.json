@@ -1,0 +1,423 @@
+{
+    "Triggers": {
+        "player_item_toss": {
+            "Blocks": [
+                {
+                    "Script": "items.js",
+                    "Function": "",
+                    "Type": "script",
+                    "CustomData": "",
+                    "Frequency": 1,
+                    "Inline": 0b,
+                    "Code": ""
+                }
+            ]
+        },
+        "entity_death": {
+            "Blocks": [
+            ]
+        },
+        "player_keyboard": {
+            "Blocks": [
+            ]
+        },
+        "player_journal": {
+            "Blocks": [
+            ]
+        },
+        "player_eat": {
+            "Blocks": [
+            ]
+        },
+        "player_mouse": {
+            "Blocks": [
+                {
+                    "Script": "player.js",
+                    "Function": "mouseUse",
+                    "Type": "script",
+                    "CustomData": "",
+                    "Frequency": 1,
+                    "Inline": 0b,
+                    "Code": ""
+                }
+            ]
+        },
+        "living_fall": {
+            "Blocks": [
+                {
+                    "Script": "items.js",
+                    "Function": "landing",
+                    "Type": "script",
+                    "CustomData": "",
+                    "Frequency": 1,
+                    "Inline": 0b,
+                    "Code": ""
+                }
+            ]
+        },
+        "player_tick": {
+            "Blocks": [
+                {
+                    "Script": "player.js",
+                    "Function": "tick",
+                    "Type": "script",
+                    "CustomData": "",
+                    "Frequency": 1,
+                    "Inline": 0b,
+                    "Code": ""
+                }
+            ]
+        },
+        "player_dimension_change": {
+            "Blocks": [
+            ]
+        },
+        "server_tick": {
+            "Blocks": [
+                {
+                    "Script": "game.js",
+                    "Function": "timer",
+                    "Type": "script",
+                    "CustomData": "",
+                    "Frequency": 20,
+                    "Inline": 0b,
+                    "Code": ""
+                },
+                {
+                    "Script": "serverTick.js",
+                    "Function": "ambientSnowParticle",
+                    "Type": "script",
+                    "CustomData": "",
+                    "Frequency": 100,
+                    "Inline": 0b,
+                    "Code": ""
+                },
+                {
+                    "Script": "serverTick.js",
+                    "Function": "oneSecond",
+                    "Type": "script",
+                    "CustomData": "",
+                    "Frequency": 20,
+                    "Inline": 0b,
+                    "Code": ""
+                },
+                {
+                    "Script": "serverTick.js",
+                    "Function": "ambientSounds",
+                    "Type": "script",
+                    "CustomData": "",
+                    "Frequency": 20,
+                    "Inline": 0b,
+                    "Code": ""
+                }
+            ]
+        },
+        "entity_damaged": {
+            "Blocks": [
+                {
+                    "Script": "player.js",
+                    "Function": "damageCancel",
+                    "Type": "script",
+                    "CustomData": "",
+                    "Frequency": 1,
+                    "Inline": 0b,
+                    "Code": ""
+                }
+            ]
+        },
+        "player_lmb": {
+            "Blocks": [
+            ]
+        },
+        "block_click": {
+            "Blocks": [
+            ]
+        },
+        "block_interact": {
+            "Blocks": [
+                {
+                    "Script": "player.js",
+                    "Function": "interact",
+                    "Type": "script",
+                    "CustomData": "",
+                    "Frequency": 2,
+                    "Inline": 0b,
+                    "Code": ""
+                }
+            ]
+        },
+        "player_open_gui": {
+            "Blocks": [
+                {
+                    "Script": "player.js",
+                    "Function": "openContainer",
+                    "Type": "script",
+                    "CustomData": "",
+                    "Frequency": 1,
+                    "Inline": 0b,
+                    "Code": ""
+                }
+            ]
+        },
+        "player_logout": {
+            "Blocks": [
+                {
+                    "Script": "player.js",
+                    "Function": "leave",
+                    "Type": "script",
+                    "CustomData": "",
+                    "Frequency": 1,
+                    "Inline": 0b,
+                    "Code": ""
+                }
+            ]
+        },
+        "player_rmb": {
+            "Blocks": [
+            ]
+        },
+        "living_jump": {
+            "Blocks": [
+                {
+                    "Script": "player.js",
+                    "Function": "jumpBoostBan",
+                    "Type": "script",
+                    "CustomData": "",
+                    "Frequency": 1,
+                    "Inline": 0b,
+                    "Code": ""
+                }
+            ]
+        },
+        "player_chat": {
+            "Blocks": [
+                {
+                    "Script": "player.js",
+                    "Function": "sendInChat",
+                    "Type": "script",
+                    "CustomData": "",
+                    "Frequency": 1,
+                    "Inline": 0b,
+                    "Code": ""
+                }
+            ]
+        },
+        "player_death": {
+            "Blocks": [
+            ]
+        },
+        "player_close_gui": {
+            "Blocks": [
+            ]
+        },
+        "player_open_container": {
+            "Blocks": [
+            ]
+        },
+        "player_close_container": {
+            "Blocks": [
+            ]
+        },
+        "state_changed": {
+            "Blocks": [
+            ]
+        },
+        "server_load": {
+            "Blocks": [
+            ]
+        },
+        "player_respawn": {
+            "Blocks": [
+            ]
+        },
+        "block_place": {
+            "Blocks": [
+            ]
+        },
+        "player_drink": {
+            "Blocks": [
+            ]
+        },
+        "living_knockback": {
+            "Blocks": [
+            ]
+        },
+        "entity_attacked": {
+            "Blocks": [
+            ]
+        },
+        "player_walking": {
+            "Blocks": [
+            ]
+        },
+        "living_equipment_change": {
+            "Blocks": [
+                {
+                    "Script": "items.js",
+                    "Function": "equipmentChange",
+                    "Type": "script",
+                    "CustomData": "",
+                    "Frequency": 1,
+                    "Inline": 0b,
+                    "Code": ""
+                }
+            ]
+        },
+        "player_login": {
+            "Blocks": [
+                {
+                    "Script": "player.js",
+                    "Function": "join",
+                    "Type": "script",
+                    "CustomData": "",
+                    "Frequency": 1,
+                    "Inline": 0b,
+                    "Code": ""
+                }
+            ]
+        },
+        "player_item_interact": {
+            "Blocks": [
+            ]
+        },
+        "projectile_impact": {
+            "Blocks": [
+                {
+                    "Script": "player.js",
+                    "Function": "hit",
+                    "Type": "script",
+                    "CustomData": "",
+                    "Frequency": 1,
+                    "Inline": 0b,
+                    "Code": ""
+                }
+            ]
+        },
+        "block_break": {
+            "Blocks": [
+                {
+                    "Script": "!dev_Tools.js",
+                    "Function": "blockBroken",
+                    "Type": "script",
+                    "CustomData": "",
+                    "Frequency": 1,
+                    "Inline": 0b,
+                    "Code": ""
+                }
+            ]
+        },
+        "player_entity_interact": {
+            "Blocks": [
+                {
+                    "Script": "player.js",
+                    "Function": "EntityInteract",
+                    "Type": "script",
+                    "CustomData": "",
+                    "Frequency": 1,
+                    "Inline": 0b,
+                    "Code": ""
+                }
+            ]
+        },
+        "player_entity_leash": {
+            "Blocks": [
+            ]
+        },
+        "player_item_pickup": {
+            "Blocks": [
+            ]
+        }
+    },
+    "Hotkeys": {
+        "Hotkeys": [
+            {
+                "Trigger": {
+                    "Blocks": [
+                        {
+                            "Script": "hud_info.js",
+                            "Function": "",
+                            "Type": "script",
+                            "CustomData": "",
+                            "Frequency": 1,
+                            "Inline": 0b,
+                            "Code": ""
+                        }
+                    ]
+                },
+                "Toggle": 0b,
+                "Keycode": 35,
+                "Enabled": {
+                    "Condition": {
+                    },
+                    "Mode": 1
+                }
+            },
+            {
+                "Trigger": {
+                    "Blocks": [
+                        {
+                            "Script": "hud_info.js",
+                            "Function": "",
+                            "Type": "script",
+                            "CustomData": "",
+                            "Frequency": 1,
+                            "Inline": 0b,
+                            "Code": ""
+                        }
+                    ]
+                },
+                "Toggle": 1b,
+                "Keycode": 19,
+                "Enabled": {
+                    "Condition": {
+                    },
+                    "Mode": 1
+                }
+            },
+            {
+                "Trigger": {
+                    "Blocks": [
+                        {
+                            "Script": "!dev_ui_admin.js",
+                            "Function": "",
+                            "Type": "script",
+                            "CustomData": "",
+                            "Frequency": 1,
+                            "Inline": 0b,
+                            "Code": ""
+                        }
+                    ]
+                },
+                "Toggle": 0b,
+                "Keycode": 82,
+                "Enabled": {
+                    "Condition": {
+                    },
+                    "Mode": 1
+                }
+            },
+            {
+                "Trigger": {
+                    "Blocks": [
+                        {
+                            "Script": "ui_menu.js",
+                            "Function": "",
+                            "Type": "script",
+                            "CustomData": "",
+                            "Frequency": 1,
+                            "Inline": 0b,
+                            "Code": ""
+                        }
+                    ]
+                },
+                "Toggle": 0b,
+                "Keycode": 15,
+                "Enabled": {
+                    "Condition": {
+                    },
+                    "Mode": 1
+                }
+            }
+        ]
+    }
+}

@@ -1,0 +1,237 @@
+{
+    "States": {
+        "default": {
+            "RespawnSaveUUID": 0,
+            "TriggerRespawn": {
+                "Blocks": [
+                ]
+            },
+            "TriggerTick": {
+                "Blocks": [
+                ]
+            },
+            "StateName": "default",
+            "TriggerInitialize": {
+                "Blocks": [
+                    {
+                        "Script": "",
+                        "Function": "",
+                        "Type": "script",
+                        "CustomData": "",
+                        "Frequency": 1,
+                        "Inline": 1b,
+                        "Code": "c.getSubject().setAIEnabled(false)"
+                    }
+                ]
+            },
+            "Killable": 0,
+            "CanFallDamage": 0,
+            "States": {
+            },
+            "PathDistance": 32.0f,
+            "Follow": "",
+            "Xp": 0,
+            "Morph": {
+                "Skin": "b.a:empty/skins/texture.png",
+                "Scale": 0.75f,
+                "CustomPose": {
+                    "Size": [
+                        1.0f,
+                        1.0f,
+                        1.0f
+                    ],
+                    "Poses": {
+                        "cube": {
+                            "P": [
+                                0.0f,
+                                5.25f,
+                                -5.8f
+                            ],
+                            "R": [
+                                60.0f,
+                                0.0f,
+                                0.0f
+                            ]
+                        }
+                    }
+                },
+                "BodyParts": [
+                    {
+                        "Limb": "cube",
+                        "Morph": {
+                            "Hitbox": {
+                                "Eye": 0.9f,
+                                "Sneak": 1.65f,
+                                "Enabled": 1b,
+                                "Height": 0.2f
+                            },
+                            "List": [
+                                {
+                                    "Random": 0.0f,
+                                    "SetDuration": 0b,
+                                    "Morph": {
+                                        "Pose": {
+                                            "Pose": {
+                                                "bone": {
+                                                },
+                                                "glow": {
+                                                    "C": -16732160,
+                                                    "G": 1.0f
+                                                }
+                                            }
+                                        },
+                                        "Transition": {
+                                            "Interp": 18,
+                                            "Animates": 1b
+                                        },
+                                        "Skin": "c.s:hw_doska/skins/doska_geo.png",
+                                        "Name": "chameleon.hw_doska",
+                                        "ForcedSettings": 0b
+                                    },
+                                    "Duration": 60.0f,
+                                    "EndPoint": 0b
+                                },
+                                {
+                                    "Random": 0.0f,
+                                    "SetDuration": 0b,
+                                    "Morph": {
+                                        "Pose": {
+                                            "Pose": {
+                                                "bone": {
+                                                },
+                                                "glow": {
+                                                }
+                                            }
+                                        },
+                                        "Transition": {
+                                            "Interp": 21,
+                                            "Animates": 1b
+                                        },
+                                        "Skin": "c.s:hw_doska/skins/doska_geo.png",
+                                        "Name": "chameleon.hw_doska",
+                                        "ForcedSettings": 0b
+                                    },
+                                    "Duration": 20.0f,
+                                    "EndPoint": 1b
+                                }
+                            ],
+                            "Name": "sequencer",
+                            "ForcedSettings": 0b,
+                            "Offset": [
+                                0.0f,
+                                0.0f,
+                                0.0f
+                            ]
+                        }
+                    },
+                    {
+                        "R": [
+                            100.0f,
+                            0.0f,
+                            0.0f
+                        ],
+                        "S": [
+                            0.75f,
+                            0.75f,
+                            0.75f
+                        ],
+                        "T": [
+                            0.0f,
+                            -0.2f,
+                            0.0f
+                        ],
+                        "Limb": "cube",
+                        "Morph": {
+                            "Lighting": 0b,
+                            "Color": 4521780,
+                            "Label": "Настройки",
+                            "Name": "label",
+                            "ForcedSettings": 0b
+                        }
+                    }
+                ],
+                "Name": "blockbuster.empty",
+                "ForcedSettings": 0b
+            },
+            "FlightMinHeight": 4.0d,
+            "CanBeSteered": 0,
+            "Damage": 2.0f,
+            "FlightMaxHeight": 6.0d,
+            "ShadowSize": 0.6f,
+            "JumpPower": 0.6f,
+            "TriggerInteract": {
+                "Blocks": [
+                    {
+                        "Script": "ui_settings.js",
+                        "Function": "",
+                        "Type": "script",
+                        "CustomData": "",
+                        "Frequency": 1,
+                        "Inline": 0b,
+                        "Code": ""
+                    }
+                ]
+            },
+            "CanSwim": 1,
+            "Flee": 4.0f,
+            "LookAtPlayer": 0,
+            "Respawn": 0,
+            "Immovable": 1,
+            "MaxHealth": 20.0f,
+            "TriggerDamaged": {
+                "Blocks": [
+                ]
+            },
+            "PatrolTriggers": [
+            ],
+            "CanRanged": 0,
+            "Drops": [
+            ],
+            "Fallback": 15.0f,
+            "CanPickUpLoot": 0,
+            "Unique": 0,
+            "Id": "start",
+            "AlwaysWander": 0,
+            "SteeringOffsets": [
+            ],
+            "PatrolCirculate": 0,
+            "DamageDelay": 10,
+            "TriggerEntityCollision": {
+                "Blocks": [
+                ]
+            },
+            "CanGetBurned": 0,
+            "Wander": 0,
+            "RespawnOnCoordinates": 0,
+            "LookAround": 0,
+            "RespawnPosY": 0.0d,
+            "RespawnDelay": 0,
+            "RespawnPosX": 0.0d,
+            "SightDistance": 25.0f,
+            "RespawnPosZ": 0.0d,
+            "Invincible": 1,
+            "TriggerDied": {
+                "Blocks": [
+                ]
+            },
+            "Faction": "",
+            "Speed": 3.0f,
+            "SightRadius": 120.0f,
+            "Health": 20.0f,
+            "Post": [
+            ],
+            "RegenDelay": 80,
+            "TriggerTarget": {
+                "Blocks": [
+                ]
+            },
+            "HasNoGravity": 0,
+            "RegenFrequency": 20,
+            "HasPost": 0,
+            "CanFly": 0,
+            "Patrol": [
+            ],
+            "PostRadius": 1.0f
+        }
+    }
+}

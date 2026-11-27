@@ -1,0 +1,127 @@
+{
+    "Hide": 0b,
+    "Fov": 70.0f,
+    "Morphs": [
+        {
+            "Expire": 0,
+            "Ortho": 1b,
+            "OrthoY": 0.0f,
+            "Scale": [
+                80.0f,
+                80.0f,
+                80.0f
+            ],
+            "OrthoX": 1.0f,
+            "Translate": [
+                -180.0f,
+                150.0f,
+                0.0f
+            ]
+        },
+        {
+            "Expire": 0,
+            "Ortho": 1b,
+            "OrthoY": 0.0f,
+            "Scale": [
+                60.0f,
+                60.0f,
+                60.0f
+            ],
+            "OrthoX": 1.0f,
+            "Translate": [
+                -84.0f,
+                148.0f,
+                0.0f
+            ]
+        },
+        {
+            "Expire": 0,
+            "Ortho": 1b,
+            "OrthoY": 0.0f,
+            "Scale": [
+                60.0f,
+                60.0f,
+                60.0f
+            ],
+            "OrthoX": 1.0f,
+            "Translate": [
+                -180.0f,
+                125.0f,
+                0.0f
+            ]
+        },
+        {
+            "Expire": 0,
+            "Ortho": 1b,
+            "OrthoY": 0.0f,
+            "Scale": [
+                40.0f,
+                40.0f,
+                40.0f
+            ],
+            "OrthoX": 1.0f,
+            "Translate": [
+                -180.0f,
+                115.0f,
+                0.0f
+            ]
+        },
+        {
+            "Expire": 0,
+            "Ortho": 1b,
+            "OrthoY": 0.0f,
+            "Scale": [
+                60.0f,
+                60.0f,
+                60.0f
+            ],
+            "OrthoX": 1.0f,
+            "Translate": [
+                -180.0f,
+                75.0f,
+                0.0f
+            ]
+        },
+        {
+            "Expire": 0,
+            "Ortho": 1b,
+            "OrthoY": 0.0f,
+            "Scale": [
+                40.0f,
+                40.0f,
+                40.0f
+            ],
+            "OrthoX": 1.0f,
+            "Translate": [
+                -180.0f,
+                65.0f,
+                0.0f
+            ]
+        },
+        {
+            "Expire": 0,
+            "Ortho": 1b,
+            "Morph": {
+                "Color": 11316396,
+                "Label": "\\[[lH[r] Скрыть",
+                "Shadow": 1b,
+                "AnchorX": 0.0f,
+                "Name": "label",
+                "ForcedSettings": 0b
+            },
+            "OrthoY": 0.0f,
+            "Scale": [
+                60.0f,
+                60.0f,
+                60.0f
+            ],
+            "OrthoX": 1.0f,
+            "Translate": [
+                -90.0f,
+                23.34375f,
+                0.0f
+            ]
+        }
+    ],
+    "Global": 0b
+}

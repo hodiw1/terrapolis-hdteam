@@ -10,6 +10,24 @@
           "description": "Офіційна збірка Fazcraft Reborned. Рекомендовано 4–6 ГБ ОЗУ.",
           "sizeMb": 436,
           "manifest_url": "https://raw.githubusercontent.com/hodiw1/terrapolis-hdteam/main/instances/fazcraft/manifest.json"
+        },
+        {
+          "id": "debthunt",
+          "name": "DebtHunt",
+          "mc": "1.12.2",
+          "loader": "Forge 14.23.5.2860",
+          "description": "Збірка DebtHunt (Minecraft 1.12.2, Forge). Рекомендовано 4 ГБ ОЗУ.",
+          "sizeMb": 44,
+          "manifest_url": "https://raw.githubusercontent.com/hodiw1/terrapolis-hdteam/main/instances/debthunt/manifest.json"
+        },
+        {
+          "id": "knock-knock",
+          "name": "Knock Knock",
+          "mc": "1.12.2",
+          "loader": "Forge 14.23.5.2860",
+          "description": "Збірка Knock Knock v0.1c зі стартовим світом HW25 (Minecraft 1.12.2, Forge). Рекомендовано 4 ГБ ОЗУ.",
+          "sizeMb": 40,
+          "manifest_url": "https://raw.githubusercontent.com/hodiw1/terrapolis-hdteam/main/instances/knock-knock/manifest.json"
         }
       ]
     }

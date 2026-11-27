@@ -1,0 +1,130 @@
+{
+    "States": {
+        "default": {
+            "RespawnSaveUUID": 1,
+            "TriggerRespawn": {
+                "Blocks": [
+                ]
+            },
+            "TriggerTick": {
+                "Blocks": [
+                ]
+            },
+            "StateName": "",
+            "TriggerInitialize": {
+                "Blocks": [
+                ]
+            },
+            "Killable": 0,
+            "CanFallDamage": 0,
+            "States": {
+            },
+            "PathDistance": 0.0f,
+            "Follow": "",
+            "Xp": 0,
+            "Morph": {
+                "Hitbox": {
+                    "Eye": 0.4f,
+                    "Sneak": 0.4f,
+                    "Enabled": 1b,
+                    "Height": 0.4f,
+                    "Width": 0.4f
+                },
+                "Skin": "b.a:empty/skins/texture.png",
+                "Settings": {
+                    "Hands": 0b,
+                    "Speed": 0.0f,
+                    "Action": "null",
+                    "ShadowOption": 0,
+                    "Abilities": [
+                    ],
+                    "Updates": 1b,
+                    "HP": 1,
+                    "Attack": "null",
+                    "Hostile": 1b
+                },
+                "Name": "blockbuster.empty",
+                "ForcedSettings": 1b
+            },
+            "FlightMinHeight": 0.0d,
+            "CanBeSteered": 0,
+            "Damage": 0.0f,
+            "FlightMaxHeight": 0.0d,
+            "ShadowSize": 0.0f,
+            "JumpPower": 0.0f,
+            "TriggerInteract": {
+                "Blocks": [
+                    {
+                        "Script": "items.js",
+                        "Function": "interact",
+                        "Type": "script",
+                        "CustomData": "",
+                        "Frequency": 1,
+                        "Inline": 0b,
+                        "Code": ""
+                    }
+                ]
+            },
+            "CanSwim": 0,
+            "Flee": 4.0f,
+            "LookAtPlayer": 0,
+            "Respawn": 1,
+            "Immovable": 1,
+            "MaxHealth": 0.0f,
+            "TriggerDamaged": {
+                "Blocks": [
+                ]
+            },
+            "PatrolTriggers": [
+            ],
+            "CanRanged": 0,
+            "Drops": [
+            ],
+            "Fallback": 0.0f,
+            "CanPickUpLoot": 0,
+            "Unique": 0,
+            "Id": "",
+            "AlwaysWander": 0,
+            "SteeringOffsets": [
+            ],
+            "PatrolCirculate": 0,
+            "DamageDelay": 0,
+            "TriggerEntityCollision": {
+                "Blocks": [
+                ]
+            },
+            "CanGetBurned": 0,
+            "Wander": 0,
+            "RespawnOnCoordinates": 1,
+            "LookAround": 0,
+            "RespawnPosY": 0.0d,
+            "RespawnDelay": 0,
+            "RespawnPosX": 0.0d,
+            "SightDistance": 25.0f,
+            "RespawnPosZ": 0.0d,
+            "Invincible": 1,
+            "TriggerDied": {
+                "Blocks": [
+                ]
+            },
+            "Faction": "",
+            "Speed": 0.0f,
+            "SightRadius": 120.0f,
+            "Health": 0.0f,
+            "Post": [
+            ],
+            "RegenDelay": 0,
+            "TriggerTarget": {
+                "Blocks": [
+                ]
+            },
+            "HasNoGravity": 0,
+            "RegenFrequency": 1,
+            "HasPost": 0,
+            "CanFly": 0,
+            "Patrol": [
+            ],
+            "PostRadius": 1.0f
+        }
+    }
+}

@@ -1,0 +1,34 @@
+{
+    "Hide": 0b,
+    "Fov": 70.0f,
+    "Morphs": [
+        {
+            "Expire": 0,
+            "Ortho": 0b,
+            "Morph": {
+                "Color": 0,
+                "Animation": {
+                    "Interp": 21,
+                    "Animates": 1b,
+                    "Duration": 8
+                },
+                "Texture": "b.a:trs/ui/white_square.png",
+                "Name": "blockbuster.image",
+                "ForcedSettings": 0b
+            },
+            "OrthoY": 0.5f,
+            "Scale": [
+                10.0f,
+                10.0f,
+                10.0f
+            ],
+            "OrthoX": 0.5f,
+            "Translate": [
+                0.0f,
+                1.0f,
+                0.0f
+            ]
+        }
+    ],
+    "Global": 0b
+}

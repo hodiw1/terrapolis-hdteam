@@ -1,0 +1,53 @@
+{
+    "Hide": 1b,
+    "Fov": 70.0f,
+    "Morphs": [
+        {
+            "Expire": 0,
+            "Ortho": 1b,
+            "Morph": {
+                "Lighting": 0b,
+                "Texture": "b.a:hw/ui_rbm.png",
+                "Name": "blockbuster.image",
+                "ForcedSettings": 0b
+            },
+            "OrthoY": 0.5f,
+            "Scale": [
+                20.0f,
+                20.0f,
+                20.0f
+            ],
+            "OrthoX": 0.5f,
+            "Translate": [
+                -35.0f,
+                -25.0f,
+                0.0f
+            ]
+        },
+        {
+            "Expire": 0,
+            "Ortho": 1b,
+            "Morph": {
+                "Color": 12566463,
+                "Label": "Описание",
+                "Shadow": 1b,
+                "AnchorX": 0.0f,
+                "Name": "label",
+                "ForcedSettings": 0b
+            },
+            "OrthoY": 0.5f,
+            "Scale": [
+                50.0f,
+                50.0f,
+                50.0f
+            ],
+            "OrthoX": 0.5f,
+            "Translate": [
+                -20.0f,
+                -25.0f,
+                0.0f
+            ]
+        }
+    ],
+    "Global": 0b
+}
