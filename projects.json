@@ -14,8 +14,11 @@
         {
           "id": "debthunt",
           "name": "DebtHunt",
+          "version": "1.0.2",
           "mc": "1.12.2",
           "loader": "Forge 14.23.5.2860",
+          "java": 8,
+          "ramMb": 4096,
           "description": "Збірка DebtHunt зі світом WINTER DebtHunt v0.5 (Minecraft 1.12.2, Forge). Рекомендовано 4 ГБ ОЗУ.",
           "sizeMb": 72,
           "manifest_url": "https://raw.githubusercontent.com/hodiw1/terrapolis-hdteam/main/instances/debthunt/manifest.json"
@@ -23,8 +26,11 @@
         {
           "id": "knock-knock",
           "name": "Knock Knock",
+          "version": "1.0.0",
           "mc": "1.12.2",
           "loader": "Forge 14.23.5.2860",
+          "java": 8,
+          "ramMb": 4096,
           "description": "Збірка Knock Knock v0.1c зі стартовим світом HW25 (Minecraft 1.12.2, Forge). Рекомендовано 4 ГБ ОЗУ.",
           "sizeMb": 40,
           "manifest_url": "https://raw.githubusercontent.com/hodiw1/terrapolis-hdteam/main/instances/knock-knock/manifest.json"
