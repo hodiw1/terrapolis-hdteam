@@ -1,0 +1,6 @@
+[2024_12_29 21:51:28] [ERROR] TypeError: _0x523047.getStates is not a function in game.js at line number 1513
+[2024_12_29 21:51:28] [ERROR] TypeError: _0x523047.getStates is not a function in game.js (in game.js) at line number 370 in game.js at line number 370
+[2024_12_29 21:52:19] [DEBUG] 17
+[2024_12_29 22:05:38] [ERROR] ReferenceError: "s" is not defined in test.js at line number 8
+[2024_12_29 22:05:38] [ERROR] ReferenceError: "s" is not defined in test.js at line number 8
+[2024_12_29 22:06:52] [DEBUG] 17

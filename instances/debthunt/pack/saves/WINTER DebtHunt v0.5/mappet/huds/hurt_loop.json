@@ -1,0 +1,65 @@
+{
+    "Hide": 0b,
+    "Fov": 70.0f,
+    "Morphs": [
+        {
+            "Expire": 0,
+            "Ortho": 1b,
+            "Morph": {
+                "List": [
+                    {
+                        "Random": 0.0f,
+                        "SetDuration": 0b,
+                        "Morph": {
+                            "Color": 11337728,
+                            "Animation": {
+                                "Interp": 21,
+                                "Animates": 1b,
+                                "Duration": 35
+                            },
+                            "Texture": "b.a:hunt/images/hud_vignette.png",
+                            "Name": "blockbuster.image"
+                        },
+                        "Duration": 35.0f,
+                        "EndPoint": 0b
+                    },
+                    {
+                        "Random": 0.0f,
+                        "SetDuration": 0b,
+                        "Morph": {
+                            "Color": 1605173248,
+                            "Animation": {
+                                "Interp": 11,
+                                "Animates": 1b,
+                                "Duration": 35
+                            },
+                            "Texture": "b.a:hunt/images/hud_vignette.png",
+                            "Name": "blockbuster.image"
+                        },
+                        "Duration": 35.0f,
+                        "EndPoint": 0b
+                    }
+                ],
+                "Name": "sequencer",
+                "Offset": [
+                    0.0f,
+                    0.0f,
+                    0.0f
+                ]
+            },
+            "OrthoY": 0.5f,
+            "Scale": [
+                960.0f,
+                960.0f,
+                960.0f
+            ],
+            "OrthoX": 0.5f,
+            "Translate": [
+                0.0f,
+                0.0f,
+                -20.0f
+            ]
+        }
+    ],
+    "Global": 0b
+}

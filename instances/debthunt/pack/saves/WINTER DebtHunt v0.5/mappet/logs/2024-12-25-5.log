@@ -1,0 +1,28 @@
+[2024_12_25 17:09:52] [ERROR] test.js:5:4 Expected ident but found =
+var = skinhead {
+    ^ in test.js at line number 5 at column number 4
+[2024_12_25 17:09:57] [ERROR] test.js:5:4 Expected ident but found =
+var = skinhead {
+    ^ in test.js at line number 5 at column number 4
+[2024_12_25 17:10:15] [ERROR] ReferenceError: "s" is not defined in test.js at line number 11
+[2024_12_25 17:10:15] [ERROR] ReferenceError: "s" is not defined in test.js at line number 11
+[2024_12_25 17:10:31] [ERROR] ReferenceError: "list" is not defined in test.js at line number 12
+[2024_12_25 17:10:31] [ERROR] ReferenceError: "list" is not defined in test.js at line number 12
+[2024_12_25 17:10:59] [ERROR] test.js:8:4 Expected comma but found ident
+    y: 1
+    ^ in test.js at line number 8 at column number 4
+[2024_12_25 17:11:16] [ERROR] test.js:8:4 Expected comma but found ident
+    y: 1.
+    ^ in test.js at line number 8 at column number 4
+[2024_12_25 17:11:39] [ERROR] test.js:8:4 Expected comma but found ident
+    y: 1
+    ^ in test.js at line number 8 at column number 4
+[2024_12_25 17:11:43] [ERROR] test.js:9:4 Expected comma but found ident
+    z: 1
+    ^ in test.js at line number 9 at column number 4
+[2024_12_25 17:12:15] [ERROR] test.js:8:4 Expected comma but found ident
+    y: 1.1
+    ^ in test.js at line number 8 at column number 4
+[2024_12_25 17:12:33] [ERROR] test.js:8:4 Expected comma but found ident
+    y: "1.1"
+    ^ in test.js at line number 8 at column number 4

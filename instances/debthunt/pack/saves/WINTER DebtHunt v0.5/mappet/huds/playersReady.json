@@ -1,0 +1,156 @@
+{
+    "Hide": 1b,
+    "Fov": 70.0f,
+    "Morphs": [
+        {
+            "Expire": 0,
+            "Ortho": 1b,
+            "Morph": {
+                "Skin": "b.a:empty/skins/texture.png",
+                "BodyParts": [
+                    {
+                        "T": [
+                            -1.0f,
+                            0.0f,
+                            0.0f
+                        ],
+                        "Limb": "cube",
+                        "Morph": {
+                            "List": [
+                                {
+                                    "Random": 0.0f,
+                                    "SetDuration": 0b,
+                                    "Morph": {
+                                        "Background": -1728053248,
+                                        "Label": "Ожидание игроков[8...",
+                                        "AnchorX": 0.0f,
+                                        "Name": "label"
+                                    },
+                                    "Duration": 5.0f,
+                                    "EndPoint": 0b
+                                },
+                                {
+                                    "Random": 0.0f,
+                                    "SetDuration": 0b,
+                                    "Morph": {
+                                        "Background": -1728053248,
+                                        "Label": "Ожидание игроков.[8..",
+                                        "AnchorX": 0.0f,
+                                        "Name": "label"
+                                    },
+                                    "Duration": 5.0f,
+                                    "EndPoint": 0b
+                                },
+                                {
+                                    "Random": 0.0f,
+                                    "SetDuration": 0b,
+                                    "Morph": {
+                                        "Background": -1728053248,
+                                        "Label": "Ожидание игроков..[8.",
+                                        "AnchorX": 0.0f,
+                                        "Name": "label"
+                                    },
+                                    "Duration": 5.0f,
+                                    "EndPoint": 0b
+                                },
+                                {
+                                    "Random": 0.0f,
+                                    "SetDuration": 0b,
+                                    "Morph": {
+                                        "Background": -1728053248,
+                                        "Label": "Ожидание игроков...",
+                                        "AnchorX": 0.0f,
+                                        "Name": "label"
+                                    },
+                                    "Duration": 5.0f,
+                                    "EndPoint": 0b
+                                },
+                                {
+                                    "Random": 0.0f,
+                                    "SetDuration": 0b,
+                                    "Morph": {
+                                        "Background": -1728053248,
+                                        "Label": "Ожидание игроков[8.[f..",
+                                        "AnchorX": 0.0f,
+                                        "Name": "label"
+                                    },
+                                    "Duration": 5.0f,
+                                    "EndPoint": 0b
+                                },
+                                {
+                                    "Random": 0.0f,
+                                    "SetDuration": 0b,
+                                    "Morph": {
+                                        "Background": -1728053248,
+                                        "Label": "Ожидание игроков[8..[f.",
+                                        "AnchorX": 0.0f,
+                                        "Name": "label"
+                                    },
+                                    "Duration": 5.0f,
+                                    "EndPoint": 0b
+                                }
+                            ],
+                            "Name": "sequencer",
+                            "Offset": [
+                                0.0f,
+                                0.0f,
+                                0.0f
+                            ]
+                        }
+                    },
+                    {
+                        "T": [
+                            0.0f,
+                            0.3125f,
+                            0.0f
+                        ],
+                        "Limb": "cube",
+                        "Morph": {
+                            "Background": -1728053248,
+                            "Label": "[e0 [7/ 0",
+                            "Name": "label"
+                        }
+                    }
+                ],
+                "Settings": {
+                    "Hands": 1b
+                },
+                "Name": "blockbuster.empty"
+            },
+            "OrthoY": 0.45f,
+            "Scale": [
+                55.0f,
+                50.0f,
+                0.0f
+            ],
+            "OrthoX": 0.5f,
+            "Translate": [
+                0.0f,
+                0.0f,
+                0.05f
+            ]
+        },
+        {
+            "Expire": 0,
+            "Ortho": 1b,
+            "Morph": {
+                "Background": 822083584,
+                "Label": "\\[[aY[f] / \\[[cN[f]",
+                "Name": "label"
+            },
+            "OrthoY": 0.45f,
+            "Scale": [
+                55.0f,
+                50.0f,
+                0.0f
+            ],
+            "OrthoX": 0.5f,
+            "Translate": [
+                0.0f,
+                -50.0f,
+                -0.1f
+            ]
+        }
+    ],
+    "Global": 0b
+}

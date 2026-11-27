@@ -1,0 +1,3 @@
+[2024_12_25 16:17:22] [ERROR] SyntaxError: Invalid JSON: <json>:1:0 Expected json literal but found eof
+
+^ in playerTick.js at line number 1346

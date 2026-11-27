@@ -1,0 +1,418 @@
+{
+    "States": {
+        "default": {
+            "RespawnSaveUUID": 1,
+            "TriggerRespawn": {
+                "Blocks": [
+                ]
+            },
+            "DamageDelay": 20,
+            "TriggerTick": {
+                "Blocks": [
+                    {
+                        "Script": "wolfAI.js",
+                        "Function": "tick",
+                        "Type": "script",
+                        "CustomData": "",
+                        "Frequency": 1,
+                        "Inline": 0b,
+                        "Code": ""
+                    },
+                    {
+                        "Script": "wolfAI.js",
+                        "Function": "unstuckCheck",
+                        "Type": "script",
+                        "CustomData": "",
+                        "Frequency": 10,
+                        "Inline": 0b,
+                        "Code": ""
+                    }
+                ]
+            },
+            "TriggerEntityCollision": {
+                "Blocks": [
+                ]
+            },
+            "StateName": "default",
+            "TriggerInitialize": {
+                "Blocks": [
+                    {
+                        "Script": "wolfAI.js",
+                        "Function": "init",
+                        "Type": "script",
+                        "CustomData": "",
+                        "Frequency": 1,
+                        "Inline": 0b,
+                        "Code": ""
+                    }
+                ]
+            },
+            "Killable": 0,
+            "CanGetBurned": 0,
+            "CanFallDamage": 0,
+            "States": {
+                "phase": "spectating",
+                "sprintPos": "{\"x\":0,\"y\":0,\"z\":0}",
+                "hp": 7.0d
+            },
+            "PathDistance": 128.0f,
+            "RespawnDelay": 19,
+            "Invincible": 1,
+            "TriggerDied": {
+                "Blocks": [
+                ]
+            },
+            "Morph": {
+                "Actions": {
+                    "running": "running_stealth",
+                    "idle": "sitting"
+                },
+                "Pose": {
+                    "Pose": {
+                        "right_thumb2": {
+                        },
+                        "right_thumb1": {
+                        },
+                        "front_fur_chest": {
+                        },
+                        "right_index1": {
+                        },
+                        "right_index2": {
+                        },
+                        "right_foot_index": {
+                        },
+                        "body": {
+                        },
+                        "right_leg": {
+                        },
+                        "left_foot_middle": {
+                        },
+                        "model": {
+                        },
+                        "right_middle1": {
+                        },
+                        "right_middle2": {
+                        },
+                        "left_foot_ring": {
+                        },
+                        "back_fur_middle": {
+                        },
+                        "jaw": {
+                        },
+                        "left_leg": {
+                        },
+                        "left_shin2": {
+                        },
+                        "eye": {
+                            "G": 1.0f
+                        },
+                        "left_palm": {
+                        },
+                        "right_shin1": {
+                        },
+                        "right_shin2": {
+                        },
+                        "right_palm": {
+                        },
+                        "left_thumb2": {
+                        },
+                        "right_forearm": {
+                        },
+                        "left_index2": {
+                        },
+                        "right_arm": {
+                        },
+                        "left_thumb1": {
+                        },
+                        "left_index1": {
+                        },
+                        "left_ring2": {
+                        },
+                        "head": {
+                        },
+                        "left_ring1": {
+                        },
+                        "left_arm": {
+                        },
+                        "back_fur_right": {
+                        },
+                        "left_shin1": {
+                        },
+                        "right_foot_middle": {
+                        },
+                        "left_middle2": {
+                        },
+                        "left_middle1": {
+                        },
+                        "torso": {
+                        },
+                        "tail": {
+                        },
+                        "left_foot_index": {
+                        },
+                        "left_foot": {
+                        },
+                        "neck": {
+                        },
+                        "right_foot_ring": {
+                        },
+                        "tail2": {
+                        },
+                        "right_foot": {
+                        },
+                        "tail3": {
+                        },
+                        "left_forearm": {
+                        },
+                        "ear_r": {
+                        },
+                        "tail4": {
+                        },
+                        "back_fur_left": {
+                        },
+                        "right_ring1": {
+                        },
+                        "right_ring2": {
+                        }
+                    }
+                },
+                "Skin": "c.s:volchek/skins/volchek.png",
+                "Settings": {
+                    "Abilities": [
+                        "step_up"
+                    ]
+                },
+                "Name": "chameleon.volchek"
+            },
+            "FlightMinHeight": 0.0d,
+            "Damage": 0.0f,
+            "FlightMaxHeight": 0.0d,
+            "ShadowSize": 0.0f,
+            "Speed": 2.0f,
+            "JumpPower": 0.0f,
+            "TriggerInteract": {
+                "Blocks": [
+                ]
+            },
+            "Health": 0.0f,
+            "CanSwim": 0,
+            "Post": [
+            ],
+            "LookAtPlayer": 1,
+            "MaxHealth": 0.0f,
+            "TriggerDamaged": {
+                "Blocks": [
+                ]
+            },
+            "RegenDelay": 0,
+            "PatrolTriggers": [
+            ],
+            "TriggerTarget": {
+                "Blocks": [
+                ]
+            },
+            "Drops": [
+            ],
+            "Fallback": 30.0f,
+            "CanPickUpLoot": 1,
+            "Id": "wolf",
+            "RegenFrequency": 1,
+            "Patrol": [
+            ],
+            "SteeringOffsets": [
+            ]
+        },
+        "corpse": {
+            "RespawnSaveUUID": 1,
+            "TriggerRespawn": {
+                "Blocks": [
+                ]
+            },
+            "DamageDelay": 0,
+            "TriggerTick": {
+                "Blocks": [
+                ]
+            },
+            "TriggerEntityCollision": {
+                "Blocks": [
+                ]
+            },
+            "StateName": "default",
+            "TriggerInitialize": {
+                "Blocks": [
+                ]
+            },
+            "Killable": 0,
+            "CanGetBurned": 0,
+            "CanFallDamage": 0,
+            "States": {
+            },
+            "PathDistance": 0.0f,
+            "RespawnDelay": 20,
+            "Invincible": 1,
+            "TriggerDied": {
+                "Blocks": [
+                ]
+            },
+            "Morph": {
+                "Actions": {
+                    "running": "running_stealth",
+                    "idle": "death_idle"
+                },
+                "Pose": {
+                    "Pose": {
+                        "right_thumb2": {
+                        },
+                        "right_thumb1": {
+                        },
+                        "front_fur_chest": {
+                        },
+                        "right_index1": {
+                        },
+                        "right_index2": {
+                        },
+                        "right_foot_index": {
+                        },
+                        "body": {
+                        },
+                        "right_leg": {
+                        },
+                        "left_foot_middle": {
+                        },
+                        "model": {
+                        },
+                        "right_middle1": {
+                        },
+                        "right_middle2": {
+                        },
+                        "left_foot_ring": {
+                        },
+                        "back_fur_middle": {
+                        },
+                        "jaw": {
+                        },
+                        "left_leg": {
+                        },
+                        "left_shin2": {
+                        },
+                        "eye": {
+                            "G": 1.0f
+                        },
+                        "left_palm": {
+                        },
+                        "right_shin1": {
+                        },
+                        "right_shin2": {
+                        },
+                        "right_palm": {
+                        },
+                        "left_thumb2": {
+                        },
+                        "right_forearm": {
+                        },
+                        "left_index2": {
+                        },
+                        "right_arm": {
+                        },
+                        "left_thumb1": {
+                        },
+                        "left_index1": {
+                        },
+                        "left_ring2": {
+                        },
+                        "head": {
+                        },
+                        "left_ring1": {
+                        },
+                        "left_arm": {
+                        },
+                        "back_fur_right": {
+                        },
+                        "left_shin1": {
+                        },
+                        "right_foot_middle": {
+                        },
+                        "left_middle2": {
+                        },
+                        "left_middle1": {
+                        },
+                        "torso": {
+                        },
+                        "tail": {
+                        },
+                        "left_foot_index": {
+                        },
+                        "left_foot": {
+                        },
+                        "neck": {
+                        },
+                        "right_foot_ring": {
+                        },
+                        "tail2": {
+                        },
+                        "right_foot": {
+                        },
+                        "tail3": {
+                        },
+                        "left_forearm": {
+                        },
+                        "ear_r": {
+                        },
+                        "tail4": {
+                        },
+                        "back_fur_left": {
+                        },
+                        "right_ring1": {
+                        },
+                        "right_ring2": {
+                        }
+                    }
+                },
+                "Skin": "c.s:volchek/skins/volchek.png",
+                "Settings": {
+                    "Abilities": [
+                        "step_up"
+                    ]
+                },
+                "Name": "chameleon.volchek"
+            },
+            "FlightMinHeight": 0.0d,
+            "Damage": 0.0f,
+            "FlightMaxHeight": 0.0d,
+            "ShadowSize": 0.0f,
+            "Speed": 0.0f,
+            "JumpPower": 0.0f,
+            "TriggerInteract": {
+                "Blocks": [
+                ]
+            },
+            "Health": 0.0f,
+            "CanSwim": 0,
+            "Post": [
+            ],
+            "LookAtPlayer": 1,
+            "Immovable": 1,
+            "MaxHealth": 0.0f,
+            "TriggerDamaged": {
+                "Blocks": [
+                ]
+            },
+            "RegenDelay": 0,
+            "PatrolTriggers": [
+            ],
+            "TriggerTarget": {
+                "Blocks": [
+                ]
+            },
+            "Drops": [
+            ],
+            "Fallback": 0.0f,
+            "Id": "wolf",
+            "RegenFrequency": 1,
+            "Patrol": [
+            ],
+            "SteeringOffsets": [
+            ]
+        }
+    }
+}

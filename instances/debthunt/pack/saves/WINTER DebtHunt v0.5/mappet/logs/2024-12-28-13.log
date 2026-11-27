@@ -1,0 +1,7 @@
+[2024_12_28 23:49:17] [ERROR] No such function main
+[2024_12_28 23:49:38] [ERROR] TypeError: world.getMinecraftWorld is not a function in generation.js at line number 642
+[2024_12_28 23:49:38] [ERROR] TypeError: world.getMinecraftWorld is not a function in GameAllList.js (in generation.js) at line number 642 in GameAllList.js at line number 642
+[2024_12_28 23:50:35] [ERROR] TypeError: world.getMinecraftWorld is not a function in generation.js at line number 642
+[2024_12_28 23:50:35] [ERROR] TypeError: world.getMinecraftWorld is not a function in GameAllList.js (in generation.js) at line number 642 in GameAllList.js at line number 642
+[2024_12_28 23:51:44] [ERROR] TypeError: world.getMinecraftWorld is not a function in generation.js at line number 642
+[2024_12_28 23:51:44] [ERROR] TypeError: world.getMinecraftWorld is not a function in GameAllList.js (in generation.js) at line number 642 in GameAllList.js at line number 642

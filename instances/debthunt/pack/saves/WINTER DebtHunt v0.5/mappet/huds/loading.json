@@ -1,0 +1,101 @@
+{
+    "Hide": 0b,
+    "Fov": 70.0f,
+    "Morphs": [
+        {
+            "Expire": 0,
+            "Ortho": 1b,
+            "Morph": {
+                "Color": -16777216,
+                "Animation": {
+                    "Interp": 21
+                },
+                "Texture": "blockbuster:textures/gui/icon.png",
+                "Name": "blockbuster.image"
+            },
+            "OrthoY": 0.5f,
+            "Scale": [
+                2000.0f,
+                2000.0f,
+                2000.0f
+            ],
+            "OrthoX": 0.5f,
+            "Translate": [
+                0.0f,
+                0.0f,
+                50.0f
+            ]
+        },
+        {
+            "Expire": 0,
+            "Ortho": 1b,
+            "Morph": {
+                "List": [
+                    {
+                        "Random": 0.0f,
+                        "SetDuration": 0b,
+                        "Morph": {
+                            "Label": "Загрузка",
+                            "AnchorX": 0.0f,
+                            "Name": "label"
+                        },
+                        "Duration": 3.0f,
+                        "EndPoint": 0b
+                    },
+                    {
+                        "Random": 0.0f,
+                        "SetDuration": 0b,
+                        "Morph": {
+                            "Label": "Загрузка.",
+                            "AnchorX": 0.0f,
+                            "Name": "label"
+                        },
+                        "Duration": 5.0f,
+                        "EndPoint": 0b
+                    },
+                    {
+                        "Random": 0.0f,
+                        "SetDuration": 0b,
+                        "Morph": {
+                            "Label": "Загрузка..",
+                            "AnchorX": 0.0f,
+                            "Name": "label"
+                        },
+                        "Duration": 5.0f,
+                        "EndPoint": 0b
+                    },
+                    {
+                        "Random": 0.0f,
+                        "SetDuration": 0b,
+                        "Morph": {
+                            "Label": "Загрузка...",
+                            "AnchorX": 0.0f,
+                            "Name": "label"
+                        },
+                        "Duration": 5.0f,
+                        "EndPoint": 0b
+                    }
+                ],
+                "Name": "sequencer",
+                "Offset": [
+                    0.0f,
+                    0.0f,
+                    0.0f
+                ]
+            },
+            "OrthoY": 0.5f,
+            "Scale": [
+                50.0f,
+                50.0f,
+                50.0f
+            ],
+            "OrthoX": 0.5f,
+            "Translate": [
+                -25.0f,
+                -30.0f,
+                60.0f
+            ]
+        }
+    ],
+    "Global": 0b
+}

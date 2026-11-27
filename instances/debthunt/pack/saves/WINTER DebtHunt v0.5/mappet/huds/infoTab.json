@@ -1,0 +1,23 @@
+{
+    "Hide": 0b,
+    "Fov": 70.0f,
+    "Morphs": [
+        {
+            "Expire": 0,
+            "Ortho": 1b,
+            "Morph": {
+                "Max": 113,
+                "Label": "\\[[6Tab[r]                  Для кастомизации",
+                "Name": "label"
+            },
+            "OrthoY": 1.0f,
+            "Scale": [
+                185.0f,
+                184.75f,
+                184.75f
+            ],
+            "OrthoX": 0.0f
+        }
+    ],
+    "Global": 0b
+}

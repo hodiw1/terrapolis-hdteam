@@ -1,0 +1,65 @@
+{
+    "Hide": 0b,
+    "Fov": 70.0f,
+    "Morphs": [
+        {
+            "Expire": 0,
+            "Ortho": 1b,
+            "Morph": {
+                "Skin": "b.a:empty/skins/texture.png",
+                "BodyParts": [
+                    {
+                        "T": [
+                            0.0f,
+                            0.0f,
+                            -0.01f
+                        ],
+                        "Limb": "cube",
+                        "Morph": {
+                            "Right": 64,
+                            "Animation": {
+                                "Interp": 21,
+                                "Animates": 1b,
+                                "Duration": 2
+                            },
+                            "Texture": "b.a:hunt/images/ui_progressBar.png",
+                            "Shaded": 0b,
+                            "Name": "blockbuster.image"
+                        }
+                    },
+                    {
+                        "S": [
+                            1.02f,
+                            1.25f,
+                            1.0f
+                        ],
+                        "Animate": 0b,
+                        "Limb": "cube",
+                        "Morph": {
+                            "Color": -11184811,
+                            "Texture": "b.a:hunt/images/ui_progressBar.png",
+                            "Name": "blockbuster.image"
+                        }
+                    }
+                ],
+                "Settings": {
+                    "Hands": 1b
+                },
+                "Name": "blockbuster.empty"
+            },
+            "OrthoY": 0.45f,
+            "Scale": [
+                150.0f,
+                150.0f,
+                150.0f
+            ],
+            "OrthoX": 0.5f,
+            "Translate": [
+                0.0f,
+                0.0f,
+                1.0f
+            ]
+        }
+    ],
+    "Global": 0b
+}

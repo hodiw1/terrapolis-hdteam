@@ -1,0 +1,76 @@
+{
+    "Hide": 0b,
+    "Fov": 70.0f,
+    "Morphs": [
+        {
+            "Expire": 0,
+            "Ortho": 1b,
+            "Morph": {
+                "Loop": 1,
+                "List": [
+                    {
+                        "Random": 0.0f,
+                        "SetDuration": 0b,
+                        "Morph": {
+                            "Lighting": 0b,
+                            "Color": -3158065,
+                            "Pose": {
+                                "P": [
+                                    0.0f,
+                                    -0.01f,
+                                    0.0f
+                                ],
+                                "S": [
+                                    0.95f,
+                                    0.95f,
+                                    0.95f
+                                ]
+                            },
+                            "Animation": {
+                                "Interp": 27,
+                                "Animates": 1b,
+                                "Duration": 2
+                            },
+                            "Texture": "b.a:hunt/images/ui_button_space.png",
+                            "Shaded": 0b,
+                            "Name": "blockbuster.image"
+                        },
+                        "Duration": 0.0f,
+                        "EndPoint": 0b
+                    },
+                    {
+                        "Random": 0.0f,
+                        "SetDuration": 0b,
+                        "Morph": {
+                            "Lighting": 0b,
+                            "Animation": {
+                                "Interp": 27,
+                                "Animates": 1b,
+                                "Duration": 2
+                            },
+                            "Texture": "b.a:hunt/images/ui_button_space.png",
+                            "Shaded": 0b,
+                            "Name": "blockbuster.image"
+                        },
+                        "Duration": 2.0f,
+                        "EndPoint": 0b
+                    }
+                ],
+                "Name": "sequencer",
+                "Offset": [
+                    0.0f,
+                    0.0f,
+                    0.0f
+                ]
+            },
+            "OrthoY": 0.4f,
+            "Scale": [
+                70.0f,
+                70.0f,
+                70.0f
+            ],
+            "OrthoX": 0.5f
+        }
+    ],
+    "Global": 0b
+}

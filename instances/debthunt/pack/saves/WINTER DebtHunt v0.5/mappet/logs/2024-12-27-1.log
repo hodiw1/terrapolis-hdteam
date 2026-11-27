@@ -1,0 +1,74 @@
+[2024_12_26 21:34:20] [ERROR] SyntaxError: Invalid JSON: <json>:1:0 Expected json literal but found eof
+
+^ in playerTick.js at line number 1435
+[2024_12_26 21:34:50] [ERROR] SyntaxError: Invalid JSON: <json>:1:0 Expected json literal but found eof
+
+^ in playerTick.js at line number 1435
+[2024_12_26 21:35:07] [ERROR] SyntaxError: Invalid JSON: <json>:1:0 Expected json literal but found eof
+
+^ in playerTick.js at line number 1435
+[2024_12_26 21:35:55] [ERROR] SyntaxError: Invalid JSON: <json>:1:0 Expected json literal but found eof
+
+^ in skinhead.js at line number 12
+[2024_12_26 21:35:58] [ERROR] SyntaxError: Invalid JSON: <json>:1:0 Expected json literal but found eof
+
+^ in skinhead.js at line number 12
+[2024_12_26 21:48:37] [ERROR] SyntaxError: Invalid JSON: <json>:1:0 Expected json literal but found eof
+
+^ in playerTick.js at line number 1378
+[2024_12_26 21:48:38] [ERROR] SyntaxError: Invalid JSON: <json>:1:0 Expected json literal but found eof
+
+^ in playerTick.js at line number 1378
+[2024_12_26 21:50:33] [DEBUG] 17
+[2024_12_26 22:01:27] [DEBUG] 19
+[2024_12_26 22:07:33] [ERROR] SyntaxError: Invalid JSON: <json>:1:0 Expected json literal but found eof
+
+^ in playerTick.js at line number 1378
+[2024_12_26 22:09:30] [DEBUG] 21
+[2024_12_26 22:21:03] [DEBUG] 23
+[2024_12_26 22:25:28] [ERROR] TypeError: null has no such function "getEntityData" in beartrap.js at line number 411
+[2024_12_26 22:25:35] [ERROR] TypeError: null has no such function "getEntityData" in beartrap.js at line number 411
+[2024_12_26 22:25:38] [ERROR] TypeError: null has no such function "getEntityData" in beartrap.js at line number 411
+[2024_12_26 22:25:42] [ERROR] TypeError: null has no such function "getEntityData" in beartrap.js at line number 411
+[2024_12_26 22:25:47] [ERROR] TypeError: null has no such function "getEntityData" in beartrap.js at line number 411
+[2024_12_26 22:25:49] [ERROR] TypeError: null has no such function "getEntityData" in beartrap.js at line number 411
+[2024_12_26 22:26:05] [ERROR] TypeError: null has no such function "getEntityData" in beartrap.js at line number 411
+[2024_12_26 22:26:06] [ERROR] TypeError: null has no such function "getEntityData" in beartrap.js at line number 411
+[2024_12_26 22:26:11] [ERROR] TypeError: null has no such function "getEntityData" in beartrap.js at line number 411
+[2024_12_26 22:26:14] [ERROR] TypeError: null has no such function "getEntityData" in beartrap.js at line number 411
+[2024_12_26 22:26:19] [ERROR] TypeError: null has no such function "getEntityData" in beartrap.js at line number 411
+[2024_12_26 22:26:20] [ERROR] TypeError: null has no such function "getEntityData" in beartrap.js at line number 411
+[2024_12_26 22:26:34] [ERROR] TypeError: null has no such function "getEntityData" in beartrap.js at line number 411
+[2024_12_26 22:26:34] [ERROR] TypeError: null has no such function "getEntityData" in beartrap.js at line number 411
+[2024_12_26 22:26:38] [ERROR] TypeError: null has no such function "getEntityData" in beartrap.js at line number 411
+[2024_12_26 22:26:43] [ERROR] TypeError: null has no such function "getEntityData" in beartrap.js at line number 411
+[2024_12_26 22:26:52] [ERROR] TypeError: null has no such function "getEntityData" in beartrap.js at line number 411
+[2024_12_26 22:27:49] [ERROR] SyntaxError: Invalid JSON: <json>:1:0 Expected json literal but found eof
+
+^ in playerTick.js at line number 1378
+[2024_12_26 22:29:25] [ERROR] TypeError: null has no such function "getEntityData" in beartrap.js at line number 411
+[2024_12_26 22:29:25] [ERROR] TypeError: null has no such function "getEntityData" in beartrap.js at line number 411
+[2024_12_26 22:29:32] [ERROR] TypeError: null has no such function "getEntityData" in beartrap.js at line number 411
+[2024_12_26 22:29:34] [ERROR] TypeError: null has no such function "getEntityData" in beartrap.js at line number 411
+[2024_12_26 22:29:38] [ERROR] TypeError: null has no such function "getEntityData" in beartrap.js at line number 411
+[2024_12_26 22:29:45] [ERROR] TypeError: null has no such function "getEntityData" in beartrap.js at line number 411
+[2024_12_26 22:29:49] [ERROR] TypeError: null has no such function "getEntityData" in beartrap.js at line number 411
+[2024_12_26 22:30:07] [ERROR] TypeError: null has no such function "getEntityData" in beartrap.js at line number 411
+[2024_12_26 22:30:07] [ERROR] TypeError: null has no such function "getEntityData" in beartrap.js at line number 411
+[2024_12_26 22:30:36] [ERROR] TypeError: null has no such function "getEntityData" in beartrap.js at line number 411
+[2024_12_26 22:30:37] [ERROR] TypeError: null has no such function "getEntityData" in beartrap.js at line number 411
+[2024_12_26 22:30:38] [ERROR] TypeError: null has no such function "getEntityData" in beartrap.js at line number 411
+[2024_12_26 22:30:38] [ERROR] TypeError: null has no such function "getEntityData" in beartrap.js at line number 411
+[2024_12_26 22:30:39] [ERROR] TypeError: null has no such function "getEntityData" in beartrap.js at line number 411
+[2024_12_26 22:30:39] [ERROR] TypeError: null has no such function "getEntityData" in beartrap.js at line number 411
+[2024_12_26 22:30:48] [ERROR] TypeError: null has no such function "getEntityData" in beartrap.js at line number 411
+[2024_12_26 22:30:50] [ERROR] TypeError: null has no such function "getEntityData" in beartrap.js at line number 411
+[2024_12_26 22:30:53] [ERROR] TypeError: null has no such function "getEntityData" in beartrap.js at line number 411
+[2024_12_26 22:30:56] [ERROR] TypeError: null has no such function "getEntityData" in beartrap.js at line number 411
+[2024_12_26 22:30:56] [ERROR] TypeError: null has no such function "getEntityData" in beartrap.js at line number 411
+[2024_12_26 22:30:57] [ERROR] TypeError: null has no such function "getEntityData" in beartrap.js at line number 411
+[2024_12_26 22:30:57] [ERROR] TypeError: null has no such function "getEntityData" in beartrap.js at line number 411
+[2024_12_26 22:30:58] [ERROR] TypeError: null has no such function "getEntityData" in beartrap.js at line number 411
+[2024_12_26 22:30:59] [ERROR] TypeError: null has no such function "getEntityData" in beartrap.js at line number 411
+[2024_12_26 22:30:59] [ERROR] TypeError: null has no such function "getEntityData" in beartrap.js at line number 411
+[2024_12_26 22:31:00] [ERROR] TypeError: null has no such function "getEntityData" in beartrap.js at line number 411

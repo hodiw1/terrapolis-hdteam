@@ -1,0 +1,87 @@
+{
+    "States": {
+        "default": {
+            "RespawnSaveUUID": 1,
+            "TriggerRespawn": {
+                "Blocks": [
+                ]
+            },
+            "DamageDelay": 0,
+            "TriggerTick": {
+                "Blocks": [
+                ]
+            },
+            "TriggerEntityCollision": {
+                "Blocks": [
+                ]
+            },
+            "TriggerInitialize": {
+                "Blocks": [
+                ]
+            },
+            "Killable": 0,
+            "CanGetBurned": 0,
+            "RespawnOnCoordinates": 1,
+            "CanFallDamage": 0,
+            "States": {
+            },
+            "PathDistance": 0.0f,
+            "RespawnDelay": 20,
+            "Invincible": 1,
+            "TriggerDied": {
+                "Blocks": [
+                ]
+            },
+            "Morph": {
+                "Hitbox": {
+                    "Eye": 0.9f,
+                    "Sneak": 0.01f,
+                    "Enabled": 1b,
+                    "Height": 0.01f,
+                    "Width": 0.01f
+                },
+                "Skin": "b.a:empty/skins/texture.png",
+                "Settings": {
+                    "Hands": 1b
+                },
+                "Name": "blockbuster.empty"
+            },
+            "Damage": 0.0f,
+            "ShadowSize": 0.0f,
+            "TriggerInteract": {
+                "Blocks": [
+                ]
+            },
+            "Health": 0.0f,
+            "CanSwim": 0,
+            "Post": [
+            ],
+            "Immovable": 1,
+            "MaxHealth": 0.0f,
+            "TriggerDamaged": {
+                "Blocks": [
+                ]
+            },
+            "RegenDelay": 0,
+            "PatrolTriggers": [
+            ],
+            "TriggerTarget": {
+                "Blocks": [
+                ]
+            },
+            "Drops": [
+            ],
+            "Fallback": 0.0f,
+            "RegenFrequency": 1,
+            "Patrol": [
+            ],
+            "SteeringOffsets": [
+                [
+                    0,
+                    0,
+                    0
+                ]
+            ]
+        }
+    }
+}

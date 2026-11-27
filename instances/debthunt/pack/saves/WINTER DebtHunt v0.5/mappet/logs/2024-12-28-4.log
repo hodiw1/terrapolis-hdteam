@@ -1,0 +1,83 @@
+[2024_12_28 18:04:29] [ERROR] SyntaxError: Invalid JSON: <json>:1:0 Expected json literal but found eof
+
+^ in playerTick.js at line number 1776
+[2024_12_28 18:05:39] [ERROR] SyntaxError: Invalid JSON: <json>:1:0 Expected json literal but found eof
+
+^ in playerTick.js at line number 1776
+[2024_12_28 18:05:43] [ERROR] SyntaxError: Invalid JSON: <json>:1:0 Expected json literal but found eof
+
+^ in playerTick.js at line number 1776
+[2024_12_28 18:06:07] [ERROR] SyntaxError: Invalid JSON: <json>:1:0 Expected json literal but found eof
+
+^ in playerTick.js at line number 1776
+[2024_12_28 18:06:11] [ERROR] SyntaxError: Invalid JSON: <json>:1:0 Expected json literal but found eof
+
+^ in playerTick.js at line number 1776
+[2024_12_28 18:06:13] [ERROR] SyntaxError: Invalid JSON: <json>:1:0 Expected json literal but found eof
+
+^ in playerTick.js at line number 1776
+[2024_12_28 18:06:31] [ERROR] SyntaxError: Invalid JSON: <json>:1:0 Expected json literal but found eof
+
+^ in playerTick.js at line number 1776
+[2024_12_28 18:06:34] [ERROR] SyntaxError: Invalid JSON: <json>:1:0 Expected json literal but found eof
+
+^ in playerTick.js at line number 1776
+[2024_12_28 18:06:37] [ERROR] SyntaxError: Invalid JSON: <json>:1:0 Expected json literal but found eof
+
+^ in playerTick.js at line number 1776
+[2024_12_28 18:07:15] [ERROR] SyntaxError: Invalid JSON: <json>:1:0 Expected json literal but found eof
+
+^ in playerTick.js at line number 1776
+[2024_12_28 18:07:19] [ERROR] SyntaxError: Invalid JSON: <json>:1:0 Expected json literal but found eof
+
+^ in playerTick.js at line number 1776
+[2024_12_28 18:07:23] [ERROR] SyntaxError: Invalid JSON: <json>:1:0 Expected json literal but found eof
+
+^ in playerTick.js at line number 1776
+[2024_12_28 19:03:43] [ERROR] ReferenceError: "ghost" is not defined in playerInteract.js at line number 687
+[2024_12_28 19:03:44] [ERROR] ReferenceError: "ghost" is not defined in playerInteract.js at line number 687
+[2024_12_28 19:03:44] [ERROR] ReferenceError: "ghost" is not defined in playerInteract.js at line number 687
+[2024_12_28 19:03:45] [ERROR] ReferenceError: "ghost" is not defined in playerInteract.js at line number 687
+[2024_12_28 19:03:45] [ERROR] ReferenceError: "ghost" is not defined in playerInteract.js at line number 687
+[2024_12_28 19:04:12] [ERROR] ReferenceError: "ghost" is not defined in playerInteract.js at line number 687
+[2024_12_28 19:04:12] [ERROR] ReferenceError: "ghost" is not defined in playerInteract.js at line number 687
+[2024_12_28 19:04:12] [ERROR] ReferenceError: "ghost" is not defined in playerInteract.js at line number 687
+[2024_12_28 19:04:13] [ERROR] ReferenceError: "ghost" is not defined in playerInteract.js at line number 687
+[2024_12_28 19:04:13] [ERROR] ReferenceError: "ghost" is not defined in playerInteract.js at line number 687
+[2024_12_28 19:04:13] [ERROR] ReferenceError: "ghost" is not defined in playerInteract.js at line number 687
+[2024_12_28 19:04:13] [ERROR] ReferenceError: "ghost" is not defined in playerInteract.js at line number 687
+[2024_12_28 19:04:13] [ERROR] ReferenceError: "ghost" is not defined in playerInteract.js at line number 687
+[2024_12_28 19:04:13] [ERROR] ReferenceError: "ghost" is not defined in playerInteract.js at line number 687
+[2024_12_28 19:04:14] [ERROR] ReferenceError: "ghost" is not defined in playerInteract.js at line number 687
+[2024_12_28 19:04:14] [ERROR] ReferenceError: "ghost" is not defined in playerInteract.js at line number 687
+[2024_12_28 19:04:15] [ERROR] ReferenceError: "ghost" is not defined in playerInteract.js at line number 687
+[2024_12_28 19:04:15] [ERROR] ReferenceError: "ghost" is not defined in playerInteract.js at line number 687
+[2024_12_28 19:04:15] [ERROR] ReferenceError: "ghost" is not defined in playerInteract.js at line number 687
+[2024_12_28 19:04:15] [ERROR] ReferenceError: "ghost" is not defined in playerInteract.js at line number 687
+[2024_12_28 19:04:15] [ERROR] ReferenceError: "ghost" is not defined in playerInteract.js at line number 687
+[2024_12_28 19:04:16] [ERROR] ReferenceError: "ghost" is not defined in playerInteract.js at line number 687
+[2024_12_28 19:04:25] [ERROR] ReferenceError: "ghost" is not defined in playerInteract.js at line number 687
+[2024_12_28 19:04:25] [ERROR] ReferenceError: "ghost" is not defined in playerInteract.js at line number 687
+[2024_12_28 19:04:25] [ERROR] ReferenceError: "ghost" is not defined in playerInteract.js at line number 687
+[2024_12_28 19:04:26] [ERROR] ReferenceError: "ghost" is not defined in playerInteract.js at line number 687
+[2024_12_28 19:04:26] [ERROR] ReferenceError: "ghost" is not defined in playerInteract.js at line number 687
+[2024_12_28 19:04:26] [ERROR] ReferenceError: "ghost" is not defined in playerInteract.js at line number 687
+[2024_12_28 19:04:26] [ERROR] ReferenceError: "ghost" is not defined in playerInteract.js at line number 687
+[2024_12_28 19:04:26] [ERROR] ReferenceError: "ghost" is not defined in playerInteract.js at line number 687
+[2024_12_28 19:04:26] [ERROR] ReferenceError: "ghost" is not defined in playerInteract.js at line number 687
+[2024_12_28 19:04:27] [ERROR] ReferenceError: "ghost" is not defined in playerInteract.js at line number 687
+[2024_12_28 19:04:27] [ERROR] ReferenceError: "ghost" is not defined in playerInteract.js at line number 687
+[2024_12_28 19:04:27] [ERROR] ReferenceError: "ghost" is not defined in playerInteract.js at line number 687
+[2024_12_28 19:04:41] [ERROR] ReferenceError: "ghost" is not defined in playerInteract.js at line number 687
+[2024_12_28 19:04:42] [ERROR] ReferenceError: "ghost" is not defined in playerInteract.js at line number 687
+[2024_12_28 19:04:42] [ERROR] ReferenceError: "ghost" is not defined in playerInteract.js at line number 687
+[2024_12_28 19:04:42] [ERROR] ReferenceError: "ghost" is not defined in playerInteract.js at line number 687
+[2024_12_28 19:04:42] [ERROR] ReferenceError: "ghost" is not defined in playerInteract.js at line number 687
+[2024_12_28 19:04:43] [ERROR] ReferenceError: "ghost" is not defined in playerInteract.js at line number 687
+[2024_12_28 19:04:43] [ERROR] ReferenceError: "ghost" is not defined in playerInteract.js at line number 687
+[2024_12_28 19:04:43] [ERROR] ReferenceError: "ghost" is not defined in playerInteract.js at line number 687
+[2024_12_28 19:04:43] [ERROR] ReferenceError: "ghost" is not defined in playerInteract.js at line number 687
+[2024_12_28 19:04:43] [ERROR] ReferenceError: "ghost" is not defined in playerInteract.js at line number 687
+[2024_12_28 19:04:43] [ERROR] ReferenceError: "ghost" is not defined in playerInteract.js at line number 687
+[2024_12_28 19:04:44] [ERROR] ReferenceError: "ghost" is not defined in playerInteract.js at line number 687
+[2024_12_28 19:04:44] [ERROR] ReferenceError: "ghost" is not defined in playerInteract.js at line number 687

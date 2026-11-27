@@ -1,0 +1,377 @@
+{
+    "States": {
+        "default": {
+            "TriggerRespawn": {
+                "Blocks": [
+                ]
+            },
+            "DamageDelay": 20,
+            "TriggerTick": {
+                "Blocks": [
+                    {
+                        "Script": "deer.js",
+                        "Function": "tick",
+                        "Type": "script",
+                        "CustomData": "",
+                        "Frequency": 1,
+                        "Inline": 0b,
+                        "Code": ""
+                    }
+                ]
+            },
+            "TriggerEntityCollision": {
+                "Blocks": [
+                    {
+                        "Script": "deer.js",
+                        "Function": "playerKnockdown",
+                        "Type": "script",
+                        "CustomData": "",
+                        "Frequency": 1,
+                        "Inline": 0b,
+                        "Code": ""
+                    }
+                ]
+            },
+            "TriggerInitialize": {
+                "Blocks": [
+                    {
+                        "Script": "deer.js",
+                        "Function": "init",
+                        "Type": "script",
+                        "CustomData": "",
+                        "Frequency": 1,
+                        "Inline": 0b,
+                        "Code": ""
+                    }
+                ]
+            },
+            "Killable": 0,
+            "CanGetBurned": 0,
+            "CanFallDamage": 0,
+            "States": {
+                "hp": 2.0d
+            },
+            "PathDistance": 128.0f,
+            "Invincible": 1,
+            "TriggerDied": {
+                "Blocks": [
+                ]
+            },
+            "Morph": {
+                "Hitbox": {
+                    "Eye": 0.9f,
+                    "Sneak": 1.65f,
+                    "Enabled": 1b,
+                    "Height": 1.5f,
+                    "Width": 0.8f
+                },
+                "Pose": {
+                    "Pose": {
+                        "LegRightFront": {
+                        },
+                        "Jaw": {
+                        },
+                        "EyelidRight": {
+                        },
+                        "LegRIghtB2": {
+                        },
+                        "EyelidLeft": {
+                        },
+                        "LegRightB3": {
+                        },
+                        "LegRightF4": {
+                        },
+                        "LegRightB1": {
+                        },
+                        "LegRightF2": {
+                        },
+                        "LegRightF3": {
+                        },
+                        "Mouth": {
+                        },
+                        "Eyelids": {
+                        },
+                        "LegRightF1": {
+                        },
+                        "Tail": {
+                        },
+                        "Ears": {
+                        },
+                        "Body": {
+                        },
+                        "Head": {
+                        },
+                        "EarLeft": {
+                        },
+                        "Body2": {
+                        },
+                        "Neck1": {
+                        },
+                        "Neck2": {
+                        },
+                        "LegsBack": {
+                        },
+                        "bone": {
+                        },
+                        "EarRight": {
+                        },
+                        "Deer": {
+                        },
+                        "Neck3": {
+                        },
+                        "LegRightB4": {
+                        },
+                        "LegsFront": {
+                        },
+                        "LegRightBack": {
+                        },
+                        "bone2": {
+                        },
+                        "LegLeftF2": {
+                        },
+                        "Body1": {
+                        },
+                        "LegLeftF1": {
+                        },
+                        "LegLeftF4": {
+                        },
+                        "LegLeftBack": {
+                        },
+                        "LegLeftF3": {
+                        },
+                        "LegLeftB2": {
+                        },
+                        "LegLeftFront": {
+                        },
+                        "LegLeftB1": {
+                        },
+                        "LegLeftB4": {
+                        },
+                        "base": {
+                        },
+                        "LegLeftB3": {
+                        }
+                    }
+                },
+                "Transition": {
+                    "Interp": 21,
+                    "Animates": 1b
+                },
+                "Skin": "c.s:deer/skins/deer.png",
+                "Settings": {
+                    "Abilities": [
+                        "step_up"
+                    ]
+                },
+                "Name": "chameleon.deer"
+            },
+            "FlightMinHeight": 0.0d,
+            "Damage": 1.0f,
+            "FlightMaxHeight": 0.0d,
+            "ShadowSize": 0.0f,
+            "JumpPower": 0.0f,
+            "TriggerInteract": {
+                "Blocks": [
+                ]
+            },
+            "Health": 0.0f,
+            "CanSwim": 0,
+            "Post": [
+            ],
+            "MaxHealth": 0.0f,
+            "TriggerDamaged": {
+                "Blocks": [
+                ]
+            },
+            "RegenDelay": 0,
+            "PatrolTriggers": [
+            ],
+            "TriggerTarget": {
+                "Blocks": [
+                ]
+            },
+            "Drops": [
+            ],
+            "RegenFrequency": 1,
+            "Patrol": [
+            ],
+            "SteeringOffsets": [
+            ]
+        },
+        "corpse": {
+            "TriggerRespawn": {
+                "Blocks": [
+                ]
+            },
+            "DamageDelay": 0,
+            "TriggerTick": {
+                "Blocks": [
+                ]
+            },
+            "TriggerEntityCollision": {
+                "Blocks": [
+                ]
+            },
+            "TriggerInitialize": {
+                "Blocks": [
+                ]
+            },
+            "Killable": 0,
+            "CanGetBurned": 0,
+            "CanFallDamage": 0,
+            "States": {
+            },
+            "PathDistance": 0.0f,
+            "Invincible": 1,
+            "TriggerDied": {
+                "Blocks": [
+                ]
+            },
+            "Morph": {
+                "Hitbox": {
+                    "Eye": 0.9f,
+                    "Sneak": 1.65f,
+                    "Enabled": 1b,
+                    "Height": 1.0f,
+                    "Width": 0.8f
+                },
+                "Actions": {
+                    "idle": "death_idle"
+                },
+                "Pose": {
+                    "Pose": {
+                        "LegRightFront": {
+                        },
+                        "Jaw": {
+                        },
+                        "EyelidRight": {
+                        },
+                        "LegRIghtB2": {
+                        },
+                        "EyelidLeft": {
+                        },
+                        "LegRightB3": {
+                        },
+                        "LegRightF4": {
+                        },
+                        "LegRightB1": {
+                        },
+                        "LegRightF2": {
+                        },
+                        "LegRightF3": {
+                        },
+                        "Mouth": {
+                        },
+                        "Eyelids": {
+                        },
+                        "LegRightF1": {
+                        },
+                        "Tail": {
+                        },
+                        "Ears": {
+                        },
+                        "Body": {
+                        },
+                        "Head": {
+                        },
+                        "EarLeft": {
+                        },
+                        "Body2": {
+                        },
+                        "Neck1": {
+                        },
+                        "Neck2": {
+                        },
+                        "LegsBack": {
+                        },
+                        "bone": {
+                        },
+                        "EarRight": {
+                        },
+                        "Deer": {
+                        },
+                        "Neck3": {
+                        },
+                        "LegRightB4": {
+                        },
+                        "LegsFront": {
+                        },
+                        "LegRightBack": {
+                        },
+                        "bone2": {
+                        },
+                        "LegLeftF2": {
+                        },
+                        "Body1": {
+                        },
+                        "LegLeftF1": {
+                        },
+                        "LegLeftF4": {
+                        },
+                        "LegLeftBack": {
+                        },
+                        "LegLeftF3": {
+                        },
+                        "LegLeftB2": {
+                        },
+                        "LegLeftFront": {
+                        },
+                        "LegLeftB1": {
+                        },
+                        "LegLeftB4": {
+                        },
+                        "base": {
+                        },
+                        "LegLeftB3": {
+                        }
+                    }
+                },
+                "Transition": {
+                    "Interp": 21,
+                    "Animates": 1b
+                },
+                "Skin": "c.s:deer/skins/deer.png",
+                "Settings": {
+                    "Abilities": [
+                        "step_up"
+                    ]
+                },
+                "Name": "chameleon.deer"
+            },
+            "FlightMinHeight": 0.0d,
+            "Damage": 0.0f,
+            "FlightMaxHeight": 0.0d,
+            "ShadowSize": 0.0f,
+            "JumpPower": 0.0f,
+            "TriggerInteract": {
+                "Blocks": [
+                ]
+            },
+            "Health": 0.0f,
+            "CanSwim": 0,
+            "Post": [
+            ],
+            "Immovable": 1,
+            "MaxHealth": 0.0f,
+            "TriggerDamaged": {
+                "Blocks": [
+                ]
+            },
+            "RegenDelay": 0,
+            "PatrolTriggers": [
+            ],
+            "TriggerTarget": {
+                "Blocks": [
+                ]
+            },
+            "Drops": [
+            ],
+            "Fallback": 0.0f,
+            "RegenFrequency": 1,
+            "Patrol": [
+            ],
+            "SteeringOffsets": [
+            ]
+        }
+    }
+}

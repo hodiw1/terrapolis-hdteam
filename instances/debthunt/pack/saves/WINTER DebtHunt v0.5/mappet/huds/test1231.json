@@ -1,0 +1,29 @@
+{
+    "Hide": 1b,
+    "Fov": 70.0f,
+    "Morphs": [
+        {
+            "Expire": 4,
+            "Ortho": 1b,
+            "Morph": {
+                "Pose": {
+                    "S": [
+                        5.0f,
+                        5.0f,
+                        5.0f
+                    ]
+                },
+                "Texture": "b.a:hunt/rv_truck/skins/ok.jpg",
+                "Name": "blockbuster.image"
+            },
+            "OrthoY": 0.45f,
+            "Scale": [
+                55.0f,
+                50.0f,
+                0.0f
+            ],
+            "OrthoX": 0.5f
+        }
+    ],
+    "Global": 0b
+}

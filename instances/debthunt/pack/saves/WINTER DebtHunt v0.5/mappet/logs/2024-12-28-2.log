@@ -1,0 +1,18 @@
+[2024_12_28 13:01:37] [ERROR] skinhead.js:119:4 Expected , but found uiContext
+    uiContext.get("scaleZ").value(JSON.parse(s.getStates().getString('skinhead')).scaleZ)
+    ^ in skinhead.js at line number 119 at column number 4
+[2024_12_28 13:02:05] [ERROR] skinhead.js:128:4 Expected , but found uiContext
+    uiContext.get("lblInfo").label("Текущая шапка: "+JSON.parse(s.getStates().getString('skinhead')).hatname+"");
+    ^ in skinhead.js at line number 128 at column number 4
+[2024_12_28 13:02:14] [ERROR] skinhead.js:128:4 Expected , but found uiContext
+    uiContext.get("lblInfo").label("Текущая шапка: "+JSON.parse(s.getStates().getString('skinhead')).hatname+"");
+    ^ in skinhead.js at line number 128 at column number 4
+[2024_12_28 13:02:43] [ERROR] skinhead.js:128:4 Expected , but found uiContext
+    uiContext.get("lblInfo").label("Текущая шапка: "+JSON.parse(s.getStates().getString('skinhead')).hatname+"");
+    ^ in skinhead.js at line number 128 at column number 4
+[2024_12_28 13:03:08] [ERROR] skinhead.js:129:4 Expected , but found if
+    if (uiContext.getLast() === "scaleX" || uiContext.getLast() === "scaleY" || uiContext.getLast() === "scaleZ" || uiContext.getLast() === "posZ" || uiContext.getLast() === "posX" || uiContext.getLast() == "posY" || uiContext.getLast() == "strings") {
+    ^ in skinhead.js at line number 129 at column number 4
+[2024_12_28 13:04:33] [ERROR] skinhead.js:119:4 Expected , but found uiContext
+    uiContext.get("scaleZ").value(JSON.parse(s.getStates().getString('skinhead')).scaleZ)
+    ^ in skinhead.js at line number 119 at column number 4

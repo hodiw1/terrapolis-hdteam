@@ -1,0 +1,6 @@
+[2024_12_29 20:54:28] [ERROR] TypeError: Can not invoke method [jdk.internal.dynalink.beans.SimpleDynamicMethod void mchorse.mappet.api.scripts.code.entities.ScriptPlayer.getSetting(String,Consumer)] with the passed arguments; they do not match any of its method signatures. in test.js at line number 4
+[2024_12_29 20:54:28] [ERROR] TypeError: Can not invoke method [jdk.internal.dynalink.beans.SimpleDynamicMethod void mchorse.mappet.api.scripts.code.entities.ScriptPlayer.getSetting(String,Consumer)] with the passed arguments; they do not match any of its method signatures. in test.js at line number 4
+[2024_12_29 21:49:29] [ERROR] ReferenceError: "c" is not defined in game.js at line number 1510
+[2024_12_29 21:49:54] [ERROR] ReferenceError: "c" is not defined in game.js at line number 1513
+[2024_12_29 21:49:54] [ERROR] ReferenceError: "c" is not defined in game.js (in game.js) at line number 370 in game.js at line number 370
+[2024_12_29 21:50:46] [ERROR] Script Empty: generation.js - Error: IllegalArgumentException: The value 8386 is not in the specified inclusive range of 0 to 8191

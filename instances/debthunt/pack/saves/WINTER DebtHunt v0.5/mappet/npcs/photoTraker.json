@@ -1,0 +1,92 @@
+{
+    "States": {
+        "default": {
+            "TriggerRespawn": {
+                "Blocks": [
+                ]
+            },
+            "DamageDelay": 0,
+            "TriggerTick": {
+                "Blocks": [
+                ]
+            },
+            "TriggerEntityCollision": {
+                "Blocks": [
+                ]
+            },
+            "TriggerInitialize": {
+                "Blocks": [
+                    {
+                        "Script": "camera.js",
+                        "Function": "npc",
+                        "Type": "script",
+                        "CustomData": "",
+                        "Frequency": 1,
+                        "Inline": 0b,
+                        "Code": ""
+                    }
+                ]
+            },
+            "Killable": 0,
+            "CanGetBurned": 0,
+            "CanFallDamage": 0,
+            "States": {
+            },
+            "PathDistance": 0.0f,
+            "Invincible": 1,
+            "TriggerDied": {
+                "Blocks": [
+                ]
+            },
+            "Morph": {
+                "Hitbox": {
+                    "Eye": 0.3f,
+                    "Sneak": 0.5f,
+                    "Enabled": 1b,
+                    "Height": 0.75f,
+                    "Width": 0.1f
+                },
+                "Skin": "b.a:empty/skins/texture.png",
+                "Settings": {
+                    "Hands": 1b,
+                    "Speed": 0.0f
+                },
+                "Name": "blockbuster.empty"
+            },
+            "Damage": 0.0f,
+            "FlightMaxHeight": 0.0d,
+            "ShadowSize": 0.0f,
+            "Speed": 0.0f,
+            "TriggerInteract": {
+                "Blocks": [
+                ]
+            },
+            "Health": 1.0f,
+            "CanSwim": 0,
+            "Post": [
+            ],
+            "Immovable": 1,
+            "TriggerDamaged": {
+                "Blocks": [
+                ]
+            },
+            "RegenDelay": 0,
+            "PatrolTriggers": [
+            ],
+            "TriggerTarget": {
+                "Blocks": [
+                ]
+            },
+            "Drops": [
+            ],
+            "Fallback": 0.0f,
+            "HasNoGravity": 1,
+            "Id": "photoTraker",
+            "RegenFrequency": 1,
+            "Patrol": [
+            ],
+            "SteeringOffsets": [
+            ]
+        }
+    }
+}

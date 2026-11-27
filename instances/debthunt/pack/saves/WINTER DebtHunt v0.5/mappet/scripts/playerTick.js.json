@@ -1,0 +1,10 @@
+{
+    "GlobalLibrary": 0b,
+    "Unique": 1b,
+    "Libraries": [
+        "CommonLibrary.js",
+        "GameAllList.js",
+        "camera.js",
+        "items.js"
+    ]
+}

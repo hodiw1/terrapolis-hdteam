@@ -1,0 +1,100 @@
+{
+    "States": {
+        "default": {
+            "TriggerRespawn": {
+                "Blocks": [
+                ]
+            },
+            "DamageDelay": 20,
+            "TriggerTick": {
+                "Blocks": [
+                ]
+            },
+            "TriggerEntityCollision": {
+                "Blocks": [
+                ]
+            },
+            "TriggerInitialize": {
+                "Blocks": [
+                    {
+                        "Script": "corpse.js",
+                        "Function": "initialization",
+                        "Type": "script",
+                        "CustomData": "",
+                        "Frequency": 1,
+                        "Inline": 0b,
+                        "Code": ""
+                    }
+                ]
+            },
+            "Killable": 0,
+            "CanGetBurned": 0,
+            "RespawnOnCoordinates": 1,
+            "CanFallDamage": 0,
+            "States": {
+                "name": "none",
+                "inventory": "[]"
+            },
+            "PathDistance": 0.0f,
+            "Invincible": 1,
+            "TriggerDied": {
+                "Blocks": [
+                ]
+            },
+            "Morph": {
+                "Hitbox": {
+                    "Eye": 0.9f,
+                    "Sneak": 0.5f,
+                    "Enabled": 1b,
+                    "Height": 0.5f
+                },
+                "Actions": {
+                    "idle": "stun1_idle"
+                },
+                "Skin": "c.s:hnt_male/skins/kryystll.png",
+                "Name": "chameleon.hnt_male"
+            },
+            "Damage": 0.0f,
+            "ShadowSize": 0.0f,
+            "Speed": 0.0f,
+            "JumpPower": 0.0f,
+            "TriggerInteract": {
+                "Blocks": [
+                    {
+                        "Script": "corpse.js",
+                        "Function": "interact",
+                        "Type": "script",
+                        "CustomData": "",
+                        "Frequency": 1,
+                        "Inline": 0b,
+                        "Code": ""
+                    }
+                ]
+            },
+            "CanSwim": 0,
+            "Post": [
+            ],
+            "Respawn": 1,
+            "Immovable": 1,
+            "TriggerDamaged": {
+                "Blocks": [
+                ]
+            },
+            "PatrolTriggers": [
+            ],
+            "TriggerTarget": {
+                "Blocks": [
+                ]
+            },
+            "Drops": [
+            ],
+            "Fallback": 0.0f,
+            "CanFly": 1,
+            "Patrol": [
+            ],
+            "AlwaysWander": 1,
+            "SteeringOffsets": [
+            ]
+        }
+    }
+}

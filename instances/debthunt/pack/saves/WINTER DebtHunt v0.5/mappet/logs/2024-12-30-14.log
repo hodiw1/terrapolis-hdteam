@@ -1,0 +1,6 @@
+[2024_12_30 13:51:37] [ERROR] SyntaxError: Invalid JSON: <json>:1:29 Expected , or } but found "
+{"moneyEarned":0,"itemsSold":0","daysLived":0,"photosUpload":110,"medkitUses":1,"itemsPurchased":2,"boardsBreak":3,"trovesDigged":0,"stumbles":25,"deersKilled":6,"fueled":10.599999999999994,"boxesOpen":2,"minerals":0,"shots":2,"klekoshnik":25,"deaths":0,"defeats":3,"wins":2}
+                             ^ in game.js at line number 960
+[2024_12_30 13:51:37] [ERROR] SyntaxError: Invalid JSON: <json>:1:29 Expected , or } but found "
+{"moneyEarned":0,"itemsSold":0","daysLived":0,"photosUpload":110,"medkitUses":1,"itemsPurchased":2,"boardsBreak":3,"trovesDigged":0,"stumbles":25,"deersKilled":6,"fueled":10.599999999999994,"boxesOpen":2,"minerals":0,"shots":2,"klekoshnik":25,"deaths":0,"defeats":3,"wins":2}
+                             ^ in game.js (in game.js) at line number 1 in game.js at line number 1

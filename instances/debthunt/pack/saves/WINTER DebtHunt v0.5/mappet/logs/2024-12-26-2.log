@@ -1,0 +1,27 @@
+[2024_12_26 13:12:22] [ERROR] playerTick.js:1229:8 Expected comma but found ident
+    let listItem = [
+        ^ in playerTick.js at line number 1229 at column number 8
+[2024_12_26 14:20:25] [ERROR] TypeError: null has no such function "isPlayer" in shotgun.js at line number 722
+[2024_12_26 14:20:25] [ERROR] ReferenceError: "data" is not defined in shotgun.js at line number 722
+[2024_12_26 14:20:46] [ERROR] TypeError: null has no such function "isPlayer" in shotgun.js at line number 722
+[2024_12_26 14:20:47] [ERROR] ReferenceError: "data" is not defined in shotgun.js at line number 722
+[2024_12_26 14:20:51] [ERROR] TypeError: null has no such function "isPlayer" in shotgun.js at line number 722
+[2024_12_26 14:20:55] [ERROR] TypeError: null has no such function "isPlayer" in shotgun.js at line number 722
+[2024_12_26 14:57:41] [ERROR] ui_firstTime.js:10:52 Invalid hex digit
+    _0x133ed3.label('[7▶ Автор идеи [4Nicher [f[f!\x Помощь в тех.части: [6SadFull[f').id('nzteam').rx(0x1, -0x28).ry(0.9, 0x8).labelAnchor(0.5);
+                                                    ^ in ui_firstTime.js at line number 10 at column number 52
+[2024_12_26 14:57:41] [ERROR] ui_firstTime.js:10:52 Invalid hex digit
+    _0x133ed3.label('[7▶ Автор идеи [4Nicher [f[f!\x Помощь в тех.части: [6SadFull[f').id('nzteam').rx(0x1, -0x28).ry(0.9, 0x8).labelAnchor(0.5);
+                                                    ^ in ui_firstTime.js at line number 10 at column number 52
+[2024_12_26 14:57:51] [ERROR] ui_firstTime.js:10:49 Invalid hex digit
+    _0x133ed3.label('[7▶ Автор идеи [4Nicher [f\x Помощь в тех.части: [6SadFull[f').id('nzteam').rx(0x1, -0x28).ry(0.9, 0x8).labelAnchor(0.5);
+                                                 ^ in ui_firstTime.js at line number 10 at column number 49
+[2024_12_26 15:17:02] [ERROR] TypeError: uiContext.get("scaleZ").trackpad is not a function in skinhead.js at line number 102
+[2024_12_26 15:17:02] [ERROR] TypeError: uiContext.get("scaleZ").trackpad is not a function in skinhead.js at line number 102
+[2024_12_26 15:17:02] [ERROR] TypeError: uiContext.get("scaleZ").trackpad is not a function in skinhead.js at line number 102
+[2024_12_26 15:17:02] [ERROR] TypeError: uiContext.get("scaleZ").trackpad is not a function in skinhead.js at line number 102
+[2024_12_26 15:17:02] [ERROR] TypeError: uiContext.get("scaleZ").trackpad is not a function in skinhead.js at line number 102
+[2024_12_26 15:17:03] [ERROR] TypeError: uiContext.get("scaleZ").trackpad is not a function in skinhead.js at line number 102
+[2024_12_26 15:17:03] [ERROR] TypeError: uiContext.get("scaleZ").trackpad is not a function in skinhead.js at line number 102
+[2024_12_26 15:17:05] [ERROR] TypeError: uiContext.get("scaleZ").trackpad is not a function in skinhead.js at line number 102
+[2024_12_26 15:17:07] [ERROR] TypeError: uiContext.get("scaleZ").trackpad is not a function in skinhead.js at line number 102

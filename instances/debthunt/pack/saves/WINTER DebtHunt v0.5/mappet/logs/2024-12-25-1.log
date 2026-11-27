@@ -1,0 +1,18 @@
+[2024_12_24 19:41:48] [DEBUG] 17
+[2024_12_24 19:51:35] [DEBUG] 19
+[2024_12_24 20:00:14] [DEBUG] 21
+[2024_12_24 20:11:48] [DEBUG] 23
+[2024_12_24 20:19:19] [DEBUG] 25
+[2024_12_24 20:24:03] [DEBUG] 27
+[2024_12_24 20:31:42] [DEBUG] 29
+[2024_12_24 20:33:33] [ERROR] SyntaxError: Invalid JSON: <json>:1:0 Expected json literal but found eof
+
+^ in playerTick.js at line number 1346
+[2024_12_24 20:36:53] [ERROR] ReferenceError: "data" is not defined in shotgun.js at line number 694
+[2024_12_24 20:36:53] [ERROR] ReferenceError: "data" is not defined in shotgun.js at line number 694
+[2024_12_24 20:37:10] [DEBUG] 17
+[2024_12_24 20:38:00] [ERROR] TypeError: null has no such function "isPlayer" in shotgun.js at line number 694
+[2024_12_24 20:38:00] [ERROR] ReferenceError: "data" is not defined in shotgun.js at line number 694
+[2024_12_24 20:38:01] [ERROR] TypeError: null has no such function "isPlayer" in shotgun.js at line number 694
+[2024_12_24 20:38:02] [ERROR] ReferenceError: "data" is not defined in shotgun.js at line number 694
+[2024_12_24 20:38:02] [ERROR] ReferenceError: "data" is not defined in shotgun.js at line number 694

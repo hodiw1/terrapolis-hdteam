@@ -1,0 +1,270 @@
+{
+    "States": {
+        "default": {
+            "TriggerRespawn": {
+                "Blocks": [
+                ]
+            },
+            "DamageDelay": 0,
+            "TriggerTick": {
+                "Blocks": [
+                ]
+            },
+            "TriggerEntityCollision": {
+                "Blocks": [
+                ]
+            },
+            "StateName": "default",
+            "TriggerInitialize": {
+                "Blocks": [
+                ]
+            },
+            "Killable": 0,
+            "CanGetBurned": 0,
+            "CanFallDamage": 0,
+            "States": {
+            },
+            "PathDistance": 0.0f,
+            "Invincible": 1,
+            "TriggerDied": {
+                "Blocks": [
+                ]
+            },
+            "Morph": {
+                "Hitbox": {
+                    "Eye": 0.9f,
+                    "Sneak": 0.5f,
+                    "Enabled": 1b,
+                    "Height": 0.5f,
+                    "Width": 0.5f
+                },
+                "Skin": "b.a:empty/skins/texture.png",
+                "CustomPose": {
+                    "Size": [
+                        1.0f,
+                        1.0f,
+                        1.0f
+                    ],
+                    "Poses": {
+                        "cube": {
+                            "P": [
+                                -9.0f,
+                                0.7f,
+                                0.0f
+                            ],
+                            "R": [
+                                0.0f,
+                                0.0f,
+                                -90.0f
+                            ],
+                            "S": [
+                                0.8f,
+                                0.8f,
+                                0.8f
+                            ]
+                        }
+                    }
+                },
+                "BodyParts": [
+                    {
+                        "T": [
+                            0.0f,
+                            -0.5f,
+                            0.0f
+                        ],
+                        "Limb": "cube",
+                        "Morph": {
+                            "Name": "item",
+                            "Stack": {
+                                "id": "huntclient:shotgun",
+                                "Count": 1b,
+                                "tag": {
+                                    "animation": ""
+                                },
+                                "Damage": 0s
+                            }
+                        }
+                    }
+                ],
+                "Settings": {
+                    "Hands": 1b
+                },
+                "Name": "blockbuster.empty"
+            },
+            "FlightMinHeight": 0.0d,
+            "Damage": 0.0f,
+            "FlightMaxHeight": 0.0d,
+            "ShadowSize": 0.0f,
+            "Speed": 0.0f,
+            "JumpPower": 0.0f,
+            "TriggerInteract": {
+                "Blocks": [
+                    {
+                        "Script": "items.js",
+                        "Function": "pickUp",
+                        "Type": "script",
+                        "CustomData": "",
+                        "Frequency": 1,
+                        "Inline": 0b,
+                        "Code": ""
+                    }
+                ]
+            },
+            "Health": 0.0f,
+            "CanSwim": 0,
+            "Post": [
+            ],
+            "Immovable": 1,
+            "MaxHealth": 0.0f,
+            "TriggerDamaged": {
+                "Blocks": [
+                ]
+            },
+            "RegenDelay": 0,
+            "PatrolTriggers": [
+            ],
+            "TriggerTarget": {
+                "Blocks": [
+                ]
+            },
+            "Drops": [
+            ],
+            "Fallback": 0.0f,
+            "CanPickUpLoot": 1,
+            "Id": "item",
+            "RegenFrequency": 1,
+            "Patrol": [
+            ],
+            "SteeringOffsets": [
+            ]
+        },
+        "beartrap": {
+            "RespawnSaveUUID": 1,
+            "TriggerRespawn": {
+                "Blocks": [
+                ]
+            },
+            "DamageDelay": 0,
+            "TriggerTick": {
+                "Blocks": [
+                ]
+            },
+            "TriggerEntityCollision": {
+                "Blocks": [
+                    {
+                        "Script": "beartrap.js",
+                        "Function": "collision",
+                        "Type": "script",
+                        "CustomData": "",
+                        "Frequency": 1,
+                        "Inline": 0b,
+                        "Code": ""
+                    }
+                ]
+            },
+            "StateName": "default",
+            "TriggerInitialize": {
+                "Blocks": [
+                    {
+                        "Script": "beartrap.js",
+                        "Function": "init",
+                        "Type": "script",
+                        "CustomData": "",
+                        "Frequency": 1,
+                        "Inline": 0b,
+                        "Code": ""
+                    }
+                ]
+            },
+            "Killable": 0,
+            "CanGetBurned": 0,
+            "CanFallDamage": 0,
+            "States": {
+                "isActive": 1.0d
+            },
+            "PathDistance": 0.0f,
+            "Invincible": 1,
+            "TriggerDied": {
+                "Blocks": [
+                ]
+            },
+            "Morph": {
+                "Hitbox": {
+                    "Eye": 0.9f,
+                    "Sneak": 0.2f,
+                    "Enabled": 1b,
+                    "Height": 0.1f,
+                    "Width": 0.2f
+                },
+                "Skin": "b.a:empty/skins/texture.png",
+                "BodyParts": [
+                    {
+                        "T": [
+                            0.0f,
+                            -0.5f,
+                            0.0f
+                        ],
+                        "Limb": "cube",
+                        "Morph": {
+                            "Name": "item",
+                            "Stack": {
+                                "id": "hnt:beartraparmed",
+                                "Count": 64b,
+                                "Damage": 0s
+                            }
+                        }
+                    }
+                ],
+                "Settings": {
+                    "Hands": 1b
+                },
+                "Name": "blockbuster.empty"
+            },
+            "FlightMinHeight": 0.0d,
+            "Damage": 0.0f,
+            "FlightMaxHeight": 0.0d,
+            "ShadowSize": 0.0f,
+            "Speed": 0.0f,
+            "JumpPower": 0.0f,
+            "TriggerInteract": {
+                "Blocks": [
+                    {
+                        "Script": "playerInteract.js",
+                        "Function": "withNpc",
+                        "Type": "script",
+                        "CustomData": "",
+                        "Frequency": 1,
+                        "Inline": 0b,
+                        "Code": ""
+                    }
+                ]
+            },
+            "Health": 0.0f,
+            "CanSwim": 0,
+            "Post": [
+            ],
+            "Immovable": 1,
+            "MaxHealth": 0.0f,
+            "TriggerDamaged": {
+                "Blocks": [
+                ]
+            },
+            "RegenDelay": 0,
+            "PatrolTriggers": [
+            ],
+            "TriggerTarget": {
+                "Blocks": [
+                ]
+            },
+            "Drops": [
+            ],
+            "Fallback": 0.0f,
+            "Id": "item",
+            "RegenFrequency": 1,
+            "Patrol": [
+            ],
+            "SteeringOffsets": [
+            ]
+        }
+    }
+}

@@ -1,0 +1,80 @@
+{
+    "Hide": 0b,
+    "Fov": 70.0f,
+    "Morphs": [
+        {
+            "Expire": 0,
+            "Ortho": 1b,
+            "Morph": {
+                "List": [
+                    {
+                        "Random": 0.0f,
+                        "SetDuration": 0b,
+                        "Morph": {
+                            "Color": 1342177279,
+                            "Texture": "b.a:hunt/images/noise_hud.png",
+                            "Name": "blockbuster.image"
+                        },
+                        "Duration": 1.0f,
+                        "EndPoint": 0b
+                    },
+                    {
+                        "Random": 0.0f,
+                        "SetDuration": 0b,
+                        "Morph": {
+                            "Color": 1342177279,
+                            "Pose": {
+                                "S": [
+                                    1.0f,
+                                    -1.0f,
+                                    1.0f
+                                ]
+                            },
+                            "Texture": "b.a:hunt/images/noise_hud.png",
+                            "Name": "blockbuster.image"
+                        },
+                        "Duration": 1.0f,
+                        "EndPoint": 0b
+                    },
+                    {
+                        "Random": 0.0f,
+                        "SetDuration": 0b,
+                        "Morph": {
+                            "Color": 1342177279,
+                            "Pose": {
+                                "S": [
+                                    -1.0f,
+                                    1.0f,
+                                    1.0f
+                                ]
+                            },
+                            "Texture": "b.a:hunt/images/noise_hud.png",
+                            "Name": "blockbuster.image"
+                        },
+                        "Duration": 1.0f,
+                        "EndPoint": 0b
+                    }
+                ],
+                "Name": "sequencer",
+                "Offset": [
+                    0.0f,
+                    0.0f,
+                    0.0f
+                ]
+            },
+            "OrthoY": 0.5f,
+            "Scale": [
+                1000.0f,
+                1000.0f,
+                1000.0f
+            ],
+            "OrthoX": 0.5f,
+            "Translate": [
+                0.0f,
+                0.0f,
+                -1.0f
+            ]
+        }
+    ],
+    "Global": 0b
+}

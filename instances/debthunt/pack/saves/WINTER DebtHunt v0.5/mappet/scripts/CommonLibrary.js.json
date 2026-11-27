@@ -1,0 +1,7 @@
+{
+    "GlobalLibrary": 0b,
+    "Unique": 0b,
+    "Libraries": [
+        "GameAllList.js"
+    ]
+}

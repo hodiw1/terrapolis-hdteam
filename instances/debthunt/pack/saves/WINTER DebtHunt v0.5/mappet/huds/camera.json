@@ -1,0 +1,193 @@
+{
+    "Hide": 0b,
+    "Fov": 70.0f,
+    "Morphs": [
+        {
+            "Expire": 0,
+            "Ortho": 1b,
+            "Morph": {
+                "Texture": "b.a:hunt/images/cameraCorner1_hud.png",
+                "Name": "blockbuster.image"
+            },
+            "OrthoY": 1.0f,
+            "Scale": [
+                26.5f,
+                26.5f,
+                26.5f
+            ],
+            "OrthoX": 0.0f,
+            "Translate": [
+                39.84375f,
+                -48.625f,
+                0.0f
+            ]
+        },
+        {
+            "Expire": 0,
+            "Ortho": 1b,
+            "Morph": {
+                "Pose": {
+                    "R": [
+                        0.0f,
+                        0.0f,
+                        90.0f
+                    ]
+                },
+                "Texture": "b.a:hunt/images/cameraCorner1_hud.png",
+                "Name": "blockbuster.image"
+            },
+            "OrthoY": 0.0f,
+            "Scale": [
+                26.25f,
+                26.25f,
+                26.25f
+            ],
+            "OrthoX": 0.0f,
+            "Translate": [
+                40.0f,
+                49.0f,
+                0.0f
+            ]
+        },
+        {
+            "Expire": 0,
+            "Ortho": 1b,
+            "Morph": {
+                "Pose": {
+                    "R": [
+                        0.0f,
+                        0.0f,
+                        -90.0f
+                    ]
+                },
+                "Texture": "b.a:hunt/images/cameraCorner1_hud.png",
+                "Name": "blockbuster.image"
+            },
+            "OrthoY": 1.0f,
+            "Scale": [
+                26.25f,
+                26.25f,
+                26.25f
+            ],
+            "OrthoX": 1.0f,
+            "Translate": [
+                -40.0f,
+                -48.625f,
+                0.0f
+            ]
+        },
+        {
+            "Expire": 0,
+            "Ortho": 1b,
+            "Morph": {
+                "Texture": "b.a:hunt/images/cameraCorner2_hud.png",
+                "Name": "blockbuster.image"
+            },
+            "OrthoY": 0.0f,
+            "Scale": [
+                135.0f,
+                135.0f,
+                135.0f
+            ],
+            "OrthoX": 1.0f,
+            "Translate": [
+                -94.3125f,
+                48.6875f,
+                0.0f
+            ]
+        },
+        {
+            "Expire": 0,
+            "Ortho": 1b,
+            "Morph": {
+                "Label": "Память: 0 / 0",
+                "AnchorX": 1.0f,
+                "Name": "label",
+                "Offset": -4.5f
+            },
+            "OrthoY": 0.0f,
+            "Scale": [
+                75.0f,
+                75.0f,
+                75.0f
+            ],
+            "OrthoX": 1.0f,
+            "Translate": [
+                -41.28125f,
+                52.0f,
+                0.0f
+            ]
+        },
+        {
+            "Expire": 0,
+            "Ortho": 1b,
+            "Morph": {
+                "Loop": 1,
+                "List": [
+                    {
+                        "Random": 0.0f,
+                        "SetDuration": 0b,
+                        "Morph": {
+                            "Color": 0,
+                            "Animation": {
+                                "Interp": 21,
+                                "Animates": 1b,
+                                "Duration": 0
+                            },
+                            "Texture": "blockbuster:textures/gui/icon.png",
+                            "Name": "blockbuster.image"
+                        },
+                        "Duration": 0.0f,
+                        "EndPoint": 0b
+                    },
+                    {
+                        "Random": 0.0f,
+                        "SetDuration": 0b,
+                        "Morph": {
+                            "Color": -16777216,
+                            "Animation": {
+                                "Interp": 21,
+                                "Animates": 1b,
+                                "Duration": 2
+                            },
+                            "Texture": "blockbuster:textures/gui/icon.png",
+                            "Name": "blockbuster.image"
+                        },
+                        "Duration": 2.0f,
+                        "EndPoint": 0b
+                    },
+                    {
+                        "Random": 0.0f,
+                        "SetDuration": 0b,
+                        "Morph": {
+                            "Color": 0,
+                            "Animation": {
+                                "Interp": 21,
+                                "Animates": 1b,
+                                "Duration": 2
+                            },
+                            "Texture": "blockbuster:textures/gui/icon.png",
+                            "Name": "blockbuster.image"
+                        },
+                        "Duration": 2.0f,
+                        "EndPoint": 1b
+                    }
+                ],
+                "Name": "sequencer",
+                "Offset": [
+                    0.0f,
+                    0.0f,
+                    0.0f
+                ]
+            },
+            "OrthoY": 0.5f,
+            "Scale": [
+                1000.0f,
+                1000.0f,
+                1000.0f
+            ],
+            "OrthoX": 0.5f
+        }
+    ],
+    "Global": 0b
+}

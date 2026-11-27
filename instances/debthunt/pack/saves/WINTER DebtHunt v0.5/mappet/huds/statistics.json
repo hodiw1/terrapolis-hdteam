@@ -1,0 +1,844 @@
+{
+    "Hide": 1b,
+    "Fov": 70.0f,
+    "Morphs": [
+        {
+            "Expire": 0,
+            "Ortho": 1b,
+            "Morph": {
+                "Loop": 1,
+                "List": [
+                    {
+                        "Random": 0.0f,
+                        "SetDuration": 0b,
+                        "Morph": {
+                            "Animation": {
+                                "Interp": 21,
+                                "Animates": 1b
+                            },
+                            "Skin": "b.a:empty/skins/texture.png",
+                            "CustomPose": {
+                                "Size": [
+                                    1.0f,
+                                    1.0f,
+                                    1.0f
+                                ],
+                                "Poses": {
+                                    "cube": {
+                                        "S": [
+                                            1.0f,
+                                            0.0f,
+                                            1.0f
+                                        ]
+                                    }
+                                }
+                            },
+                            "BodyParts": [
+                                {
+                                    "T": [
+                                        0.0f,
+                                        -0.2f,
+                                        0.0f
+                                    ],
+                                    "Limb": "cube",
+                                    "Morph": {
+                                        "Background": -1879048192,
+                                        "Max": 140,
+                                        "Label": "[4ПОРАЖЕНИЕ",
+                                        "ShadowX": -0.0f,
+                                        "Name": "label",
+                                        "Offset": 5.0f
+                                    }
+                                },
+                                {
+                                    "S": [
+                                        0.9f,
+                                        0.9f,
+                                        0.9f
+                                    ],
+                                    "T": [
+                                        0.0f,
+                                        0.25f,
+                                        0.0f
+                                    ],
+                                    "Limb": "cube",
+                                    "Morph": {
+                                        "Background": -1879048192,
+                                        "Max": 140,
+                                        "Label": "[7Денег заработано: [fgg[7$",
+                                        "ShadowX": -0.0f,
+                                        "Name": "label",
+                                        "Offset": 5.0f
+                                    }
+                                },
+                                {
+                                    "S": [
+                                        0.9f,
+                                        0.9f,
+                                        0.9f
+                                    ],
+                                    "T": [
+                                        0.0f,
+                                        0.65f,
+                                        0.0f
+                                    ],
+                                    "Limb": "cube",
+                                    "Morph": {
+                                        "Background": -1879048192,
+                                        "Max": 140,
+                                        "Label": "[7Товаров продано: [fgg",
+                                        "ShadowX": -0.0f,
+                                        "Name": "label",
+                                        "Offset": 5.0f
+                                    }
+                                },
+                                {
+                                    "S": [
+                                        0.9f,
+                                        0.9f,
+                                        0.9f
+                                    ],
+                                    "T": [
+                                        0.0f,
+                                        1.05f,
+                                        0.0f
+                                    ],
+                                    "Limb": "cube",
+                                    "Morph": {
+                                        "Background": -1879048192,
+                                        "Max": 140,
+                                        "Label": "[7Дней прожито: [fgg",
+                                        "ShadowX": -0.0f,
+                                        "Name": "label",
+                                        "Offset": 5.0f
+                                    }
+                                },
+                                {
+                                    "S": [
+                                        0.9f,
+                                        0.9f,
+                                        0.9f
+                                    ],
+                                    "T": [
+                                        0.0f,
+                                        1.45f,
+                                        0.0f
+                                    ],
+                                    "Limb": "cube",
+                                    "Morph": {
+                                        "Background": -1879048192,
+                                        "Max": 140,
+                                        "Label": "[7Фото загружено: [fgg",
+                                        "ShadowX": -0.0f,
+                                        "Name": "label",
+                                        "Offset": 5.0f
+                                    }
+                                },
+                                {
+                                    "S": [
+                                        0.9f,
+                                        0.9f,
+                                        0.9f
+                                    ],
+                                    "T": [
+                                        0.0f,
+                                        1.85f,
+                                        0.0f
+                                    ],
+                                    "Limb": "cube",
+                                    "Morph": {
+                                        "Background": -1879048192,
+                                        "Max": 140,
+                                        "Label": "[7Аптечек применено: [fgg",
+                                        "ShadowX": -0.0f,
+                                        "Name": "label",
+                                        "Offset": 5.0f
+                                    }
+                                },
+                                {
+                                    "S": [
+                                        0.9f,
+                                        0.9f,
+                                        0.9f
+                                    ],
+                                    "T": [
+                                        0.0f,
+                                        2.25f,
+                                        0.0f
+                                    ],
+                                    "Limb": "cube",
+                                    "Morph": {
+                                        "Background": -1879048192,
+                                        "Max": 140,
+                                        "Label": "[7Предметов куплено: [fgg",
+                                        "ShadowX": -0.0f,
+                                        "Name": "label",
+                                        "Offset": 5.0f
+                                    }
+                                },
+                                {
+                                    "S": [
+                                        0.9f,
+                                        0.9f,
+                                        0.9f
+                                    ],
+                                    "T": [
+                                        0.0f,
+                                        2.65f,
+                                        0.0f
+                                    ],
+                                    "Limb": "cube",
+                                    "Morph": {
+                                        "Background": -1879048192,
+                                        "Max": 140,
+                                        "Label": "[7Досок сломано: [fgg",
+                                        "ShadowX": -0.0f,
+                                        "Name": "label",
+                                        "Offset": 5.0f
+                                    }
+                                },
+                                {
+                                    "S": [
+                                        0.9f,
+                                        0.9f,
+                                        0.9f
+                                    ],
+                                    "T": [
+                                        0.0f,
+                                        3.05f,
+                                        0.0f
+                                    ],
+                                    "Limb": "cube",
+                                    "Morph": {
+                                        "Background": -1879048192,
+                                        "Max": 140,
+                                        "Label": "[7Кладов вырыто: [fgg",
+                                        "ShadowX": -0.0f,
+                                        "Name": "label",
+                                        "Offset": 5.0f
+                                    }
+                                },
+                                {
+                                    "S": [
+                                        0.9f,
+                                        0.9f,
+                                        0.9f
+                                    ],
+                                    "T": [
+                                        0.0f,
+                                        3.45f,
+                                        0.0f
+                                    ],
+                                    "Limb": "cube",
+                                    "Morph": {
+                                        "Background": -1879048192,
+                                        "Max": 140,
+                                        "Label": "[7Спотыканий: [fgg",
+                                        "ShadowX": -0.0f,
+                                        "Name": "label",
+                                        "Offset": 5.0f
+                                    }
+                                },
+                                {
+                                    "S": [
+                                        0.9f,
+                                        0.9f,
+                                        0.9f
+                                    ],
+                                    "T": [
+                                        0.0f,
+                                        3.85f,
+                                        0.0f
+                                    ],
+                                    "Limb": "cube",
+                                    "Morph": {
+                                        "Background": -1879048192,
+                                        "Max": 140,
+                                        "Label": "[7Оленей убито: [fgg",
+                                        "ShadowX": -0.0f,
+                                        "Name": "label",
+                                        "Offset": 5.0f
+                                    }
+                                },
+                                {
+                                    "S": [
+                                        0.9f,
+                                        0.9f,
+                                        0.9f
+                                    ],
+                                    "T": [
+                                        0.0f,
+                                        4.25f,
+                                        0.0f
+                                    ],
+                                    "Limb": "cube",
+                                    "Morph": {
+                                        "Background": -1879048192,
+                                        "Max": 140,
+                                        "Label": "[7Топлива залито: [fgg.л",
+                                        "ShadowX": -0.0f,
+                                        "Name": "label",
+                                        "Offset": 5.0f
+                                    }
+                                },
+                                {
+                                    "S": [
+                                        0.9f,
+                                        0.9f,
+                                        0.9f
+                                    ],
+                                    "T": [
+                                        0.0f,
+                                        4.65f,
+                                        0.0f
+                                    ],
+                                    "Limb": "cube",
+                                    "Morph": {
+                                        "Background": -1879048192,
+                                        "Max": 140,
+                                        "Label": "[7Ящиков открыто: [fgg",
+                                        "ShadowX": -0.0f,
+                                        "Name": "label",
+                                        "Offset": 5.0f
+                                    }
+                                },
+                                {
+                                    "S": [
+                                        0.9f,
+                                        0.9f,
+                                        0.9f
+                                    ],
+                                    "T": [
+                                        0.0f,
+                                        5.05f,
+                                        0.0f
+                                    ],
+                                    "Limb": "cube",
+                                    "Morph": {
+                                        "Background": -1879048192,
+                                        "Max": 140,
+                                        "Label": "[7Минералов добыто: [fgg",
+                                        "ShadowX": -0.0f,
+                                        "Name": "label",
+                                        "Offset": 5.0f
+                                    }
+                                },
+                                {
+                                    "S": [
+                                        0.9f,
+                                        0.9f,
+                                        0.9f
+                                    ],
+                                    "T": [
+                                        0.0f,
+                                        5.45f,
+                                        0.0f
+                                    ],
+                                    "Limb": "cube",
+                                    "Morph": {
+                                        "Background": -1879048192,
+                                        "Max": 140,
+                                        "Label": "[7Выстрелов: [fgg",
+                                        "ShadowX": -0.0f,
+                                        "Name": "label",
+                                        "Offset": 5.0f
+                                    }
+                                },
+                                {
+                                    "S": [
+                                        0.9f,
+                                        0.9f,
+                                        0.9f
+                                    ],
+                                    "T": [
+                                        0.0f,
+                                        5.85f,
+                                        0.0f
+                                    ],
+                                    "Limb": "cube",
+                                    "Morph": {
+                                        "Background": -1879048192,
+                                        "Max": 140,
+                                        "Label": "[7Клекошника собрано: [fgg",
+                                        "ShadowX": -0.0f,
+                                        "Name": "label",
+                                        "Offset": 5.0f
+                                    }
+                                },
+                                {
+                                    "S": [
+                                        0.9f,
+                                        0.9f,
+                                        0.9f
+                                    ],
+                                    "T": [
+                                        0.0f,
+                                        6.25f,
+                                        0.0f
+                                    ],
+                                    "Limb": "cube",
+                                    "Morph": {
+                                        "Background": -1879048192,
+                                        "Max": 140,
+                                        "Label": "[7Смертей: [fgg",
+                                        "ShadowX": -0.0f,
+                                        "Name": "label",
+                                        "Offset": 5.0f
+                                    }
+                                },
+                                {
+                                    "S": [
+                                        0.9f,
+                                        0.9f,
+                                        0.9f
+                                    ],
+                                    "T": [
+                                        0.0f,
+                                        6.8f,
+                                        0.0f
+                                    ],
+                                    "Limb": "cube",
+                                    "Morph": {
+                                        "Background": -1879048192,
+                                        "Max": 70,
+                                        "Label": "\\[[eF[f] Закрыть",
+                                        "ShadowX": -0.0f,
+                                        "Name": "label",
+                                        "Offset": 1.0f
+                                    }
+                                }
+                            ],
+                            "Settings": {
+                                "Hands": 1b
+                            },
+                            "Name": "blockbuster.empty"
+                        },
+                        "Duration": 0.0f,
+                        "EndPoint": 0b
+                    },
+                    {
+                        "Random": 0.0f,
+                        "SetDuration": 0b,
+                        "Morph": {
+                            "Animation": {
+                                "Interp": 21,
+                                "Animates": 1b
+                            },
+                            "Skin": "b.a:empty/skins/texture.png",
+                            "CustomPose": {
+                                "Size": [
+                                    1.0f,
+                                    1.0f,
+                                    1.0f
+                                ],
+                                "Poses": {
+                                    "cube": {
+                                    }
+                                }
+                            },
+                            "BodyParts": [
+                                {
+                                    "T": [
+                                        0.0f,
+                                        -0.2f,
+                                        0.0f
+                                    ],
+                                    "Limb": "cube",
+                                    "Morph": {
+                                        "Background": -1879048192,
+                                        "Max": 140,
+                                        "Label": "[4ПОРАЖЕНИЕ",
+                                        "ShadowX": -0.0f,
+                                        "Name": "label",
+                                        "Offset": 5.0f
+                                    }
+                                },
+                                {
+                                    "S": [
+                                        0.9f,
+                                        0.9f,
+                                        0.9f
+                                    ],
+                                    "T": [
+                                        0.0f,
+                                        0.25f,
+                                        0.0f
+                                    ],
+                                    "Limb": "cube",
+                                    "Morph": {
+                                        "Background": -1879048192,
+                                        "Max": 140,
+                                        "Label": "[7Денег заработано: [fgg[7$",
+                                        "ShadowX": -0.0f,
+                                        "Name": "label",
+                                        "Offset": 5.0f
+                                    }
+                                },
+                                {
+                                    "S": [
+                                        0.9f,
+                                        0.9f,
+                                        0.9f
+                                    ],
+                                    "T": [
+                                        0.0f,
+                                        0.65f,
+                                        0.0f
+                                    ],
+                                    "Limb": "cube",
+                                    "Morph": {
+                                        "Background": -1879048192,
+                                        "Max": 140,
+                                        "Label": "[7Товаров продано: [fgg",
+                                        "ShadowX": -0.0f,
+                                        "Name": "label",
+                                        "Offset": 5.0f
+                                    }
+                                },
+                                {
+                                    "S": [
+                                        0.9f,
+                                        0.9f,
+                                        0.9f
+                                    ],
+                                    "T": [
+                                        0.0f,
+                                        1.05f,
+                                        0.0f
+                                    ],
+                                    "Limb": "cube",
+                                    "Morph": {
+                                        "Background": -1879048192,
+                                        "Max": 140,
+                                        "Label": "[7Дней прожито: [fgg",
+                                        "ShadowX": -0.0f,
+                                        "Name": "label",
+                                        "Offset": 5.0f
+                                    }
+                                },
+                                {
+                                    "S": [
+                                        0.9f,
+                                        0.9f,
+                                        0.9f
+                                    ],
+                                    "T": [
+                                        0.0f,
+                                        1.45f,
+                                        0.0f
+                                    ],
+                                    "Limb": "cube",
+                                    "Morph": {
+                                        "Background": -1879048192,
+                                        "Max": 140,
+                                        "Label": "[7Фото загружено: [fgg",
+                                        "ShadowX": -0.0f,
+                                        "Name": "label",
+                                        "Offset": 5.0f
+                                    }
+                                },
+                                {
+                                    "S": [
+                                        0.9f,
+                                        0.9f,
+                                        0.9f
+                                    ],
+                                    "T": [
+                                        0.0f,
+                                        1.85f,
+                                        0.0f
+                                    ],
+                                    "Limb": "cube",
+                                    "Morph": {
+                                        "Background": -1879048192,
+                                        "Max": 140,
+                                        "Label": "[7Аптечек применено: [fgg",
+                                        "ShadowX": -0.0f,
+                                        "Name": "label",
+                                        "Offset": 5.0f
+                                    }
+                                },
+                                {
+                                    "S": [
+                                        0.9f,
+                                        0.9f,
+                                        0.9f
+                                    ],
+                                    "T": [
+                                        0.0f,
+                                        2.25f,
+                                        0.0f
+                                    ],
+                                    "Limb": "cube",
+                                    "Morph": {
+                                        "Background": -1879048192,
+                                        "Max": 140,
+                                        "Label": "[7Предметов куплено: [fgg",
+                                        "ShadowX": -0.0f,
+                                        "Name": "label",
+                                        "Offset": 5.0f
+                                    }
+                                },
+                                {
+                                    "S": [
+                                        0.9f,
+                                        0.9f,
+                                        0.9f
+                                    ],
+                                    "T": [
+                                        0.0f,
+                                        2.65f,
+                                        0.0f
+                                    ],
+                                    "Limb": "cube",
+                                    "Morph": {
+                                        "Background": -1879048192,
+                                        "Max": 140,
+                                        "Label": "[7Досок сломано: [fgg",
+                                        "ShadowX": -0.0f,
+                                        "Name": "label",
+                                        "Offset": 5.0f
+                                    }
+                                },
+                                {
+                                    "S": [
+                                        0.9f,
+                                        0.9f,
+                                        0.9f
+                                    ],
+                                    "T": [
+                                        0.0f,
+                                        3.05f,
+                                        0.0f
+                                    ],
+                                    "Limb": "cube",
+                                    "Morph": {
+                                        "Background": -1879048192,
+                                        "Max": 140,
+                                        "Label": "[7Кладов вырыто: [fgg",
+                                        "ShadowX": -0.0f,
+                                        "Name": "label",
+                                        "Offset": 5.0f
+                                    }
+                                },
+                                {
+                                    "S": [
+                                        0.9f,
+                                        0.9f,
+                                        0.9f
+                                    ],
+                                    "T": [
+                                        0.0f,
+                                        3.45f,
+                                        0.0f
+                                    ],
+                                    "Limb": "cube",
+                                    "Morph": {
+                                        "Background": -1879048192,
+                                        "Max": 140,
+                                        "Label": "[7Спотыканий: [fgg",
+                                        "ShadowX": -0.0f,
+                                        "Name": "label",
+                                        "Offset": 5.0f
+                                    }
+                                },
+                                {
+                                    "S": [
+                                        0.9f,
+                                        0.9f,
+                                        0.9f
+                                    ],
+                                    "T": [
+                                        0.0f,
+                                        3.85f,
+                                        0.0f
+                                    ],
+                                    "Limb": "cube",
+                                    "Morph": {
+                                        "Background": -1879048192,
+                                        "Max": 140,
+                                        "Label": "[7Оленей убито: [fgg",
+                                        "ShadowX": -0.0f,
+                                        "Name": "label",
+                                        "Offset": 5.0f
+                                    }
+                                },
+                                {
+                                    "S": [
+                                        0.9f,
+                                        0.9f,
+                                        0.9f
+                                    ],
+                                    "T": [
+                                        0.0f,
+                                        4.25f,
+                                        0.0f
+                                    ],
+                                    "Limb": "cube",
+                                    "Morph": {
+                                        "Background": -1879048192,
+                                        "Max": 140,
+                                        "Label": "[7Топлива залито: [fgg.л",
+                                        "ShadowX": -0.0f,
+                                        "Name": "label",
+                                        "Offset": 5.0f
+                                    }
+                                },
+                                {
+                                    "S": [
+                                        0.9f,
+                                        0.9f,
+                                        0.9f
+                                    ],
+                                    "T": [
+                                        0.0f,
+                                        4.65f,
+                                        0.0f
+                                    ],
+                                    "Limb": "cube",
+                                    "Morph": {
+                                        "Background": -1879048192,
+                                        "Max": 140,
+                                        "Label": "[7Ящиков открыто: [fgg",
+                                        "ShadowX": -0.0f,
+                                        "Name": "label",
+                                        "Offset": 5.0f
+                                    }
+                                },
+                                {
+                                    "S": [
+                                        0.9f,
+                                        0.9f,
+                                        0.9f
+                                    ],
+                                    "T": [
+                                        0.0f,
+                                        5.05f,
+                                        0.0f
+                                    ],
+                                    "Limb": "cube",
+                                    "Morph": {
+                                        "Background": -1879048192,
+                                        "Max": 140,
+                                        "Label": "[7Минералов добыто: [fgg",
+                                        "ShadowX": -0.0f,
+                                        "Name": "label",
+                                        "Offset": 5.0f
+                                    }
+                                },
+                                {
+                                    "S": [
+                                        0.9f,
+                                        0.9f,
+                                        0.9f
+                                    ],
+                                    "T": [
+                                        0.0f,
+                                        5.45f,
+                                        0.0f
+                                    ],
+                                    "Limb": "cube",
+                                    "Morph": {
+                                        "Background": -1879048192,
+                                        "Max": 140,
+                                        "Label": "[7Выстрелов: [fgg",
+                                        "ShadowX": -0.0f,
+                                        "Name": "label",
+                                        "Offset": 5.0f
+                                    }
+                                },
+                                {
+                                    "S": [
+                                        0.9f,
+                                        0.9f,
+                                        0.9f
+                                    ],
+                                    "T": [
+                                        0.0f,
+                                        5.85f,
+                                        0.0f
+                                    ],
+                                    "Limb": "cube",
+                                    "Morph": {
+                                        "Background": -1879048192,
+                                        "Max": 140,
+                                        "Label": "[7Клекошника собрано: [fgg",
+                                        "ShadowX": -0.0f,
+                                        "Name": "label",
+                                        "Offset": 5.0f
+                                    }
+                                },
+                                {
+                                    "S": [
+                                        0.9f,
+                                        0.9f,
+                                        0.9f
+                                    ],
+                                    "T": [
+                                        0.0f,
+                                        6.25f,
+                                        0.0f
+                                    ],
+                                    "Limb": "cube",
+                                    "Morph": {
+                                        "Background": -1879048192,
+                                        "Max": 140,
+                                        "Label": "[7Смертей: [fgg",
+                                        "ShadowX": -0.0f,
+                                        "Name": "label",
+                                        "Offset": 5.0f
+                                    }
+                                },
+                                {
+                                    "S": [
+                                        0.9f,
+                                        0.9f,
+                                        0.9f
+                                    ],
+                                    "T": [
+                                        0.0f,
+                                        6.8f,
+                                        0.0f
+                                    ],
+                                    "Limb": "cube",
+                                    "Morph": {
+                                        "Background": -1879048192,
+                                        "Max": 70,
+                                        "Label": "\\[[eF[f] Закрыть",
+                                        "ShadowX": -0.0f,
+                                        "Name": "label"
+                                    }
+                                }
+                            ],
+                            "Settings": {
+                                "Hands": 1b
+                            },
+                            "Name": "blockbuster.empty"
+                        },
+                        "Duration": 10.0f,
+                        "EndPoint": 0b
+                    }
+                ],
+                "Name": "sequencer",
+                "Offset": [
+                    0.0f,
+                    0.0f,
+                    0.0f
+                ]
+            },
+            "OrthoY": 0.5f,
+            "Scale": [
+                55.0f,
+                50.0f,
+                0.0f
+            ],
+            "OrthoX": 0.5f,
+            "Translate": [
+                0.0f,
+                150.0f,
+                0.3f
+            ]
+        }
+    ],
+    "Global": 0b
+}

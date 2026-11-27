@@ -1,0 +1,44 @@
+[2024_12_26 02:07:39] [ERROR] test.js:86:1148 Expected , but found ;
+    uiContext.get("morphPlayer").morph(mappet.createMorph("{Hitbox:{Eye:0.9f,Sneak:1.65f,Enabled:1b,Height:1.8f},Pose:{Pose:{head:{},right_knee:{},right_arm:{},left_leg:{},torso:{},left_arm:{},right_leg:{},model:{},right_elbow:{},left_knee:{},left_elbow:{}}},Transition:{Interp:21,Duration:5},Skin:\""+(JSON.parse(s.getStates().getString('skin')).link+"\",Scale:0.925f,BodyParts:[{R:[0.0f,180.0f,0.0f],S:["+JSON.parse(s.getStates().getString('skinhead')).scaleX+"f,"+JSON.parse(s.getStates().getString('skinhead')).scaleY+"f,"+JSON.parse(s.getStates().getString('skinhead')).scaleZ+"f],T:["+JSON.parse(s.getStates().getString('skinhead')).posX+"f,"+JSON.parse(s.getStates().getString('skinhead')).posY+"f,"+JSON.parse(s.getStates().getString('skinhead')).posZ+"f],Limb:\"head\",Morph:{Materials:{"+JSON.parse(s.getStates().getString('skinhead')).materials+":\""+JSON.parse(s.getStates().getString('skinhead')).texture+"\"},Settings:{Hands:1b},Name:\""+JSON.parse(s.getStates().getString('skinhead')).model+"\"}}],Settings:{Hands:1b},Name:\"chameleon.hnt_" + (JSON.parse(s.getStates().getString('skin')).type == 'fred' ? 'male' : 'female') + "\"}"));
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            ^ in test.js at line number 86 at column number 1148
+[2024_12_26 02:08:02] [ERROR] test.js:86:1148 Expected , but found ;
+    uiContext.get("morphPlayer").morph(mappet.createMorph("{Hitbox:{Eye:0.9f,Sneak:1.65f,Enabled:1b,Height:1.8f},Pose:{Pose:{head:{},right_knee:{},right_arm:{},left_leg:{},torso:{},left_arm:{},right_leg:{},model:{},right_elbow:{},left_knee:{},left_elbow:{}}},Transition:{Interp:21,Duration:5},Skin:\""+(JSON.parse(s.getStates().getString('skin')).link+"\",Scale:0.925f,BodyParts:[{R:[0.0f,180.0f,0.0f],S:["+JSON.parse(s.getStates().getString('skinhead')).scaleX+"f,"+JSON.parse(s.getStates().getString('skinhead')).scaleY+"f,"+JSON.parse(s.getStates().getString('skinhead')).scaleZ+"f],T:["+JSON.parse(s.getStates().getString('skinhead')).posX+"f,"+JSON.parse(s.getStates().getString('skinhead')).posY+"f,"+JSON.parse(s.getStates().getString('skinhead')).posZ+"f],Limb:\"head\",Morph:{Materials:{"+JSON.parse(s.getStates().getString('skinhead')).materials+":\""+JSON.parse(s.getStates().getString('skinhead')).texture+"\"},Settings:{Hands:1b},Name:\""+JSON.parse(s.getStates().getString('skinhead')).model+"\"}}],Settings:{Hands:1b},Name:\"chameleon.hnt_" + (JSON.parse(s.getStates().getString('skin')).type == 'fred' ? 'male' : 'female') + "\"}"));
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            ^ in test.js at line number 86 at column number 1148
+[2024_12_26 02:22:37] [ERROR] test.js:60:85 Expected ; but found )
+    if(data.getString("strings") == "Без шапки" && uiContext.getLast() == "strings") ) {
+                                                                                     ^ in test.js at line number 60 at column number 85
+[2024_12_26 02:22:39] [ERROR] test.js:60:85 Expected ; but found )
+    if(data.getString("strings") == "Без шапки" && uiContext.getLast() == "strings") ) {
+                                                                                     ^ in test.js at line number 60 at column number 85
+[2024_12_26 02:26:54] [ERROR] TypeError: s.isClosed is not a function in test.js at line number 88
+[2024_12_26 02:26:59] [ERROR] TypeError: s.isClosed is not a function in test.js at line number 88
+[2024_12_26 02:27:55] [ERROR] test.js:91:4 Expected an operand but found else
+    else if(uiContext.isClosed()) {
+    ^ in test.js at line number 91 at column number 4
+[2024_12_26 02:31:48] [ERROR] test.js:95:1 Expected } but found eof
+}
+ ^ in test.js at line number 95 at column number 1
+[2024_12_26 02:31:50] [ERROR] test.js:95:1 Expected } but found eof
+}
+ ^ in test.js at line number 95 at column number 1
+[2024_12_26 02:32:04] [ERROR] ReferenceError: "_0x3e1230" is not defined in test.js at line number 85
+[2024_12_26 02:32:05] [ERROR] ReferenceError: "_0x3e1230" is not defined in test.js at line number 85
+[2024_12_26 02:32:08] [ERROR] ReferenceError: "_0x3e1230" is not defined in test.js at line number 85
+[2024_12_26 02:32:08] [ERROR] ReferenceError: "_0x3e1230" is not defined in test.js at line number 85
+[2024_12_26 02:32:08] [ERROR] ReferenceError: "_0x3e1230" is not defined in test.js at line number 85
+[2024_12_26 02:32:08] [ERROR] ReferenceError: "_0x3e1230" is not defined in test.js at line number 85
+[2024_12_26 02:32:09] [ERROR] ReferenceError: "_0x3e1230" is not defined in test.js at line number 85
+[2024_12_26 02:32:09] [ERROR] ReferenceError: "_0x3e1230" is not defined in test.js at line number 85
+[2024_12_26 02:32:09] [ERROR] ReferenceError: "_0x3e1230" is not defined in test.js at line number 85
+[2024_12_26 02:32:09] [ERROR] ReferenceError: "_0x3e1230" is not defined in test.js at line number 85
+[2024_12_26 02:32:09] [ERROR] ReferenceError: "_0x3e1230" is not defined in test.js at line number 85
+[2024_12_26 02:32:09] [ERROR] ReferenceError: "_0x3e1230" is not defined in test.js at line number 85
+[2024_12_26 02:32:10] [ERROR] ReferenceError: "_0x3e1230" is not defined in test.js at line number 85
+[2024_12_26 02:32:10] [ERROR] ReferenceError: "_0x3e1230" is not defined in test.js at line number 85
+[2024_12_26 02:32:11] [ERROR] ReferenceError: "_0x3e1230" is not defined in test.js at line number 85
+[2024_12_26 02:32:11] [ERROR] ReferenceError: "_0x3e1230" is not defined in test.js at line number 85
+[2024_12_26 02:32:11] [ERROR] ReferenceError: "_0x3e1230" is not defined in test.js at line number 85
+[2024_12_26 02:32:12] [ERROR] ReferenceError: "_0x3e1230" is not defined in test.js at line number 85
+[2024_12_26 02:32:12] [ERROR] ReferenceError: "_0x3e1230" is not defined in test.js at line number 85
+[2024_12_26 02:32:12] [ERROR] ReferenceError: "_0x3e1230" is not defined in test.js at line number 85
+[2024_12_26 02:32:12] [ERROR] ReferenceError: "_0x3e1230" is not defined in test.js at line number 85

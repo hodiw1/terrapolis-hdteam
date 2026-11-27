@@ -1,0 +1,8 @@
+{
+    "GlobalLibrary": 0b,
+    "Unique": 1b,
+    "Libraries": [
+        "Node.js",
+        "CommonLibrary.js"
+    ]
+}

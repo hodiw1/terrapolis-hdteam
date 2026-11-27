@@ -1,6 +1,6 @@
 {
   "name": "DebtHunt",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "minecraft_version": "1.12.2",
   "loader": {
     "type": "forge",
@@ -1946,6 +1946,1458 @@
       "sha256": "33afe26006f0da60de94c9a07d264d6abeb12b252a85caf147d1fb3c068132c8",
       "size": 386649,
       "url": "https://raw.githubusercontent.com/hodiw1/terrapolis-hdteam/main/instances/debthunt/pack/resourcepacks/%C2%A76DEBT%20HUNT%C2%A7f%20%C2%A73WINTER.zip"
+    },
+    {
+      "path": "saves/WINTER DebtHunt v0.5/advancements/31287291-5f5e-34ff-82ba-316f51223913.json",
+      "sha256": "44136fa355b3678a1146ad16f7e8649e94fb4fc21fe77e8310c060f61caaff8a",
+      "size": 2,
+      "url": "https://raw.githubusercontent.com/hodiw1/terrapolis-hdteam/main/instances/debthunt/pack/saves/WINTER%20DebtHunt%20v0.5/advancements/31287291-5f5e-34ff-82ba-316f51223913.json"
+    },
+    {
+      "path": "saves/WINTER DebtHunt v0.5/advancements/39e3414f-c4cf-4d12-9cc4-9f1a4dacd35f.json",
+      "sha256": "25ee4b10972c1c2e26572bed0111cc84f15dae4c4c3062cded317e985303ed35",
+      "size": 729,
+      "url": "https://raw.githubusercontent.com/hodiw1/terrapolis-hdteam/main/instances/debthunt/pack/saves/WINTER%20DebtHunt%20v0.5/advancements/39e3414f-c4cf-4d12-9cc4-9f1a4dacd35f.json"
+    },
+    {
+      "path": "saves/WINTER DebtHunt v0.5/advancements/446a95e5-81a7-3429-b617-43be9a799ea7.json",
+      "sha256": "44136fa355b3678a1146ad16f7e8649e94fb4fc21fe77e8310c060f61caaff8a",
+      "size": 2,
+      "url": "https://raw.githubusercontent.com/hodiw1/terrapolis-hdteam/main/instances/debthunt/pack/saves/WINTER%20DebtHunt%20v0.5/advancements/446a95e5-81a7-3429-b617-43be9a799ea7.json"
+    },
+    {
+      "path": "saves/WINTER DebtHunt v0.5/advancements/9bb2e857-ecd9-4814-abd6-6f46d23021e9.json",
+      "sha256": "a432188ad9a697a4de7b91e926c607771acb70f24cf3dfc751557be8248f7d4b",
+      "size": 2178,
+      "url": "https://raw.githubusercontent.com/hodiw1/terrapolis-hdteam/main/instances/debthunt/pack/saves/WINTER%20DebtHunt%20v0.5/advancements/9bb2e857-ecd9-4814-abd6-6f46d23021e9.json"
+    },
+    {
+      "path": "saves/WINTER DebtHunt v0.5/advancements/a5f5fcae-0da3-4c66-9b49-13ee3c04dd97.json",
+      "sha256": "0095fde911e144e8f44f871fe25c4ed82e5ee0002ff290661bc57bb6dead8ed1",
+      "size": 428,
+      "url": "https://raw.githubusercontent.com/hodiw1/terrapolis-hdteam/main/instances/debthunt/pack/saves/WINTER%20DebtHunt%20v0.5/advancements/a5f5fcae-0da3-4c66-9b49-13ee3c04dd97.json"
+    },
+    {
+      "path": "saves/WINTER DebtHunt v0.5/advancements/c4a6135d-df86-3adc-8cf0-3e6ce5b74d48.json",
+      "sha256": "44136fa355b3678a1146ad16f7e8649e94fb4fc21fe77e8310c060f61caaff8a",
+      "size": 2,
+      "url": "https://raw.githubusercontent.com/hodiw1/terrapolis-hdteam/main/instances/debthunt/pack/saves/WINTER%20DebtHunt%20v0.5/advancements/c4a6135d-df86-3adc-8cf0-3e6ce5b74d48.json"
+    },
+    {
+      "path": "saves/WINTER DebtHunt v0.5/advancements/e9178ab0-e568-3130-986a-21b446f0faee.json",
+      "sha256": "44136fa355b3678a1146ad16f7e8649e94fb4fc21fe77e8310c060f61caaff8a",
+      "size": 2,
+      "url": "https://raw.githubusercontent.com/hodiw1/terrapolis-hdteam/main/instances/debthunt/pack/saves/WINTER%20DebtHunt%20v0.5/advancements/e9178ab0-e568-3130-986a-21b446f0faee.json"
+    },
+    {
+      "path": "saves/WINTER DebtHunt v0.5/blockbuster/records/test_1.dat",
+      "sha256": "fdb033d083fd70b6be288d5d6e1bb64f31e1583a57c6456839aa57be83b97e8b",
+      "size": 25036,
+      "url": "https://raw.githubusercontent.com/hodiw1/terrapolis-hdteam/main/instances/debthunt/pack/saves/WINTER%20DebtHunt%20v0.5/blockbuster/records/test_1.dat"
+    },
+    {
+      "path": "saves/WINTER DebtHunt v0.5/blockbuster/scenes/test.dat",
+      "sha256": "277da16ec1047a59dec5c8d45592e1fbbd6c59dc32d95a6a32f26ad0fc9ba267",
+      "size": 75,
+      "url": "https://raw.githubusercontent.com/hodiw1/terrapolis-hdteam/main/instances/debthunt/pack/saves/WINTER%20DebtHunt%20v0.5/blockbuster/scenes/test.dat"
+    },
+    {
+      "path": "saves/WINTER DebtHunt v0.5/data/capabilities.dat",
+      "sha256": "ece263c2d4292a78b928539ff4d5b1a4d6b7a043babda3fbdb74e1f669274972",
+      "size": 32,
+      "url": "https://raw.githubusercontent.com/hodiw1/terrapolis-hdteam/main/instances/debthunt/pack/saves/WINTER%20DebtHunt%20v0.5/data/capabilities.dat"
+    },
+    {
+      "path": "saves/WINTER DebtHunt v0.5/data/mappet_RespawnData.dat",
+      "sha256": "9ac7940121901f4d5305b6d27f00d1ff9bd459c07f0141aa8e829477dc2fccd1",
+      "size": 49,
+      "url": "https://raw.githubusercontent.com/hodiw1/terrapolis-hdteam/main/instances/debthunt/pack/saves/WINTER%20DebtHunt%20v0.5/data/mappet_RespawnData.dat"
+    },
+    {
+      "path": "saves/WINTER DebtHunt v0.5/data/scoreboard.dat",
+      "sha256": "85078c02c50f5064547feb95d4ab0ef32ede9c79bbd80f7527761806d5eb07db",
+      "size": 69,
+      "url": "https://raw.githubusercontent.com/hodiw1/terrapolis-hdteam/main/instances/debthunt/pack/saves/WINTER%20DebtHunt%20v0.5/data/scoreboard.dat"
+    },
+    {
+      "path": "saves/WINTER DebtHunt v0.5/data/villages.dat",
+      "sha256": "3c5bdc77de3e8a5021adf3a899b49f16dae7b4ea8d1342abcdd3478b669896f5",
+      "size": 56,
+      "url": "https://raw.githubusercontent.com/hodiw1/terrapolis-hdteam/main/instances/debthunt/pack/saves/WINTER%20DebtHunt%20v0.5/data/villages.dat"
+    },
+    {
+      "path": "saves/WINTER DebtHunt v0.5/DIM-1/data/capabilities.dat",
+      "sha256": "ece263c2d4292a78b928539ff4d5b1a4d6b7a043babda3fbdb74e1f669274972",
+      "size": 32,
+      "url": "https://raw.githubusercontent.com/hodiw1/terrapolis-hdteam/main/instances/debthunt/pack/saves/WINTER%20DebtHunt%20v0.5/DIM-1/data/capabilities.dat"
+    },
+    {
+      "path": "saves/WINTER DebtHunt v0.5/DIM-1/data/villages_nether.dat",
+      "sha256": "2437ad71ab04a142474c64d6eb2e1836bd062b922d6f6d7ed69e78fada30609d",
+      "size": 55,
+      "url": "https://raw.githubusercontent.com/hodiw1/terrapolis-hdteam/main/instances/debthunt/pack/saves/WINTER%20DebtHunt%20v0.5/DIM-1/data/villages_nether.dat"
+    },
+    {
+      "path": "saves/WINTER DebtHunt v0.5/DIM-1/forcedchunks.dat",
+      "sha256": "8a1ff1d28cc89befe2b93aec31a800604d46b8e653e6a106d409a240cda20738",
+      "size": 22,
+      "url": "https://raw.githubusercontent.com/hodiw1/terrapolis-hdteam/main/instances/debthunt/pack/saves/WINTER%20DebtHunt%20v0.5/DIM-1/forcedchunks.dat"
+    },
+    {
+      "path": "saves/WINTER DebtHunt v0.5/DIM1/data/capabilities.dat",
+      "sha256": "ece263c2d4292a78b928539ff4d5b1a4d6b7a043babda3fbdb74e1f669274972",
+      "size": 32,
+      "url": "https://raw.githubusercontent.com/hodiw1/terrapolis-hdteam/main/instances/debthunt/pack/saves/WINTER%20DebtHunt%20v0.5/DIM1/data/capabilities.dat"
+    },
+    {
+      "path": "saves/WINTER DebtHunt v0.5/DIM1/data/villages_end.dat",
+      "sha256": "2437ad71ab04a142474c64d6eb2e1836bd062b922d6f6d7ed69e78fada30609d",
+      "size": 55,
+      "url": "https://raw.githubusercontent.com/hodiw1/terrapolis-hdteam/main/instances/debthunt/pack/saves/WINTER%20DebtHunt%20v0.5/DIM1/data/villages_end.dat"
+    },
+    {
+      "path": "saves/WINTER DebtHunt v0.5/DIM1/forcedchunks.dat",
+      "sha256": "8a1ff1d28cc89befe2b93aec31a800604d46b8e653e6a106d409a240cda20738",
+      "size": 22,
+      "url": "https://raw.githubusercontent.com/hodiw1/terrapolis-hdteam/main/instances/debthunt/pack/saves/WINTER%20DebtHunt%20v0.5/DIM1/forcedchunks.dat"
+    },
+    {
+      "path": "saves/WINTER DebtHunt v0.5/forcedchunks.dat",
+      "sha256": "8a1ff1d28cc89befe2b93aec31a800604d46b8e653e6a106d409a240cda20738",
+      "size": 22,
+      "url": "https://raw.githubusercontent.com/hodiw1/terrapolis-hdteam/main/instances/debthunt/pack/saves/WINTER%20DebtHunt%20v0.5/forcedchunks.dat"
+    },
+    {
+      "path": "saves/WINTER DebtHunt v0.5/huntSchemas/buildingLeft.json",
+      "sha256": "298cc6ae1883e62c0e481c83a061fdd97ac1f79ab50bc5df0861c27566be6369",
+      "size": 67097,
+      "url": "https://raw.githubusercontent.com/hodiw1/terrapolis-hdteam/main/instances/debthunt/pack/saves/WINTER%20DebtHunt%20v0.5/huntSchemas/buildingLeft.json"
+    },
+    {
+      "path": "saves/WINTER DebtHunt v0.5/huntSchemas/buildingRight.json",
+      "sha256": "08b828153aa8ac4ff8fc27109c041a2b2048a3b0bd2b090c0c03a706cef7bfef",
+      "size": 65770,
+      "url": "https://raw.githubusercontent.com/hodiw1/terrapolis-hdteam/main/instances/debthunt/pack/saves/WINTER%20DebtHunt%20v0.5/huntSchemas/buildingRight.json"
+    },
+    {
+      "path": "saves/WINTER DebtHunt v0.5/huntSchemas/buildingUp.json",
+      "sha256": "09d906b6f235da6327fd7afa87113c0c2560cacda74f9b42213ef6c9fada6b62",
+      "size": 67704,
+      "url": "https://raw.githubusercontent.com/hodiw1/terrapolis-hdteam/main/instances/debthunt/pack/saves/WINTER%20DebtHunt%20v0.5/huntSchemas/buildingUp.json"
+    },
+    {
+      "path": "saves/WINTER DebtHunt v0.5/huntSchemas/camp.json",
+      "sha256": "5732a2066f8ce75e01f0717695f7dda6554bbbb83843e5ad4d2c885e050c295f",
+      "size": 23497,
+      "url": "https://raw.githubusercontent.com/hodiw1/terrapolis-hdteam/main/instances/debthunt/pack/saves/WINTER%20DebtHunt%20v0.5/huntSchemas/camp.json"
+    },
+    {
+      "path": "saves/WINTER DebtHunt v0.5/huntSchemas/houseLeft.json",
+      "sha256": "5f31dafb40750110a55e99aef0a1c141a948ef87d8e8a7a1de3ccbb947a655eb",
+      "size": 60689,
+      "url": "https://raw.githubusercontent.com/hodiw1/terrapolis-hdteam/main/instances/debthunt/pack/saves/WINTER%20DebtHunt%20v0.5/huntSchemas/houseLeft.json"
+    },
+    {
+      "path": "saves/WINTER DebtHunt v0.5/huntSchemas/houseRight.json",
+      "sha256": "41b1d36d3980f2b9db02caf2bd4189a87c1e5837990a1c2c7c4e6ed007c9a3e1",
+      "size": 60675,
+      "url": "https://raw.githubusercontent.com/hodiw1/terrapolis-hdteam/main/instances/debthunt/pack/saves/WINTER%20DebtHunt%20v0.5/huntSchemas/houseRight.json"
+    },
+    {
+      "path": "saves/WINTER DebtHunt v0.5/huntSchemas/houseUp.json",
+      "sha256": "0f75e3aa261740a5779edeb3854ddfa71c928ce355d6058744661e360c6a9dd6",
+      "size": 60835,
+      "url": "https://raw.githubusercontent.com/hodiw1/terrapolis-hdteam/main/instances/debthunt/pack/saves/WINTER%20DebtHunt%20v0.5/huntSchemas/houseUp.json"
+    },
+    {
+      "path": "saves/WINTER DebtHunt v0.5/huntSchemas/mine.json",
+      "sha256": "5b45618d9384f9841534921725e3886f9fc38d39350d21261dc899f692691d00",
+      "size": 28675,
+      "url": "https://raw.githubusercontent.com/hodiw1/terrapolis-hdteam/main/instances/debthunt/pack/saves/WINTER%20DebtHunt%20v0.5/huntSchemas/mine.json"
+    },
+    {
+      "path": "saves/WINTER DebtHunt v0.5/huntSchemas/null.json",
+      "sha256": "cc7937935e24e98c1b8836967b7dbd374b6233b802e46ce465e03d1f152f1740",
+      "size": 10508,
+      "url": "https://raw.githubusercontent.com/hodiw1/terrapolis-hdteam/main/instances/debthunt/pack/saves/WINTER%20DebtHunt%20v0.5/huntSchemas/null.json"
+    },
+    {
+      "path": "saves/WINTER DebtHunt v0.5/huntSchemas/shelter.json",
+      "sha256": "4739e060409e0851eaa508dc529bef5a1ab7365c7bda40a53466cce40193bc90",
+      "size": 26461,
+      "url": "https://raw.githubusercontent.com/hodiw1/terrapolis-hdteam/main/instances/debthunt/pack/saves/WINTER%20DebtHunt%20v0.5/huntSchemas/shelter.json"
+    },
+    {
+      "path": "saves/WINTER DebtHunt v0.5/huntSchemas/shelterUp.json",
+      "sha256": "7666d911c07cf0b38bda3fac597535d2759ef84cc0f13028cb475087e30371e8",
+      "size": 26479,
+      "url": "https://raw.githubusercontent.com/hodiw1/terrapolis-hdteam/main/instances/debthunt/pack/saves/WINTER%20DebtHunt%20v0.5/huntSchemas/shelterUp.json"
+    },
+    {
+      "path": "saves/WINTER DebtHunt v0.5/huntSchemas/tower.json",
+      "sha256": "b54e160168f927db9fd981aa16dcddaa8ae073776ebb5f6b036a7bb4f85ff7b5",
+      "size": 31806,
+      "url": "https://raw.githubusercontent.com/hodiw1/terrapolis-hdteam/main/instances/debthunt/pack/saves/WINTER%20DebtHunt%20v0.5/huntSchemas/tower.json"
+    },
+    {
+      "path": "saves/WINTER DebtHunt v0.5/icon.png",
+      "sha256": "5b34381d206cfcc40ab76e79cb936d38c1b63f2fee3e5cf01d84202d7bed9a91",
+      "size": 319,
+      "url": "https://raw.githubusercontent.com/hodiw1/terrapolis-hdteam/main/instances/debthunt/pack/saves/WINTER%20DebtHunt%20v0.5/icon.png"
+    },
+    {
+      "path": "saves/WINTER DebtHunt v0.5/level.dat",
+      "sha256": "69247024b8e1fba5797d17bf4d4a7ddcd94f6c07e7b52ead3305d6ef11954a50",
+      "size": 19753,
+      "url": "https://raw.githubusercontent.com/hodiw1/terrapolis-hdteam/main/instances/debthunt/pack/saves/WINTER%20DebtHunt%20v0.5/level.dat"
+    },
+    {
+      "path": "saves/WINTER DebtHunt v0.5/mappet/huds/beartrap.json",
+      "sha256": "04a1eea428101e88d0d43d7eed7fa2b46f4a3e1eecb3ed612ccd1ac740373cba",
+      "size": 2505,
+      "url": "https://raw.githubusercontent.com/hodiw1/terrapolis-hdteam/main/instances/debthunt/pack/saves/WINTER%20DebtHunt%20v0.5/mappet/huds/beartrap.json"
+    },
+    {
+      "path": "saves/WINTER DebtHunt v0.5/mappet/huds/camera.json",
+      "sha256": "4b976bd914dc2a13105163b2fa5f5e452ba426efaeed2ed130e44d4eae29e0d6",
+      "size": 5452,
+      "url": "https://raw.githubusercontent.com/hodiw1/terrapolis-hdteam/main/instances/debthunt/pack/saves/WINTER%20DebtHunt%20v0.5/mappet/huds/camera.json"
+    },
+    {
+      "path": "saves/WINTER DebtHunt v0.5/mappet/huds/camera_out.json",
+      "sha256": "66e40f83060955045fee7d31e1a35a10e8020a83b4f805b68430672d95f82f4e",
+      "size": 2608,
+      "url": "https://raw.githubusercontent.com/hodiw1/terrapolis-hdteam/main/instances/debthunt/pack/saves/WINTER%20DebtHunt%20v0.5/mappet/huds/camera_out.json"
+    },
+    {
+      "path": "saves/WINTER DebtHunt v0.5/mappet/huds/death.json",
+      "sha256": "0b2bb41ea92ab78952d685cc4804da275ec5896848e3d45963564e502c69e8d7",
+      "size": 1991,
+      "url": "https://raw.githubusercontent.com/hodiw1/terrapolis-hdteam/main/instances/debthunt/pack/saves/WINTER%20DebtHunt%20v0.5/mappet/huds/death.json"
+    },
+    {
+      "path": "saves/WINTER DebtHunt v0.5/mappet/huds/game_end.json",
+      "sha256": "884414f1ec8cbdc426916b21ba8e5455f13bc6f73db0820b3f885e2bb6dd5dd9",
+      "size": 7142,
+      "url": "https://raw.githubusercontent.com/hodiw1/terrapolis-hdteam/main/instances/debthunt/pack/saves/WINTER%20DebtHunt%20v0.5/mappet/huds/game_end.json"
+    },
+    {
+      "path": "saves/WINTER DebtHunt v0.5/mappet/huds/grit.json",
+      "sha256": "477701901a95f28a0d22abe7fcd0a9a824205523bf7582f317ee79b23b4b509d",
+      "size": 2544,
+      "url": "https://raw.githubusercontent.com/hodiw1/terrapolis-hdteam/main/instances/debthunt/pack/saves/WINTER%20DebtHunt%20v0.5/mappet/huds/grit.json"
+    },
+    {
+      "path": "saves/WINTER DebtHunt v0.5/mappet/huds/HUD_flickering.json",
+      "sha256": "374d8642f7a6f98cef6b5c46c47f25006075b236d2da66508ddee7e5b6da7904",
+      "size": 9413,
+      "url": "https://raw.githubusercontent.com/hodiw1/terrapolis-hdteam/main/instances/debthunt/pack/saves/WINTER%20DebtHunt%20v0.5/mappet/huds/HUD_flickering.json"
+    },
+    {
+      "path": "saves/WINTER DebtHunt v0.5/mappet/huds/hurt.json",
+      "sha256": "6c57451a2d70ff87a5b08032316fea6b09c388d17c6c797c125ea56cafb53a84",
+      "size": 1198,
+      "url": "https://raw.githubusercontent.com/hodiw1/terrapolis-hdteam/main/instances/debthunt/pack/saves/WINTER%20DebtHunt%20v0.5/mappet/huds/hurt.json"
+    },
+    {
+      "path": "saves/WINTER DebtHunt v0.5/mappet/huds/hurt_backup.json",
+      "sha256": "8e01383840b404146527ac0ad02b1700608de7a09914c1c31306858b9ae1a043",
+      "size": 2995,
+      "url": "https://raw.githubusercontent.com/hodiw1/terrapolis-hdteam/main/instances/debthunt/pack/saves/WINTER%20DebtHunt%20v0.5/mappet/huds/hurt_backup.json"
+    },
+    {
+      "path": "saves/WINTER DebtHunt v0.5/mappet/huds/hurt_loop.json",
+      "sha256": "0714a69661172d3e4645167fd06db303c5b88453537f496de1c351f9a745fc91",
+      "size": 1994,
+      "url": "https://raw.githubusercontent.com/hodiw1/terrapolis-hdteam/main/instances/debthunt/pack/saves/WINTER%20DebtHunt%20v0.5/mappet/huds/hurt_loop.json"
+    },
+    {
+      "path": "saves/WINTER DebtHunt v0.5/mappet/huds/info.json",
+      "sha256": "899d3cd174c768fb745e62488c0a85af5a4485628fa779df0b1ca6d9c6c7fba3",
+      "size": 450,
+      "url": "https://raw.githubusercontent.com/hodiw1/terrapolis-hdteam/main/instances/debthunt/pack/saves/WINTER%20DebtHunt%20v0.5/mappet/huds/info.json"
+    },
+    {
+      "path": "saves/WINTER DebtHunt v0.5/mappet/huds/infoTab.json",
+      "sha256": "4c360e5715e54dc1f7127b133adeba61de6af632187640ebf069f27c65e46b7e",
+      "size": 500,
+      "url": "https://raw.githubusercontent.com/hodiw1/terrapolis-hdteam/main/instances/debthunt/pack/saves/WINTER%20DebtHunt%20v0.5/mappet/huds/infoTab.json"
+    },
+    {
+      "path": "saves/WINTER DebtHunt v0.5/mappet/huds/loading.json",
+      "sha256": "9615ef4b576687ccf5ab68b360723a0305f14f25a57e3c70d65b83c8c0c0f131",
+      "size": 2947,
+      "url": "https://raw.githubusercontent.com/hodiw1/terrapolis-hdteam/main/instances/debthunt/pack/saves/WINTER%20DebtHunt%20v0.5/mappet/huds/loading.json"
+    },
+    {
+      "path": "saves/WINTER DebtHunt v0.5/mappet/huds/medkit.json",
+      "sha256": "a75c8b8b163f32d73234ed834daca1341754dedde666ed7c9ae0d53669c2e887",
+      "size": 1950,
+      "url": "https://raw.githubusercontent.com/hodiw1/terrapolis-hdteam/main/instances/debthunt/pack/saves/WINTER%20DebtHunt%20v0.5/mappet/huds/medkit.json"
+    },
+    {
+      "path": "saves/WINTER DebtHunt v0.5/mappet/huds/phase_change.json",
+      "sha256": "2417d546889d534537eebb7a17048c531505b109e98fbd9dc2c8600b83b52cbe",
+      "size": 11661,
+      "url": "https://raw.githubusercontent.com/hodiw1/terrapolis-hdteam/main/instances/debthunt/pack/saves/WINTER%20DebtHunt%20v0.5/mappet/huds/phase_change.json"
+    },
+    {
+      "path": "saves/WINTER DebtHunt v0.5/mappet/huds/playersReady.json",
+      "sha256": "6601562723bed7add1c068af3c78506f5fcdb7cba8d2eacc86af2135f28cf5de",
+      "size": 6067,
+      "url": "https://raw.githubusercontent.com/hodiw1/terrapolis-hdteam/main/instances/debthunt/pack/saves/WINTER%20DebtHunt%20v0.5/mappet/huds/playersReady.json"
+    },
+    {
+      "path": "saves/WINTER DebtHunt v0.5/mappet/huds/statistics.json",
+      "sha256": "2061e8d0e443619b5d3ff5b2add725125fb177400b6a8de0b6f4869dd5b730aa",
+      "size": 39534,
+      "url": "https://raw.githubusercontent.com/hodiw1/terrapolis-hdteam/main/instances/debthunt/pack/saves/WINTER%20DebtHunt%20v0.5/mappet/huds/statistics.json"
+    },
+    {
+      "path": "saves/WINTER DebtHunt v0.5/mappet/huds/stun.json",
+      "sha256": "9013c985646baba2ca16e96b80e6ff5adc8c09d33ccb283894235140bd169f53",
+      "size": 5180,
+      "url": "https://raw.githubusercontent.com/hodiw1/terrapolis-hdteam/main/instances/debthunt/pack/saves/WINTER%20DebtHunt%20v0.5/mappet/huds/stun.json"
+    },
+    {
+      "path": "saves/WINTER DebtHunt v0.5/mappet/huds/stun1.json",
+      "sha256": "bdc92f2208e7b4fcf7353b759067846cf927f12ee19226789447f07534552f57",
+      "size": 5366,
+      "url": "https://raw.githubusercontent.com/hodiw1/terrapolis-hdteam/main/instances/debthunt/pack/saves/WINTER%20DebtHunt%20v0.5/mappet/huds/stun1.json"
+    },
+    {
+      "path": "saves/WINTER DebtHunt v0.5/mappet/huds/test1231.json",
+      "sha256": "b88f3d6bc268a119f2008eeaf08f83acc721bf99ce2e5c4f29790877cbfb3df3",
+      "size": 634,
+      "url": "https://raw.githubusercontent.com/hodiw1/terrapolis-hdteam/main/instances/debthunt/pack/saves/WINTER%20DebtHunt%20v0.5/mappet/huds/test1231.json"
+    },
+    {
+      "path": "saves/WINTER DebtHunt v0.5/mappet/logs/2024-12-01-1.log",
+      "sha256": "ec0fed22a7d2221fad70d124832f0de06e405bdad1d6a2a4d90ff15eeddea1d6",
+      "size": 99,
+      "url": "https://raw.githubusercontent.com/hodiw1/terrapolis-hdteam/main/instances/debthunt/pack/saves/WINTER%20DebtHunt%20v0.5/mappet/logs/2024-12-01-1.log"
+    },
+    {
+      "path": "saves/WINTER DebtHunt v0.5/mappet/logs/2024-12-04-1.log",
+      "sha256": "ddf25df2b55a8e871387b5af3e33abb5659a93fd301a6e273b433f09c8ca17b3",
+      "size": 5106,
+      "url": "https://raw.githubusercontent.com/hodiw1/terrapolis-hdteam/main/instances/debthunt/pack/saves/WINTER%20DebtHunt%20v0.5/mappet/logs/2024-12-04-1.log"
+    },
+    {
+      "path": "saves/WINTER DebtHunt v0.5/mappet/logs/2024-12-14-1.log",
+      "sha256": "e493a5b2013cc8771351c585a212bb254362cab2288bf377c836167e6a942d0d",
+      "size": 288,
+      "url": "https://raw.githubusercontent.com/hodiw1/terrapolis-hdteam/main/instances/debthunt/pack/saves/WINTER%20DebtHunt%20v0.5/mappet/logs/2024-12-14-1.log"
+    },
+    {
+      "path": "saves/WINTER DebtHunt v0.5/mappet/logs/2024-12-15-1.log",
+      "sha256": "3483a9fe9b10dccfb7f5cd737e6b1906c38c9df00d55b2ad330038575f04e2a4",
+      "size": 104,
+      "url": "https://raw.githubusercontent.com/hodiw1/terrapolis-hdteam/main/instances/debthunt/pack/saves/WINTER%20DebtHunt%20v0.5/mappet/logs/2024-12-15-1.log"
+    },
+    {
+      "path": "saves/WINTER DebtHunt v0.5/mappet/logs/2024-12-15-2.log",
+      "sha256": "058eb09bf41b8d67ebe176260d82e8a41f5619717d1bea7c5823dffd47600bc0",
+      "size": 6259,
+      "url": "https://raw.githubusercontent.com/hodiw1/terrapolis-hdteam/main/instances/debthunt/pack/saves/WINTER%20DebtHunt%20v0.5/mappet/logs/2024-12-15-2.log"
+    },
+    {
+      "path": "saves/WINTER DebtHunt v0.5/mappet/logs/2024-12-15-3.log",
+      "sha256": "8444fc482cadfbc91e38280c98363e2063fbc75070cf9c6b7278da6120c11641",
+      "size": 230,
+      "url": "https://raw.githubusercontent.com/hodiw1/terrapolis-hdteam/main/instances/debthunt/pack/saves/WINTER%20DebtHunt%20v0.5/mappet/logs/2024-12-15-3.log"
+    },
+    {
+      "path": "saves/WINTER DebtHunt v0.5/mappet/logs/2024-12-15-4.log",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "size": 0,
+      "url": "https://raw.githubusercontent.com/hodiw1/terrapolis-hdteam/main/instances/debthunt/pack/saves/WINTER%20DebtHunt%20v0.5/mappet/logs/2024-12-15-4.log"
+    },
+    {
+      "path": "saves/WINTER DebtHunt v0.5/mappet/logs/2024-12-20-1.log",
+      "sha256": "350988ff79b094dee462928c00b50065206eec88241b6b00ed64ecaafea8e054",
+      "size": 52,
+      "url": "https://raw.githubusercontent.com/hodiw1/terrapolis-hdteam/main/instances/debthunt/pack/saves/WINTER%20DebtHunt%20v0.5/mappet/logs/2024-12-20-1.log"
+    },
+    {
+      "path": "saves/WINTER DebtHunt v0.5/mappet/logs/2024-12-20-2.log",
+      "sha256": "2b709a7a2ce828e7c2cae4f77876450a39d6ddf6aa6065e6bdb538a32d550522",
+      "size": 137,
+      "url": "https://raw.githubusercontent.com/hodiw1/terrapolis-hdteam/main/instances/debthunt/pack/saves/WINTER%20DebtHunt%20v0.5/mappet/logs/2024-12-20-2.log"
+    },
+    {
+      "path": "saves/WINTER DebtHunt v0.5/mappet/logs/2024-12-20-3.log",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "size": 0,
+      "url": "https://raw.githubusercontent.com/hodiw1/terrapolis-hdteam/main/instances/debthunt/pack/saves/WINTER%20DebtHunt%20v0.5/mappet/logs/2024-12-20-3.log"
+    },
+    {
+      "path": "saves/WINTER DebtHunt v0.5/mappet/logs/2024-12-20-4.log",
+      "sha256": "bd797034718de86199b15e78d022aa40a648c2f0d540065dcfb883b1a9d34c53",
+      "size": 52,
+      "url": "https://raw.githubusercontent.com/hodiw1/terrapolis-hdteam/main/instances/debthunt/pack/saves/WINTER%20DebtHunt%20v0.5/mappet/logs/2024-12-20-4.log"
+    },
+    {
+      "path": "saves/WINTER DebtHunt v0.5/mappet/logs/2024-12-20-5.log",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "size": 0,
+      "url": "https://raw.githubusercontent.com/hodiw1/terrapolis-hdteam/main/instances/debthunt/pack/saves/WINTER%20DebtHunt%20v0.5/mappet/logs/2024-12-20-5.log"
+    },
+    {
+      "path": "saves/WINTER DebtHunt v0.5/mappet/logs/2024-12-20-6.log",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "size": 0,
+      "url": "https://raw.githubusercontent.com/hodiw1/terrapolis-hdteam/main/instances/debthunt/pack/saves/WINTER%20DebtHunt%20v0.5/mappet/logs/2024-12-20-6.log"
+    },
+    {
+      "path": "saves/WINTER DebtHunt v0.5/mappet/logs/2024-12-20-7.log",
+      "sha256": "c7ad05013bbf69a6d03ee86d9f747825bbfa2c4de76ed3c4477682bf87063e58",
+      "size": 1832,
+      "url": "https://raw.githubusercontent.com/hodiw1/terrapolis-hdteam/main/instances/debthunt/pack/saves/WINTER%20DebtHunt%20v0.5/mappet/logs/2024-12-20-7.log"
+    },
+    {
+      "path": "saves/WINTER DebtHunt v0.5/mappet/logs/2024-12-20-8.log",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "size": 0,
+      "url": "https://raw.githubusercontent.com/hodiw1/terrapolis-hdteam/main/instances/debthunt/pack/saves/WINTER%20DebtHunt%20v0.5/mappet/logs/2024-12-20-8.log"
+    },
+    {
+      "path": "saves/WINTER DebtHunt v0.5/mappet/logs/2024-12-20-9.log",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "size": 0,
+      "url": "https://raw.githubusercontent.com/hodiw1/terrapolis-hdteam/main/instances/debthunt/pack/saves/WINTER%20DebtHunt%20v0.5/mappet/logs/2024-12-20-9.log"
+    },
+    {
+      "path": "saves/WINTER DebtHunt v0.5/mappet/logs/2024-12-22-1.log",
+      "sha256": "b65c8f6eabf10c8d81da3f3863bc16ba5ed085c196c2c615cfa37d6a9048dabf",
+      "size": 52,
+      "url": "https://raw.githubusercontent.com/hodiw1/terrapolis-hdteam/main/instances/debthunt/pack/saves/WINTER%20DebtHunt%20v0.5/mappet/logs/2024-12-22-1.log"
+    },
+    {
+      "path": "saves/WINTER DebtHunt v0.5/mappet/logs/2024-12-23-1.log",
+      "sha256": "b4afff5af9936f57b5e6effc1274e0a1c56a357ef49db55cffa1ac8e1cf6fa20",
+      "size": 264,
+      "url": "https://raw.githubusercontent.com/hodiw1/terrapolis-hdteam/main/instances/debthunt/pack/saves/WINTER%20DebtHunt%20v0.5/mappet/logs/2024-12-23-1.log"
+    },
+    {
+      "path": "saves/WINTER DebtHunt v0.5/mappet/logs/2024-12-23-2.log",
+      "sha256": "cf4de56f7d78b22d6870dc69c9d350b8ae6c3ad9cb717bdaf14f96067dce1ab0",
+      "size": 30278,
+      "url": "https://raw.githubusercontent.com/hodiw1/terrapolis-hdteam/main/instances/debthunt/pack/saves/WINTER%20DebtHunt%20v0.5/mappet/logs/2024-12-23-2.log"
+    },
+    {
+      "path": "saves/WINTER DebtHunt v0.5/mappet/logs/2024-12-23-3.log",
+      "sha256": "28db027b02990a213d1bd1e0d932543d81d13d73e29e4ba9efc0513a9bf9781a",
+      "size": 3463,
+      "url": "https://raw.githubusercontent.com/hodiw1/terrapolis-hdteam/main/instances/debthunt/pack/saves/WINTER%20DebtHunt%20v0.5/mappet/logs/2024-12-23-3.log"
+    },
+    {
+      "path": "saves/WINTER DebtHunt v0.5/mappet/logs/2024-12-23-4.log",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "size": 0,
+      "url": "https://raw.githubusercontent.com/hodiw1/terrapolis-hdteam/main/instances/debthunt/pack/saves/WINTER%20DebtHunt%20v0.5/mappet/logs/2024-12-23-4.log"
+    },
+    {
+      "path": "saves/WINTER DebtHunt v0.5/mappet/logs/2024-12-23-5.log",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "size": 0,
+      "url": "https://raw.githubusercontent.com/hodiw1/terrapolis-hdteam/main/instances/debthunt/pack/saves/WINTER%20DebtHunt%20v0.5/mappet/logs/2024-12-23-5.log"
+    },
+    {
+      "path": "saves/WINTER DebtHunt v0.5/mappet/logs/2024-12-23-6.log",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "size": 0,
+      "url": "https://raw.githubusercontent.com/hodiw1/terrapolis-hdteam/main/instances/debthunt/pack/saves/WINTER%20DebtHunt%20v0.5/mappet/logs/2024-12-23-6.log"
+    },
+    {
+      "path": "saves/WINTER DebtHunt v0.5/mappet/logs/2024-12-23-7.log",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "size": 0,
+      "url": "https://raw.githubusercontent.com/hodiw1/terrapolis-hdteam/main/instances/debthunt/pack/saves/WINTER%20DebtHunt%20v0.5/mappet/logs/2024-12-23-7.log"
+    },
+    {
+      "path": "saves/WINTER DebtHunt v0.5/mappet/logs/2024-12-23-8.log",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "size": 0,
+      "url": "https://raw.githubusercontent.com/hodiw1/terrapolis-hdteam/main/instances/debthunt/pack/saves/WINTER%20DebtHunt%20v0.5/mappet/logs/2024-12-23-8.log"
+    },
+    {
+      "path": "saves/WINTER DebtHunt v0.5/mappet/logs/2024-12-24-1.log",
+      "sha256": "fbd9e93d18c5ce5326c578d9329825c1e807859088627dbc3705cb5641653ec6",
+      "size": 212,
+      "url": "https://raw.githubusercontent.com/hodiw1/terrapolis-hdteam/main/instances/debthunt/pack/saves/WINTER%20DebtHunt%20v0.5/mappet/logs/2024-12-24-1.log"
+    },
+    {
+      "path": "saves/WINTER DebtHunt v0.5/mappet/logs/2024-12-25-1.log",
+      "sha256": "57628df0d50f56a7587ac223510a16fa95ebac91983a7013224537a6b93adfb0",
+      "size": 1137,
+      "url": "https://raw.githubusercontent.com/hodiw1/terrapolis-hdteam/main/instances/debthunt/pack/saves/WINTER%20DebtHunt%20v0.5/mappet/logs/2024-12-25-1.log"
+    },
+    {
+      "path": "saves/WINTER DebtHunt v0.5/mappet/logs/2024-12-25-2.log",
+      "sha256": "8be03359b3bdc0c30cf6cf28e37ec8b56eaf0c8093fa353ea5d10777b69b8805",
+      "size": 292,
+      "url": "https://raw.githubusercontent.com/hodiw1/terrapolis-hdteam/main/instances/debthunt/pack/saves/WINTER%20DebtHunt%20v0.5/mappet/logs/2024-12-25-2.log"
+    },
+    {
+      "path": "saves/WINTER DebtHunt v0.5/mappet/logs/2024-12-25-3.log",
+      "sha256": "18f359e57b5721436d3e2ec3933f2dc9f26547ca1dc889cf75a6494fd62ebdf4",
+      "size": 2529,
+      "url": "https://raw.githubusercontent.com/hodiw1/terrapolis-hdteam/main/instances/debthunt/pack/saves/WINTER%20DebtHunt%20v0.5/mappet/logs/2024-12-25-3.log"
+    },
+    {
+      "path": "saves/WINTER DebtHunt v0.5/mappet/logs/2024-12-25-4.log",
+      "sha256": "df7c8026f91f5b589511fcd43716b931de9fdcdfda7b5f73e6c57bddaa551199",
+      "size": 146,
+      "url": "https://raw.githubusercontent.com/hodiw1/terrapolis-hdteam/main/instances/debthunt/pack/saves/WINTER%20DebtHunt%20v0.5/mappet/logs/2024-12-25-4.log"
+    },
+    {
+      "path": "saves/WINTER DebtHunt v0.5/mappet/logs/2024-12-25-5.log",
+      "sha256": "5a9a5f043b616d6f75aafb6f13b20ebb852c385111078cbc770a34182239ec3a",
+      "size": 1493,
+      "url": "https://raw.githubusercontent.com/hodiw1/terrapolis-hdteam/main/instances/debthunt/pack/saves/WINTER%20DebtHunt%20v0.5/mappet/logs/2024-12-25-5.log"
+    },
+    {
+      "path": "saves/WINTER DebtHunt v0.5/mappet/logs/2024-12-25-6.log",
+      "sha256": "d208c17fa69bae87d0af2a58d547f300f9a10d9146e4758883d1c8d553cce38f",
+      "size": 4540,
+      "url": "https://raw.githubusercontent.com/hodiw1/terrapolis-hdteam/main/instances/debthunt/pack/saves/WINTER%20DebtHunt%20v0.5/mappet/logs/2024-12-25-6.log"
+    },
+    {
+      "path": "saves/WINTER DebtHunt v0.5/mappet/logs/2024-12-25-7.log",
+      "sha256": "c2dbaf4a73b5183b94579a203b611d65ddabce934f9754810aa9a0afadc222f2",
+      "size": 28047,
+      "url": "https://raw.githubusercontent.com/hodiw1/terrapolis-hdteam/main/instances/debthunt/pack/saves/WINTER%20DebtHunt%20v0.5/mappet/logs/2024-12-25-7.log"
+    },
+    {
+      "path": "saves/WINTER DebtHunt v0.5/mappet/logs/2024-12-26-1.log",
+      "sha256": "0f1e1ed2c8a27c5a12dde36a93a623d19eff8d7df23a4fef72a5840b4bbba5a6",
+      "size": 8204,
+      "url": "https://raw.githubusercontent.com/hodiw1/terrapolis-hdteam/main/instances/debthunt/pack/saves/WINTER%20DebtHunt%20v0.5/mappet/logs/2024-12-26-1.log"
+    },
+    {
+      "path": "saves/WINTER DebtHunt v0.5/mappet/logs/2024-12-26-2.log",
+      "sha256": "9d93ba696790cf3d7e7ac427d59c7ca95f674c49cd261076c9fb8898cbd76b0a",
+      "size": 3010,
+      "url": "https://raw.githubusercontent.com/hodiw1/terrapolis-hdteam/main/instances/debthunt/pack/saves/WINTER%20DebtHunt%20v0.5/mappet/logs/2024-12-26-2.log"
+    },
+    {
+      "path": "saves/WINTER DebtHunt v0.5/mappet/logs/2024-12-26-3.log",
+      "sha256": "35587245eb2dc85ad608a41fcdff8bc6e5643042e7b69c714896ac419da40583",
+      "size": 1632,
+      "url": "https://raw.githubusercontent.com/hodiw1/terrapolis-hdteam/main/instances/debthunt/pack/saves/WINTER%20DebtHunt%20v0.5/mappet/logs/2024-12-26-3.log"
+    },
+    {
+      "path": "saves/WINTER DebtHunt v0.5/mappet/logs/2024-12-26-4.log",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "size": 0,
+      "url": "https://raw.githubusercontent.com/hodiw1/terrapolis-hdteam/main/instances/debthunt/pack/saves/WINTER%20DebtHunt%20v0.5/mappet/logs/2024-12-26-4.log"
+    },
+    {
+      "path": "saves/WINTER DebtHunt v0.5/mappet/logs/2024-12-27-1.log",
+      "sha256": "fb68164c3f9b086c5a88691670976a27a9f245c9bfb1bb4146905977017db4ab",
+      "size": 6469,
+      "url": "https://raw.githubusercontent.com/hodiw1/terrapolis-hdteam/main/instances/debthunt/pack/saves/WINTER%20DebtHunt%20v0.5/mappet/logs/2024-12-27-1.log"
+    },
+    {
+      "path": "saves/WINTER DebtHunt v0.5/mappet/logs/2024-12-27-2.log",
+      "sha256": "5d47d924b56e60e618deab6ab04c6a0838b1632112c9365ef66586a5653ed8f2",
+      "size": 2546,
+      "url": "https://raw.githubusercontent.com/hodiw1/terrapolis-hdteam/main/instances/debthunt/pack/saves/WINTER%20DebtHunt%20v0.5/mappet/logs/2024-12-27-2.log"
+    },
+    {
+      "path": "saves/WINTER DebtHunt v0.5/mappet/logs/2024-12-27-3.log",
+      "sha256": "8ab430867d15a35d72c8c1df8368877fa469ef98fac8bde710f18f25b0fd84bb",
+      "size": 15194,
+      "url": "https://raw.githubusercontent.com/hodiw1/terrapolis-hdteam/main/instances/debthunt/pack/saves/WINTER%20DebtHunt%20v0.5/mappet/logs/2024-12-27-3.log"
+    },
+    {
+      "path": "saves/WINTER DebtHunt v0.5/mappet/logs/2024-12-28-1.log",
+      "sha256": "3b53b7c08daceb6dd63a9f7ad5491adba0f446426a263b1586cab9b2c94d9cf9",
+      "size": 1526,
+      "url": "https://raw.githubusercontent.com/hodiw1/terrapolis-hdteam/main/instances/debthunt/pack/saves/WINTER%20DebtHunt%20v0.5/mappet/logs/2024-12-28-1.log"
+    },
+    {
+      "path": "saves/WINTER DebtHunt v0.5/mappet/logs/2024-12-28-10.log",
+      "sha256": "e6ca38e1b8a130242cbd3103d60a5a24a525c0443fdaf09f6dc1a9778e4831a0",
+      "size": 66,
+      "url": "https://raw.githubusercontent.com/hodiw1/terrapolis-hdteam/main/instances/debthunt/pack/saves/WINTER%20DebtHunt%20v0.5/mappet/logs/2024-12-28-10.log"
+    },
+    {
+      "path": "saves/WINTER DebtHunt v0.5/mappet/logs/2024-12-28-11.log",
+      "sha256": "dbda0436b45be9fa1262d291c1be02a6ec6a9837fe3c1c02ea8505c76701669b",
+      "size": 17932,
+      "url": "https://raw.githubusercontent.com/hodiw1/terrapolis-hdteam/main/instances/debthunt/pack/saves/WINTER%20DebtHunt%20v0.5/mappet/logs/2024-12-28-11.log"
+    },
+    {
+      "path": "saves/WINTER DebtHunt v0.5/mappet/logs/2024-12-28-12.log",
+      "sha256": "f0b49ee37bb47b063c315c3722dfa0a6325fab9390fc95fe2510da65d3965b72",
+      "size": 1706,
+      "url": "https://raw.githubusercontent.com/hodiw1/terrapolis-hdteam/main/instances/debthunt/pack/saves/WINTER%20DebtHunt%20v0.5/mappet/logs/2024-12-28-12.log"
+    },
+    {
+      "path": "saves/WINTER DebtHunt v0.5/mappet/logs/2024-12-28-13.log",
+      "sha256": "0a52fdc4bca747a4b9c7fd153b38392b91f5f251173e6da33c0586c741e90985",
+      "size": 937,
+      "url": "https://raw.githubusercontent.com/hodiw1/terrapolis-hdteam/main/instances/debthunt/pack/saves/WINTER%20DebtHunt%20v0.5/mappet/logs/2024-12-28-13.log"
+    },
+    {
+      "path": "saves/WINTER DebtHunt v0.5/mappet/logs/2024-12-28-2.log",
+      "sha256": "52fcf48ad52ab3c7afc1045050a7df245adcf968a2f2e0a72adebc83ca0e1431",
+      "size": 1644,
+      "url": "https://raw.githubusercontent.com/hodiw1/terrapolis-hdteam/main/instances/debthunt/pack/saves/WINTER%20DebtHunt%20v0.5/mappet/logs/2024-12-28-2.log"
+    },
+    {
+      "path": "saves/WINTER DebtHunt v0.5/mappet/logs/2024-12-28-3.log",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "size": 0,
+      "url": "https://raw.githubusercontent.com/hodiw1/terrapolis-hdteam/main/instances/debthunt/pack/saves/WINTER%20DebtHunt%20v0.5/mappet/logs/2024-12-28-3.log"
+    },
+    {
+      "path": "saves/WINTER DebtHunt v0.5/mappet/logs/2024-12-28-4.log",
+      "sha256": "6575246dc737311990466e87aac8dfcd1367dc912739de3551595186a758cc16",
+      "size": 6875,
+      "url": "https://raw.githubusercontent.com/hodiw1/terrapolis-hdteam/main/instances/debthunt/pack/saves/WINTER%20DebtHunt%20v0.5/mappet/logs/2024-12-28-4.log"
+    },
+    {
+      "path": "saves/WINTER DebtHunt v0.5/mappet/logs/2024-12-28-5.log",
+      "sha256": "ea22dd9d03bd58ffe840fc296a646dc354e07d6f2000fb632491d95941522262",
+      "size": 257,
+      "url": "https://raw.githubusercontent.com/hodiw1/terrapolis-hdteam/main/instances/debthunt/pack/saves/WINTER%20DebtHunt%20v0.5/mappet/logs/2024-12-28-5.log"
+    },
+    {
+      "path": "saves/WINTER DebtHunt v0.5/mappet/logs/2024-12-28-6.log",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "size": 0,
+      "url": "https://raw.githubusercontent.com/hodiw1/terrapolis-hdteam/main/instances/debthunt/pack/saves/WINTER%20DebtHunt%20v0.5/mappet/logs/2024-12-28-6.log"
+    },
+    {
+      "path": "saves/WINTER DebtHunt v0.5/mappet/logs/2024-12-28-7.log",
+      "sha256": "2f7c92ec96f5f2c6fafaedc998602430699784be9397073107ae652aefbff769",
+      "size": 3499,
+      "url": "https://raw.githubusercontent.com/hodiw1/terrapolis-hdteam/main/instances/debthunt/pack/saves/WINTER%20DebtHunt%20v0.5/mappet/logs/2024-12-28-7.log"
+    },
+    {
+      "path": "saves/WINTER DebtHunt v0.5/mappet/logs/2024-12-28-8.log",
+      "sha256": "ac767eeab0d641460ee4bfe31b288efc4d1988c2f42a4ad91a8aedc719e46709",
+      "size": 363,
+      "url": "https://raw.githubusercontent.com/hodiw1/terrapolis-hdteam/main/instances/debthunt/pack/saves/WINTER%20DebtHunt%20v0.5/mappet/logs/2024-12-28-8.log"
+    },
+    {
+      "path": "saves/WINTER DebtHunt v0.5/mappet/logs/2024-12-28-9.log",
+      "sha256": "3935faff00ab847417d9c113de2c56576c813082e1fd32296f415a3f9eafd2a0",
+      "size": 1168,
+      "url": "https://raw.githubusercontent.com/hodiw1/terrapolis-hdteam/main/instances/debthunt/pack/saves/WINTER%20DebtHunt%20v0.5/mappet/logs/2024-12-28-9.log"
+    },
+    {
+      "path": "saves/WINTER DebtHunt v0.5/mappet/logs/2024-12-29-1.log",
+      "sha256": "14b9e2ab69c9cf263639207d85cf10f93c2c6f1a0df0478be9647f602788e80c",
+      "size": 392,
+      "url": "https://raw.githubusercontent.com/hodiw1/terrapolis-hdteam/main/instances/debthunt/pack/saves/WINTER%20DebtHunt%20v0.5/mappet/logs/2024-12-29-1.log"
+    },
+    {
+      "path": "saves/WINTER DebtHunt v0.5/mappet/logs/2024-12-29-2.log",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "size": 0,
+      "url": "https://raw.githubusercontent.com/hodiw1/terrapolis-hdteam/main/instances/debthunt/pack/saves/WINTER%20DebtHunt%20v0.5/mappet/logs/2024-12-29-2.log"
+    },
+    {
+      "path": "saves/WINTER DebtHunt v0.5/mappet/logs/2024-12-29-3.log",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "size": 0,
+      "url": "https://raw.githubusercontent.com/hodiw1/terrapolis-hdteam/main/instances/debthunt/pack/saves/WINTER%20DebtHunt%20v0.5/mappet/logs/2024-12-29-3.log"
+    },
+    {
+      "path": "saves/WINTER DebtHunt v0.5/mappet/logs/2024-12-29-4.log",
+      "sha256": "48549738e80abd4728ab92920eda4799a13c48fe929310aec528521f5741b9db",
+      "size": 590540,
+      "url": "https://raw.githubusercontent.com/hodiw1/terrapolis-hdteam/main/instances/debthunt/pack/saves/WINTER%20DebtHunt%20v0.5/mappet/logs/2024-12-29-4.log"
+    },
+    {
+      "path": "saves/WINTER DebtHunt v0.5/mappet/logs/2024-12-29-5.log",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "size": 0,
+      "url": "https://raw.githubusercontent.com/hodiw1/terrapolis-hdteam/main/instances/debthunt/pack/saves/WINTER%20DebtHunt%20v0.5/mappet/logs/2024-12-29-5.log"
+    },
+    {
+      "path": "saves/WINTER DebtHunt v0.5/mappet/logs/2024-12-29-6.log",
+      "sha256": "8302d621877ddc153ec41fd41db0001a246ab3740837b1e85b32633390dd70d0",
+      "size": 676,
+      "url": "https://raw.githubusercontent.com/hodiw1/terrapolis-hdteam/main/instances/debthunt/pack/saves/WINTER%20DebtHunt%20v0.5/mappet/logs/2024-12-29-6.log"
+    },
+    {
+      "path": "saves/WINTER DebtHunt v0.5/mappet/logs/2024-12-29-7.log",
+      "sha256": "3b5657d74c51c0de349ec9abf9c7a61fc402c7eb3790de30cd2524c86f8e8c39",
+      "size": 427373,
+      "url": "https://raw.githubusercontent.com/hodiw1/terrapolis-hdteam/main/instances/debthunt/pack/saves/WINTER%20DebtHunt%20v0.5/mappet/logs/2024-12-29-7.log"
+    },
+    {
+      "path": "saves/WINTER DebtHunt v0.5/mappet/logs/2024-12-29-8.log",
+      "sha256": "0bd1bcb1e62142ff86d0324dd4836df89612345f79f00837f1e66552f2c1b1d9",
+      "size": 157622,
+      "url": "https://raw.githubusercontent.com/hodiw1/terrapolis-hdteam/main/instances/debthunt/pack/saves/WINTER%20DebtHunt%20v0.5/mappet/logs/2024-12-29-8.log"
+    },
+    {
+      "path": "saves/WINTER DebtHunt v0.5/mappet/logs/2024-12-29-9.log",
+      "sha256": "191ce1873d3070f9cb7e420967556219bf307cb3e6e75a336c8a6440bbf0ce45",
+      "size": 1097,
+      "url": "https://raw.githubusercontent.com/hodiw1/terrapolis-hdteam/main/instances/debthunt/pack/saves/WINTER%20DebtHunt%20v0.5/mappet/logs/2024-12-29-9.log"
+    },
+    {
+      "path": "saves/WINTER DebtHunt v0.5/mappet/logs/2024-12-30-1.log",
+      "sha256": "1e44cb391593fde498e5a59df23d4d50e82a056d96c8166ce784c0a5fbae2911",
+      "size": 514,
+      "url": "https://raw.githubusercontent.com/hodiw1/terrapolis-hdteam/main/instances/debthunt/pack/saves/WINTER%20DebtHunt%20v0.5/mappet/logs/2024-12-30-1.log"
+    },
+    {
+      "path": "saves/WINTER DebtHunt v0.5/mappet/logs/2024-12-30-10.log",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "size": 0,
+      "url": "https://raw.githubusercontent.com/hodiw1/terrapolis-hdteam/main/instances/debthunt/pack/saves/WINTER%20DebtHunt%20v0.5/mappet/logs/2024-12-30-10.log"
+    },
+    {
+      "path": "saves/WINTER DebtHunt v0.5/mappet/logs/2024-12-30-11.log",
+      "sha256": "f2271837e50bb060901845aa765680df12759a9925a662a41ac6c7685b4226ce",
+      "size": 33,
+      "url": "https://raw.githubusercontent.com/hodiw1/terrapolis-hdteam/main/instances/debthunt/pack/saves/WINTER%20DebtHunt%20v0.5/mappet/logs/2024-12-30-11.log"
+    },
+    {
+      "path": "saves/WINTER DebtHunt v0.5/mappet/logs/2024-12-30-12.log",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "size": 0,
+      "url": "https://raw.githubusercontent.com/hodiw1/terrapolis-hdteam/main/instances/debthunt/pack/saves/WINTER%20DebtHunt%20v0.5/mappet/logs/2024-12-30-12.log"
+    },
+    {
+      "path": "saves/WINTER DebtHunt v0.5/mappet/logs/2024-12-30-13.log",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "size": 0,
+      "url": "https://raw.githubusercontent.com/hodiw1/terrapolis-hdteam/main/instances/debthunt/pack/saves/WINTER%20DebtHunt%20v0.5/mappet/logs/2024-12-30-13.log"
+    },
+    {
+      "path": "saves/WINTER DebtHunt v0.5/mappet/logs/2024-12-30-14.log",
+      "sha256": "5a652461d0bda3df249e7e321785c22bef59c2c75a1dce2967c8f56e5e0fc566",
+      "size": 911,
+      "url": "https://raw.githubusercontent.com/hodiw1/terrapolis-hdteam/main/instances/debthunt/pack/saves/WINTER%20DebtHunt%20v0.5/mappet/logs/2024-12-30-14.log"
+    },
+    {
+      "path": "saves/WINTER DebtHunt v0.5/mappet/logs/2024-12-30-15.log",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "size": 0,
+      "url": "https://raw.githubusercontent.com/hodiw1/terrapolis-hdteam/main/instances/debthunt/pack/saves/WINTER%20DebtHunt%20v0.5/mappet/logs/2024-12-30-15.log"
+    },
+    {
+      "path": "saves/WINTER DebtHunt v0.5/mappet/logs/2024-12-30-2.log",
+      "sha256": "cc98a2e307e5c203940c143def8b8da601edf7ad41a25981cf31493de7a37bac",
+      "size": 124979,
+      "url": "https://raw.githubusercontent.com/hodiw1/terrapolis-hdteam/main/instances/debthunt/pack/saves/WINTER%20DebtHunt%20v0.5/mappet/logs/2024-12-30-2.log"
+    },
+    {
+      "path": "saves/WINTER DebtHunt v0.5/mappet/logs/2024-12-30-3.log",
+      "sha256": "d355148b775b6029b2c8f90a28200cf4bcb12686e63997b34c05c0d041a4993d",
+      "size": 179448,
+      "url": "https://raw.githubusercontent.com/hodiw1/terrapolis-hdteam/main/instances/debthunt/pack/saves/WINTER%20DebtHunt%20v0.5/mappet/logs/2024-12-30-3.log"
+    },
+    {
+      "path": "saves/WINTER DebtHunt v0.5/mappet/logs/2024-12-30-4.log",
+      "sha256": "ce17bd97193270ddfef50da3862ff0b67012e85e26f643ee1e076283da1c9446",
+      "size": 66105,
+      "url": "https://raw.githubusercontent.com/hodiw1/terrapolis-hdteam/main/instances/debthunt/pack/saves/WINTER%20DebtHunt%20v0.5/mappet/logs/2024-12-30-4.log"
+    },
+    {
+      "path": "saves/WINTER DebtHunt v0.5/mappet/logs/2024-12-30-5.log",
+      "sha256": "59947390b1f2a8e57feff62ed726268e33c4b16d89c4dc01dd8334821d1f9902",
+      "size": 1490,
+      "url": "https://raw.githubusercontent.com/hodiw1/terrapolis-hdteam/main/instances/debthunt/pack/saves/WINTER%20DebtHunt%20v0.5/mappet/logs/2024-12-30-5.log"
+    },
+    {
+      "path": "saves/WINTER DebtHunt v0.5/mappet/logs/2024-12-30-6.log",
+      "sha256": "0779f7a6a64c8637ea1645c0b1bb55a377fcb3cdf5217b8483879b1016a875a7",
+      "size": 3931,
+      "url": "https://raw.githubusercontent.com/hodiw1/terrapolis-hdteam/main/instances/debthunt/pack/saves/WINTER%20DebtHunt%20v0.5/mappet/logs/2024-12-30-6.log"
+    },
+    {
+      "path": "saves/WINTER DebtHunt v0.5/mappet/logs/2024-12-30-7.log",
+      "sha256": "314159f3bedda743960bde8eb050c87bdc7815cf9126cbbd3786355c9700b8b6",
+      "size": 1066,
+      "url": "https://raw.githubusercontent.com/hodiw1/terrapolis-hdteam/main/instances/debthunt/pack/saves/WINTER%20DebtHunt%20v0.5/mappet/logs/2024-12-30-7.log"
+    },
+    {
+      "path": "saves/WINTER DebtHunt v0.5/mappet/logs/2024-12-30-8.log",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "size": 0,
+      "url": "https://raw.githubusercontent.com/hodiw1/terrapolis-hdteam/main/instances/debthunt/pack/saves/WINTER%20DebtHunt%20v0.5/mappet/logs/2024-12-30-8.log"
+    },
+    {
+      "path": "saves/WINTER DebtHunt v0.5/mappet/logs/2024-12-30-9.log",
+      "sha256": "922c98aba24e9d08e4134406ef02354bb8e05f1950166772eecb7df0419eee8c",
+      "size": 212,
+      "url": "https://raw.githubusercontent.com/hodiw1/terrapolis-hdteam/main/instances/debthunt/pack/saves/WINTER%20DebtHunt%20v0.5/mappet/logs/2024-12-30-9.log"
+    },
+    {
+      "path": "saves/WINTER DebtHunt v0.5/mappet/logs/2024-12-31-1.log",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "size": 0,
+      "url": "https://raw.githubusercontent.com/hodiw1/terrapolis-hdteam/main/instances/debthunt/pack/saves/WINTER%20DebtHunt%20v0.5/mappet/logs/2024-12-31-1.log"
+    },
+    {
+      "path": "saves/WINTER DebtHunt v0.5/mappet/logs/2024-12-31-2.log",
+      "sha256": "b3f81a8d4d14790d6b5b79be8da28af024a5c2c686c6e9611a942ad118c2ed2e",
+      "size": 762223,
+      "url": "https://raw.githubusercontent.com/hodiw1/terrapolis-hdteam/main/instances/debthunt/pack/saves/WINTER%20DebtHunt%20v0.5/mappet/logs/2024-12-31-2.log"
+    },
+    {
+      "path": "saves/WINTER DebtHunt v0.5/mappet/logs/2025-01-02-1.log",
+      "sha256": "2213e931fe97341324bd24dac7b478dd8db420b57b5f3181f005ab5236c05d3a",
+      "size": 1421,
+      "url": "https://raw.githubusercontent.com/hodiw1/terrapolis-hdteam/main/instances/debthunt/pack/saves/WINTER%20DebtHunt%20v0.5/mappet/logs/2025-01-02-1.log"
+    },
+    {
+      "path": "saves/WINTER DebtHunt v0.5/mappet/logs/2025-01-04-1.log",
+      "sha256": "07841faeda127eff60c5b7189b657abc5897e8a084a0add4a2ca233ddf59fc41",
+      "size": 146,
+      "url": "https://raw.githubusercontent.com/hodiw1/terrapolis-hdteam/main/instances/debthunt/pack/saves/WINTER%20DebtHunt%20v0.5/mappet/logs/2025-01-04-1.log"
+    },
+    {
+      "path": "saves/WINTER DebtHunt v0.5/mappet/logs/2025-01-22-1.log",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "size": 0,
+      "url": "https://raw.githubusercontent.com/hodiw1/terrapolis-hdteam/main/instances/debthunt/pack/saves/WINTER%20DebtHunt%20v0.5/mappet/logs/2025-01-22-1.log"
+    },
+    {
+      "path": "saves/WINTER DebtHunt v0.5/mappet/logs/2025-01-22-2.log",
+      "sha256": "46eada3a99efc310bb83ed6ecfc8cf31c82550f841235e8494f32f7a0fcb8308",
+      "size": 82389,
+      "url": "https://raw.githubusercontent.com/hodiw1/terrapolis-hdteam/main/instances/debthunt/pack/saves/WINTER%20DebtHunt%20v0.5/mappet/logs/2025-01-22-2.log"
+    },
+    {
+      "path": "saves/WINTER DebtHunt v0.5/mappet/logs/2025-01-22-3.log",
+      "sha256": "69c3aee7cde9ae389a100ad33a2bbcf5bc91831f9abdaa8a8819b815dcda46d9",
+      "size": 17135,
+      "url": "https://raw.githubusercontent.com/hodiw1/terrapolis-hdteam/main/instances/debthunt/pack/saves/WINTER%20DebtHunt%20v0.5/mappet/logs/2025-01-22-3.log"
+    },
+    {
+      "path": "saves/WINTER DebtHunt v0.5/mappet/logs/2025-01-22-4.log",
+      "sha256": "2e82ef8d6ebbefcf32e196599c551d41007b5775564ae25ab57479c295f561b4",
+      "size": 2629,
+      "url": "https://raw.githubusercontent.com/hodiw1/terrapolis-hdteam/main/instances/debthunt/pack/saves/WINTER%20DebtHunt%20v0.5/mappet/logs/2025-01-22-4.log"
+    },
+    {
+      "path": "saves/WINTER DebtHunt v0.5/mappet/logs/latest.log",
+      "sha256": "e4483808e27c1317b486abb075bb9321126969c9aa75152ebe821d30f28be618",
+      "size": 378609,
+      "url": "https://raw.githubusercontent.com/hodiw1/terrapolis-hdteam/main/instances/debthunt/pack/saves/WINTER%20DebtHunt%20v0.5/mappet/logs/latest.log"
+    },
+    {
+      "path": "saves/WINTER DebtHunt v0.5/mappet/logs/latest.log.lck",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "size": 0,
+      "url": "https://raw.githubusercontent.com/hodiw1/terrapolis-hdteam/main/instances/debthunt/pack/saves/WINTER%20DebtHunt%20v0.5/mappet/logs/latest.log.lck"
+    },
+    {
+      "path": "saves/WINTER DebtHunt v0.5/mappet/npcs/corpse.json",
+      "sha256": "afdb26e817501b48249bcc22c7223003f39258d4c4d8841ab72456542ffeb4a4",
+      "size": 2719,
+      "url": "https://raw.githubusercontent.com/hodiw1/terrapolis-hdteam/main/instances/debthunt/pack/saves/WINTER%20DebtHunt%20v0.5/mappet/npcs/corpse.json"
+    },
+    {
+      "path": "saves/WINTER DebtHunt v0.5/mappet/npcs/deer.json",
+      "sha256": "3703530c91beae8cee74a94afdff1d0e1e32c03b4f4b0fa96195bc81b80a931a",
+      "size": 11101,
+      "url": "https://raw.githubusercontent.com/hodiw1/terrapolis-hdteam/main/instances/debthunt/pack/saves/WINTER%20DebtHunt%20v0.5/mappet/npcs/deer.json"
+    },
+    {
+      "path": "saves/WINTER DebtHunt v0.5/mappet/npcs/item.json",
+      "sha256": "9db9a4676f9c55cc25e3f09864bc526609487759a72efaeac523455ea874626c",
+      "size": 7898,
+      "url": "https://raw.githubusercontent.com/hodiw1/terrapolis-hdteam/main/instances/debthunt/pack/saves/WINTER%20DebtHunt%20v0.5/mappet/npcs/item.json"
+    },
+    {
+      "path": "saves/WINTER DebtHunt v0.5/mappet/npcs/node.json",
+      "sha256": "310b08b29e73d37e89c1f39d323273b191f3c6f38b35eb9c4bf42e7e6008e203",
+      "size": 2150,
+      "url": "https://raw.githubusercontent.com/hodiw1/terrapolis-hdteam/main/instances/debthunt/pack/saves/WINTER%20DebtHunt%20v0.5/mappet/npcs/node.json"
+    },
+    {
+      "path": "saves/WINTER DebtHunt v0.5/mappet/npcs/photoTraker.json",
+      "sha256": "28c3bea613aec95c7b74680038495f3a9a7f61f6322411cb7b7cc4c6f3438506",
+      "size": 2402,
+      "url": "https://raw.githubusercontent.com/hodiw1/terrapolis-hdteam/main/instances/debthunt/pack/saves/WINTER%20DebtHunt%20v0.5/mappet/npcs/photoTraker.json"
+    },
+    {
+      "path": "saves/WINTER DebtHunt v0.5/mappet/npcs/wolf.json",
+      "sha256": "dd4662b10b2bbb22e2a9321bbb016888d9c1abadd92c00d03c42a33d44862827",
+      "size": 12774,
+      "url": "https://raw.githubusercontent.com/hodiw1/terrapolis-hdteam/main/instances/debthunt/pack/saves/WINTER%20DebtHunt%20v0.5/mappet/npcs/wolf.json"
+    },
+    {
+      "path": "saves/WINTER DebtHunt v0.5/mappet/scripts/beartrap.js",
+      "sha256": "53b4fe590b5f3fa6bb71255e200bd59c0fab6f2ba1ea31d97b5cf1329b5816bc",
+      "size": 8299,
+      "url": "https://raw.githubusercontent.com/hodiw1/terrapolis-hdteam/main/instances/debthunt/pack/saves/WINTER%20DebtHunt%20v0.5/mappet/scripts/beartrap.js"
+    },
+    {
+      "path": "saves/WINTER DebtHunt v0.5/mappet/scripts/beartrap.js.json",
+      "sha256": "a8172394c8493d7f93de83fb98391dd1b9e71c55e7cca9711410cb1d26ef8605",
+      "size": 95,
+      "url": "https://raw.githubusercontent.com/hodiw1/terrapolis-hdteam/main/instances/debthunt/pack/saves/WINTER%20DebtHunt%20v0.5/mappet/scripts/beartrap.js.json"
+    },
+    {
+      "path": "saves/WINTER DebtHunt v0.5/mappet/scripts/camera.js",
+      "sha256": "a746cc4ee6922974ead01dd672497d8e8d624e9d1b43004a8de50a14ecc51572",
+      "size": 23403,
+      "url": "https://raw.githubusercontent.com/hodiw1/terrapolis-hdteam/main/instances/debthunt/pack/saves/WINTER%20DebtHunt%20v0.5/mappet/scripts/camera.js"
+    },
+    {
+      "path": "saves/WINTER DebtHunt v0.5/mappet/scripts/camera.js.json",
+      "sha256": "afabf308fe6e505c3b2189e22953007b4783391d636ea84c9337cde853c9fca6",
+      "size": 124,
+      "url": "https://raw.githubusercontent.com/hodiw1/terrapolis-hdteam/main/instances/debthunt/pack/saves/WINTER%20DebtHunt%20v0.5/mappet/scripts/camera.js.json"
+    },
+    {
+      "path": "saves/WINTER DebtHunt v0.5/mappet/scripts/CommonLibrary.js",
+      "sha256": "92dbc4ba0dee3df784814feee7f6254580ffba1041c1905f00d918aa1bf8da02",
+      "size": 10399,
+      "url": "https://raw.githubusercontent.com/hodiw1/terrapolis-hdteam/main/instances/debthunt/pack/saves/WINTER%20DebtHunt%20v0.5/mappet/scripts/CommonLibrary.js"
+    },
+    {
+      "path": "saves/WINTER DebtHunt v0.5/mappet/scripts/CommonLibrary.js.json",
+      "sha256": "5661632bb83f8c0a201f9c103e3edc6e8a8483a12ebcb26277717e017beb18db",
+      "size": 96,
+      "url": "https://raw.githubusercontent.com/hodiw1/terrapolis-hdteam/main/instances/debthunt/pack/saves/WINTER%20DebtHunt%20v0.5/mappet/scripts/CommonLibrary.js.json"
+    },
+    {
+      "path": "saves/WINTER DebtHunt v0.5/mappet/scripts/corpse.js",
+      "sha256": "ee35916b4feda9f3bd803c07e88abe9014230ce9ecfe7a259b0d5c7380d9473c",
+      "size": 2592,
+      "url": "https://raw.githubusercontent.com/hodiw1/terrapolis-hdteam/main/instances/debthunt/pack/saves/WINTER%20DebtHunt%20v0.5/mappet/scripts/corpse.js"
+    },
+    {
+      "path": "saves/WINTER DebtHunt v0.5/mappet/scripts/corpse.js.json",
+      "sha256": "637d7920b6494ce2045d842d69f5a747f5dd7a78f8019392410fa1b6317d167c",
+      "size": 71,
+      "url": "https://raw.githubusercontent.com/hodiw1/terrapolis-hdteam/main/instances/debthunt/pack/saves/WINTER%20DebtHunt%20v0.5/mappet/scripts/corpse.js.json"
+    },
+    {
+      "path": "saves/WINTER DebtHunt v0.5/mappet/scripts/deer.js",
+      "sha256": "963b6dbda5444d4e654bef0f7257dc6ae3cd88f6883b9395f1fc88f4c072ed04",
+      "size": 11096,
+      "url": "https://raw.githubusercontent.com/hodiw1/terrapolis-hdteam/main/instances/debthunt/pack/saves/WINTER%20DebtHunt%20v0.5/mappet/scripts/deer.js"
+    },
+    {
+      "path": "saves/WINTER DebtHunt v0.5/mappet/scripts/deer.js.json",
+      "sha256": "a9febe06d0a0a3066b068cfbc59b8fa968c7794043362d147b0b9cff467d5e54",
+      "size": 117,
+      "url": "https://raw.githubusercontent.com/hodiw1/terrapolis-hdteam/main/instances/debthunt/pack/saves/WINTER%20DebtHunt%20v0.5/mappet/scripts/deer.js.json"
+    },
+    {
+      "path": "saves/WINTER DebtHunt v0.5/mappet/scripts/donators_dlc_winter.js",
+      "sha256": "9f10a737c756d2e7bf23432c5f5c761702ea8673eb626a831fe13a5f8ae446de",
+      "size": 2464,
+      "url": "https://raw.githubusercontent.com/hodiw1/terrapolis-hdteam/main/instances/debthunt/pack/saves/WINTER%20DebtHunt%20v0.5/mappet/scripts/donators_dlc_winter.js"
+    },
+    {
+      "path": "saves/WINTER DebtHunt v0.5/mappet/scripts/donators_dlc_winter.js.json",
+      "sha256": "637d7920b6494ce2045d842d69f5a747f5dd7a78f8019392410fa1b6317d167c",
+      "size": 71,
+      "url": "https://raw.githubusercontent.com/hodiw1/terrapolis-hdteam/main/instances/debthunt/pack/saves/WINTER%20DebtHunt%20v0.5/mappet/scripts/donators_dlc_winter.js.json"
+    },
+    {
+      "path": "saves/WINTER DebtHunt v0.5/mappet/scripts/electricShepherd.js",
+      "sha256": "6f3b26c1597b4e2e20a47689da858bf599021b2431881071d8c4f9d5fa74f010",
+      "size": 2883,
+      "url": "https://raw.githubusercontent.com/hodiw1/terrapolis-hdteam/main/instances/debthunt/pack/saves/WINTER%20DebtHunt%20v0.5/mappet/scripts/electricShepherd.js"
+    },
+    {
+      "path": "saves/WINTER DebtHunt v0.5/mappet/scripts/electricShepherd.js.json",
+      "sha256": "637d7920b6494ce2045d842d69f5a747f5dd7a78f8019392410fa1b6317d167c",
+      "size": 71,
+      "url": "https://raw.githubusercontent.com/hodiw1/terrapolis-hdteam/main/instances/debthunt/pack/saves/WINTER%20DebtHunt%20v0.5/mappet/scripts/electricShepherd.js.json"
+    },
+    {
+      "path": "saves/WINTER DebtHunt v0.5/mappet/scripts/game.js",
+      "sha256": "e0835941bc9968f524385b81dcd57d25a1960bf02ffd0457a21eb8d8396ab497",
+      "size": 42512,
+      "url": "https://raw.githubusercontent.com/hodiw1/terrapolis-hdteam/main/instances/debthunt/pack/saves/WINTER%20DebtHunt%20v0.5/mappet/scripts/game.js"
+    },
+    {
+      "path": "saves/WINTER DebtHunt v0.5/mappet/scripts/game.js.json",
+      "sha256": "41aab53b4288ccc1c449c7184248534ca26b6f389be8c01cee3364250dd7452e",
+      "size": 144,
+      "url": "https://raw.githubusercontent.com/hodiw1/terrapolis-hdteam/main/instances/debthunt/pack/saves/WINTER%20DebtHunt%20v0.5/mappet/scripts/game.js.json"
+    },
+    {
+      "path": "saves/WINTER DebtHunt v0.5/mappet/scripts/GameAllList.js",
+      "sha256": "24d6a77be146521b4461c96cf831ee0ced43ae5262952c124fa7456957c759f3",
+      "size": 21480,
+      "url": "https://raw.githubusercontent.com/hodiw1/terrapolis-hdteam/main/instances/debthunt/pack/saves/WINTER%20DebtHunt%20v0.5/mappet/scripts/GameAllList.js"
+    },
+    {
+      "path": "saves/WINTER DebtHunt v0.5/mappet/scripts/GameAllList.js.json",
+      "sha256": "637d7920b6494ce2045d842d69f5a747f5dd7a78f8019392410fa1b6317d167c",
+      "size": 71,
+      "url": "https://raw.githubusercontent.com/hodiw1/terrapolis-hdteam/main/instances/debthunt/pack/saves/WINTER%20DebtHunt%20v0.5/mappet/scripts/GameAllList.js.json"
+    },
+    {
+      "path": "saves/WINTER DebtHunt v0.5/mappet/scripts/generation.js",
+      "sha256": "3f3113a0ed82e08b90cd9d7c37be74ff5e145c014b6c6774f78cb65a0fd87189",
+      "size": 36620,
+      "url": "https://raw.githubusercontent.com/hodiw1/terrapolis-hdteam/main/instances/debthunt/pack/saves/WINTER%20DebtHunt%20v0.5/mappet/scripts/generation.js"
+    },
+    {
+      "path": "saves/WINTER DebtHunt v0.5/mappet/scripts/generation.js.json",
+      "sha256": "a6460beb7ebaafb9928f072bd9cabd05cde47002ed120dc4ef2e9b2cff235771",
+      "size": 140,
+      "url": "https://raw.githubusercontent.com/hodiw1/terrapolis-hdteam/main/instances/debthunt/pack/saves/WINTER%20DebtHunt%20v0.5/mappet/scripts/generation.js.json"
+    },
+    {
+      "path": "saves/WINTER DebtHunt v0.5/mappet/scripts/items.js",
+      "sha256": "37273f0edf36bd4eed0a3f1ce03ec82aafaeb39acb4277e8b85817d81d11f108",
+      "size": 9374,
+      "url": "https://raw.githubusercontent.com/hodiw1/terrapolis-hdteam/main/instances/debthunt/pack/saves/WINTER%20DebtHunt%20v0.5/mappet/scripts/items.js"
+    },
+    {
+      "path": "saves/WINTER DebtHunt v0.5/mappet/scripts/items.js.json",
+      "sha256": "fbf1e1db0771dc8a13c5bc66e285c7c0d3e239d7a2c4e245d213dc7f0b12e117",
+      "size": 124,
+      "url": "https://raw.githubusercontent.com/hodiw1/terrapolis-hdteam/main/instances/debthunt/pack/saves/WINTER%20DebtHunt%20v0.5/mappet/scripts/items.js.json"
+    },
+    {
+      "path": "saves/WINTER DebtHunt v0.5/mappet/scripts/Node.js",
+      "sha256": "f9d2da87896b0c325a71585a36dc94903d21d335924be8268857ba027d1b3c73",
+      "size": 3776,
+      "url": "https://raw.githubusercontent.com/hodiw1/terrapolis-hdteam/main/instances/debthunt/pack/saves/WINTER%20DebtHunt%20v0.5/mappet/scripts/Node.js"
+    },
+    {
+      "path": "saves/WINTER DebtHunt v0.5/mappet/scripts/Node.js.json",
+      "sha256": "637d7920b6494ce2045d842d69f5a747f5dd7a78f8019392410fa1b6317d167c",
+      "size": 71,
+      "url": "https://raw.githubusercontent.com/hodiw1/terrapolis-hdteam/main/instances/debthunt/pack/saves/WINTER%20DebtHunt%20v0.5/mappet/scripts/Node.js.json"
+    },
+    {
+      "path": "saves/WINTER DebtHunt v0.5/mappet/scripts/playerInteract.js",
+      "sha256": "a0892e4e4a2a0833bac836f2501994439547f230fe643ff0e028085bbf31d6ee",
+      "size": 20511,
+      "url": "https://raw.githubusercontent.com/hodiw1/terrapolis-hdteam/main/instances/debthunt/pack/saves/WINTER%20DebtHunt%20v0.5/mappet/scripts/playerInteract.js"
+    },
+    {
+      "path": "saves/WINTER DebtHunt v0.5/mappet/scripts/playerInteract.js.json",
+      "sha256": "4a051b63671905df94e2f12b99c0179ec38d1157cc103c8cd69f917ee2b76c3f",
+      "size": 145,
+      "url": "https://raw.githubusercontent.com/hodiw1/terrapolis-hdteam/main/instances/debthunt/pack/saves/WINTER%20DebtHunt%20v0.5/mappet/scripts/playerInteract.js.json"
+    },
+    {
+      "path": "saves/WINTER DebtHunt v0.5/mappet/scripts/playerTick.js",
+      "sha256": "02af9926e4e3bf347f3eec598e44af1f932b26212efba68736ca8e3b7fb9cda0",
+      "size": 72452,
+      "url": "https://raw.githubusercontent.com/hodiw1/terrapolis-hdteam/main/instances/debthunt/pack/saves/WINTER%20DebtHunt%20v0.5/mappet/scripts/playerTick.js"
+    },
+    {
+      "path": "saves/WINTER DebtHunt v0.5/mappet/scripts/playerTick.js.json",
+      "sha256": "13f4f8400b81e088355752c25415a49a4ae77a6ff1a5f075b319979add22618a",
+      "size": 165,
+      "url": "https://raw.githubusercontent.com/hodiw1/terrapolis-hdteam/main/instances/debthunt/pack/saves/WINTER%20DebtHunt%20v0.5/mappet/scripts/playerTick.js.json"
+    },
+    {
+      "path": "saves/WINTER DebtHunt v0.5/mappet/scripts/rayCasting.js",
+      "sha256": "c36da32e71d28b28715cec0b205699ec9dd36ec22f08c2f4b3d789be16a65041",
+      "size": 16834,
+      "url": "https://raw.githubusercontent.com/hodiw1/terrapolis-hdteam/main/instances/debthunt/pack/saves/WINTER%20DebtHunt%20v0.5/mappet/scripts/rayCasting.js"
+    },
+    {
+      "path": "saves/WINTER DebtHunt v0.5/mappet/scripts/rayCasting.js.json",
+      "sha256": "7254e4289eb2d7443b27c86c340974fd01335f7d3796d995be4c3533ece2f20b",
+      "size": 144,
+      "url": "https://raw.githubusercontent.com/hodiw1/terrapolis-hdteam/main/instances/debthunt/pack/saves/WINTER%20DebtHunt%20v0.5/mappet/scripts/rayCasting.js.json"
+    },
+    {
+      "path": "saves/WINTER DebtHunt v0.5/mappet/scripts/saleBox.js",
+      "sha256": "9765b8769f1b93096f0636e96e451f9beb6a60ba58e0d6057833c498c06b4934",
+      "size": 4742,
+      "url": "https://raw.githubusercontent.com/hodiw1/terrapolis-hdteam/main/instances/debthunt/pack/saves/WINTER%20DebtHunt%20v0.5/mappet/scripts/saleBox.js"
+    },
+    {
+      "path": "saves/WINTER DebtHunt v0.5/mappet/scripts/saleBox.js.json",
+      "sha256": "fbf1e1db0771dc8a13c5bc66e285c7c0d3e239d7a2c4e245d213dc7f0b12e117",
+      "size": 124,
+      "url": "https://raw.githubusercontent.com/hodiw1/terrapolis-hdteam/main/instances/debthunt/pack/saves/WINTER%20DebtHunt%20v0.5/mappet/scripts/saleBox.js.json"
+    },
+    {
+      "path": "saves/WINTER DebtHunt v0.5/mappet/scripts/shotgun.js",
+      "sha256": "d61dca584d624b61fbde63c2c37685ca55d0cf8e35fd211dd80586b8947086f6",
+      "size": 4904,
+      "url": "https://raw.githubusercontent.com/hodiw1/terrapolis-hdteam/main/instances/debthunt/pack/saves/WINTER%20DebtHunt%20v0.5/mappet/scripts/shotgun.js"
+    },
+    {
+      "path": "saves/WINTER DebtHunt v0.5/mappet/scripts/shotgun.js.json",
+      "sha256": "26c2138f2cc82b1e0999fe43ebe46f6a2d71b33d957b4adcbfe5fce676077812",
+      "size": 123,
+      "url": "https://raw.githubusercontent.com/hodiw1/terrapolis-hdteam/main/instances/debthunt/pack/saves/WINTER%20DebtHunt%20v0.5/mappet/scripts/shotgun.js.json"
+    },
+    {
+      "path": "saves/WINTER DebtHunt v0.5/mappet/scripts/skinhead.js",
+      "sha256": "cfbe6f97088163345ebd8996810cd53f3aa8c604141afbfeba471f57b38c44b1",
+      "size": 14506,
+      "url": "https://raw.githubusercontent.com/hodiw1/terrapolis-hdteam/main/instances/debthunt/pack/saves/WINTER%20DebtHunt%20v0.5/mappet/scripts/skinhead.js"
+    },
+    {
+      "path": "saves/WINTER DebtHunt v0.5/mappet/scripts/skinhead.js.json",
+      "sha256": "637d7920b6494ce2045d842d69f5a747f5dd7a78f8019392410fa1b6317d167c",
+      "size": 71,
+      "url": "https://raw.githubusercontent.com/hodiw1/terrapolis-hdteam/main/instances/debthunt/pack/saves/WINTER%20DebtHunt%20v0.5/mappet/scripts/skinhead.js.json"
+    },
+    {
+      "path": "saves/WINTER DebtHunt v0.5/mappet/scripts/SkinRequester.js",
+      "sha256": "27797842c78d523886faef6acf4a93cedd62b25358a7693531bfdaa836c1bbe0",
+      "size": 1813,
+      "url": "https://raw.githubusercontent.com/hodiw1/terrapolis-hdteam/main/instances/debthunt/pack/saves/WINTER%20DebtHunt%20v0.5/mappet/scripts/SkinRequester.js"
+    },
+    {
+      "path": "saves/WINTER DebtHunt v0.5/mappet/scripts/SkinRequester.js.json",
+      "sha256": "637d7920b6494ce2045d842d69f5a747f5dd7a78f8019392410fa1b6317d167c",
+      "size": 71,
+      "url": "https://raw.githubusercontent.com/hodiw1/terrapolis-hdteam/main/instances/debthunt/pack/saves/WINTER%20DebtHunt%20v0.5/mappet/scripts/SkinRequester.js.json"
+    },
+    {
+      "path": "saves/WINTER DebtHunt v0.5/mappet/scripts/Structure.js",
+      "sha256": "49e1cc16a969db3055939d5e3b51eb7d7210bb5437dcf90b23ae5c8d21a99d0c",
+      "size": 9353,
+      "url": "https://raw.githubusercontent.com/hodiw1/terrapolis-hdteam/main/instances/debthunt/pack/saves/WINTER%20DebtHunt%20v0.5/mappet/scripts/Structure.js"
+    },
+    {
+      "path": "saves/WINTER DebtHunt v0.5/mappet/scripts/Structure.js.json",
+      "sha256": "637d7920b6494ce2045d842d69f5a747f5dd7a78f8019392410fa1b6317d167c",
+      "size": 71,
+      "url": "https://raw.githubusercontent.com/hodiw1/terrapolis-hdteam/main/instances/debthunt/pack/saves/WINTER%20DebtHunt%20v0.5/mappet/scripts/Structure.js.json"
+    },
+    {
+      "path": "saves/WINTER DebtHunt v0.5/mappet/scripts/ui_box.js",
+      "sha256": "1a0f23377356593a7ff203ac5b293a9fc1cd2cd29f51b5789044dc9597dada22",
+      "size": 6522,
+      "url": "https://raw.githubusercontent.com/hodiw1/terrapolis-hdteam/main/instances/debthunt/pack/saves/WINTER%20DebtHunt%20v0.5/mappet/scripts/ui_box.js"
+    },
+    {
+      "path": "saves/WINTER DebtHunt v0.5/mappet/scripts/ui_box.js.json",
+      "sha256": "0f11bb1409bd3e98ea49854dcc32b7e9701a022d9785eef16f5edf3519ce4d3c",
+      "size": 144,
+      "url": "https://raw.githubusercontent.com/hodiw1/terrapolis-hdteam/main/instances/debthunt/pack/saves/WINTER%20DebtHunt%20v0.5/mappet/scripts/ui_box.js.json"
+    },
+    {
+      "path": "saves/WINTER DebtHunt v0.5/mappet/scripts/ui_corpse.js",
+      "sha256": "5c24826ad1af612f4894d113c3d956ca81abf0b8319e3df2ce7b00b958338195",
+      "size": 4285,
+      "url": "https://raw.githubusercontent.com/hodiw1/terrapolis-hdteam/main/instances/debthunt/pack/saves/WINTER%20DebtHunt%20v0.5/mappet/scripts/ui_corpse.js"
+    },
+    {
+      "path": "saves/WINTER DebtHunt v0.5/mappet/scripts/ui_corpse.js.json",
+      "sha256": "7d5d4b38ee4896f556fd66623e390baf871e1ee3a187a75553c1ce1be35577d7",
+      "size": 96,
+      "url": "https://raw.githubusercontent.com/hodiw1/terrapolis-hdteam/main/instances/debthunt/pack/saves/WINTER%20DebtHunt%20v0.5/mappet/scripts/ui_corpse.js.json"
+    },
+    {
+      "path": "saves/WINTER DebtHunt v0.5/mappet/scripts/ui_dayResults.js",
+      "sha256": "0b1446925c44390ceaea21ff8d275c93269f370e6a752d98990459ed68edd07a",
+      "size": 31025,
+      "url": "https://raw.githubusercontent.com/hodiw1/terrapolis-hdteam/main/instances/debthunt/pack/saves/WINTER%20DebtHunt%20v0.5/mappet/scripts/ui_dayResults.js"
+    },
+    {
+      "path": "saves/WINTER DebtHunt v0.5/mappet/scripts/ui_dayResults.js.json",
+      "sha256": "458e1675ccbb0668daa7d565aa8926a5763c3e9736fb30c446923fb0be7867b3",
+      "size": 124,
+      "url": "https://raw.githubusercontent.com/hodiw1/terrapolis-hdteam/main/instances/debthunt/pack/saves/WINTER%20DebtHunt%20v0.5/mappet/scripts/ui_dayResults.js.json"
+    },
+    {
+      "path": "saves/WINTER DebtHunt v0.5/mappet/scripts/ui_donators.js",
+      "sha256": "a77dfd61ac3e94a852d316c8e5173eb5cbfe05ea4cdf8d4c2a0900a9b359f9cd",
+      "size": 10109,
+      "url": "https://raw.githubusercontent.com/hodiw1/terrapolis-hdteam/main/instances/debthunt/pack/saves/WINTER%20DebtHunt%20v0.5/mappet/scripts/ui_donators.js"
+    },
+    {
+      "path": "saves/WINTER DebtHunt v0.5/mappet/scripts/ui_donators.js.json",
+      "sha256": "637d7920b6494ce2045d842d69f5a747f5dd7a78f8019392410fa1b6317d167c",
+      "size": 71,
+      "url": "https://raw.githubusercontent.com/hodiw1/terrapolis-hdteam/main/instances/debthunt/pack/saves/WINTER%20DebtHunt%20v0.5/mappet/scripts/ui_donators.js.json"
+    },
+    {
+      "path": "saves/WINTER DebtHunt v0.5/mappet/scripts/ui_firstTime.js",
+      "sha256": "f2dc34369a3f13c913fcdea3a7d7dcdecd31e167c9b0471398f938c3e143b446",
+      "size": 3027,
+      "url": "https://raw.githubusercontent.com/hodiw1/terrapolis-hdteam/main/instances/debthunt/pack/saves/WINTER%20DebtHunt%20v0.5/mappet/scripts/ui_firstTime.js"
+    },
+    {
+      "path": "saves/WINTER DebtHunt v0.5/mappet/scripts/ui_firstTime.js.json",
+      "sha256": "637d7920b6494ce2045d842d69f5a747f5dd7a78f8019392410fa1b6317d167c",
+      "size": 71,
+      "url": "https://raw.githubusercontent.com/hodiw1/terrapolis-hdteam/main/instances/debthunt/pack/saves/WINTER%20DebtHunt%20v0.5/mappet/scripts/ui_firstTime.js.json"
+    },
+    {
+      "path": "saves/WINTER DebtHunt v0.5/mappet/scripts/ui_gameStart.js",
+      "sha256": "71063615bc7d6cd0b53fcce991b3a89f4c3fab361da70a1833ae98b4df2830a1",
+      "size": 21322,
+      "url": "https://raw.githubusercontent.com/hodiw1/terrapolis-hdteam/main/instances/debthunt/pack/saves/WINTER%20DebtHunt%20v0.5/mappet/scripts/ui_gameStart.js"
+    },
+    {
+      "path": "saves/WINTER DebtHunt v0.5/mappet/scripts/ui_gameStart.js.json",
+      "sha256": "7d5d4b38ee4896f556fd66623e390baf871e1ee3a187a75553c1ce1be35577d7",
+      "size": 96,
+      "url": "https://raw.githubusercontent.com/hodiw1/terrapolis-hdteam/main/instances/debthunt/pack/saves/WINTER%20DebtHunt%20v0.5/mappet/scripts/ui_gameStart.js.json"
+    },
+    {
+      "path": "saves/WINTER DebtHunt v0.5/mappet/scripts/ui_laptop.js",
+      "sha256": "43bc4d6e0df8d3c92f2a0b3570083f28387e753477e42dcd8e308ec7cf1e7660",
+      "size": 31540,
+      "url": "https://raw.githubusercontent.com/hodiw1/terrapolis-hdteam/main/instances/debthunt/pack/saves/WINTER%20DebtHunt%20v0.5/mappet/scripts/ui_laptop.js"
+    },
+    {
+      "path": "saves/WINTER DebtHunt v0.5/mappet/scripts/ui_laptop.js.json",
+      "sha256": "41aab53b4288ccc1c449c7184248534ca26b6f389be8c01cee3364250dd7452e",
+      "size": 144,
+      "url": "https://raw.githubusercontent.com/hodiw1/terrapolis-hdteam/main/instances/debthunt/pack/saves/WINTER%20DebtHunt%20v0.5/mappet/scripts/ui_laptop.js.json"
+    },
+    {
+      "path": "saves/WINTER DebtHunt v0.5/mappet/scripts/ui_note.js",
+      "sha256": "27dc2dee7559916801cf02c0b1cebb2498364e54c2031ad5cb7d01f1f682808f",
+      "size": 1921,
+      "url": "https://raw.githubusercontent.com/hodiw1/terrapolis-hdteam/main/instances/debthunt/pack/saves/WINTER%20DebtHunt%20v0.5/mappet/scripts/ui_note.js"
+    },
+    {
+      "path": "saves/WINTER DebtHunt v0.5/mappet/scripts/ui_note.js.json",
+      "sha256": "7d5d4b38ee4896f556fd66623e390baf871e1ee3a187a75553c1ce1be35577d7",
+      "size": 96,
+      "url": "https://raw.githubusercontent.com/hodiw1/terrapolis-hdteam/main/instances/debthunt/pack/saves/WINTER%20DebtHunt%20v0.5/mappet/scripts/ui_note.js.json"
+    },
+    {
+      "path": "saves/WINTER DebtHunt v0.5/mappet/scripts/ui_skin.js",
+      "sha256": "3e4e3da5e8cd42b2af384b3b6b1686d346d49bb0cf09aee491c20fcca81b1ea2",
+      "size": 8640,
+      "url": "https://raw.githubusercontent.com/hodiw1/terrapolis-hdteam/main/instances/debthunt/pack/saves/WINTER%20DebtHunt%20v0.5/mappet/scripts/ui_skin.js"
+    },
+    {
+      "path": "saves/WINTER DebtHunt v0.5/mappet/scripts/ui_skin.js.json",
+      "sha256": "7fb7410ab4ed4d0a03125e9c95f4959be7d86fedda953c3f32844b1f5c1a5156",
+      "size": 98,
+      "url": "https://raw.githubusercontent.com/hodiw1/terrapolis-hdteam/main/instances/debthunt/pack/saves/WINTER%20DebtHunt%20v0.5/mappet/scripts/ui_skin.js.json"
+    },
+    {
+      "path": "saves/WINTER DebtHunt v0.5/mappet/scripts/VoxelRayCast.js",
+      "sha256": "797f879783c772a8de45d0e04bfee9c0115349581c0868b7c6af81ed5bdac1ea",
+      "size": 1347,
+      "url": "https://raw.githubusercontent.com/hodiw1/terrapolis-hdteam/main/instances/debthunt/pack/saves/WINTER%20DebtHunt%20v0.5/mappet/scripts/VoxelRayCast.js"
+    },
+    {
+      "path": "saves/WINTER DebtHunt v0.5/mappet/scripts/VoxelRayCast.js.json",
+      "sha256": "637d7920b6494ce2045d842d69f5a747f5dd7a78f8019392410fa1b6317d167c",
+      "size": 71,
+      "url": "https://raw.githubusercontent.com/hodiw1/terrapolis-hdteam/main/instances/debthunt/pack/saves/WINTER%20DebtHunt%20v0.5/mappet/scripts/VoxelRayCast.js.json"
+    },
+    {
+      "path": "saves/WINTER DebtHunt v0.5/mappet/scripts/wolfAI.js",
+      "sha256": "8f49607eca111d90dbcafa5a485e3781c0d08a555dd5f7bf3832e64a5cfe9ea3",
+      "size": 17546,
+      "url": "https://raw.githubusercontent.com/hodiw1/terrapolis-hdteam/main/instances/debthunt/pack/saves/WINTER%20DebtHunt%20v0.5/mappet/scripts/wolfAI.js"
+    },
+    {
+      "path": "saves/WINTER DebtHunt v0.5/mappet/scripts/wolfAI.js.json",
+      "sha256": "d4680c04221082fe1486749b108a6a7ad6d24f483df9cb05b320e36d53489efe",
+      "size": 114,
+      "url": "https://raw.githubusercontent.com/hodiw1/terrapolis-hdteam/main/instances/debthunt/pack/saves/WINTER%20DebtHunt%20v0.5/mappet/scripts/wolfAI.js.json"
+    },
+    {
+      "path": "saves/WINTER DebtHunt v0.5/mappet/settings.json",
+      "sha256": "c5ffb7ab196174e80f1563afc3b14bcdd443cd277e38825f40bfc388be44e053",
+      "size": 13953,
+      "url": "https://raw.githubusercontent.com/hodiw1/terrapolis-hdteam/main/instances/debthunt/pack/saves/WINTER%20DebtHunt%20v0.5/mappet/settings.json"
+    },
+    {
+      "path": "saves/WINTER DebtHunt v0.5/mappet/states.json",
+      "sha256": "33b3b846f722f24f8609dd9a1d8a469fb8d0f1d109d47960441f35637dc607e6",
+      "size": 2726,
+      "url": "https://raw.githubusercontent.com/hodiw1/terrapolis-hdteam/main/instances/debthunt/pack/saves/WINTER%20DebtHunt%20v0.5/mappet/states.json"
+    },
+    {
+      "path": "saves/WINTER DebtHunt v0.5/nodes.json",
+      "sha256": "5281e2c5ba92871b1df6248af8e7d13fd721fcbbd12d722ef352b8b2cdb6a5c9",
+      "size": 9737,
+      "url": "https://raw.githubusercontent.com/hodiw1/terrapolis-hdteam/main/instances/debthunt/pack/saves/WINTER%20DebtHunt%20v0.5/nodes.json"
+    },
+    {
+      "path": "saves/WINTER DebtHunt v0.5/region/r.-1.-1.mca",
+      "sha256": "c7764dff413679aa3b627eaefb98b86088c17ac0f4f5c5415e407fcb44e2e0e1",
+      "size": 2916352,
+      "url": "https://raw.githubusercontent.com/hodiw1/terrapolis-hdteam/main/instances/debthunt/pack/saves/WINTER%20DebtHunt%20v0.5/region/r.-1.-1.mca"
+    },
+    {
+      "path": "saves/WINTER DebtHunt v0.5/region/r.-1.-2.mca",
+      "sha256": "d61ebce6ac57b432c498b82aa0251839dd674abae2bd3c2cd316ee0f5d25a212",
+      "size": 385024,
+      "url": "https://raw.githubusercontent.com/hodiw1/terrapolis-hdteam/main/instances/debthunt/pack/saves/WINTER%20DebtHunt%20v0.5/region/r.-1.-2.mca"
+    },
+    {
+      "path": "saves/WINTER DebtHunt v0.5/region/r.-1.0.mca",
+      "sha256": "0c0becaaa3a9f3384333f7ab86642e00413f9e333fb21f3dbc65ea51997a78b3",
+      "size": 3207168,
+      "url": "https://raw.githubusercontent.com/hodiw1/terrapolis-hdteam/main/instances/debthunt/pack/saves/WINTER%20DebtHunt%20v0.5/region/r.-1.0.mca"
+    },
+    {
+      "path": "saves/WINTER DebtHunt v0.5/region/r.-1.1.mca",
+      "sha256": "fdb725657367a63f91fc72249ee9c6036178cbaecf807580771d22d0f355dae4",
+      "size": 1155072,
+      "url": "https://raw.githubusercontent.com/hodiw1/terrapolis-hdteam/main/instances/debthunt/pack/saves/WINTER%20DebtHunt%20v0.5/region/r.-1.1.mca"
+    },
+    {
+      "path": "saves/WINTER DebtHunt v0.5/region/r.-2.-1.mca",
+      "sha256": "d41d1a2d14c051dc3f2fe38ef45d835cd3b95fb6609c48a1bd327ed97ff0d256",
+      "size": 90112,
+      "url": "https://raw.githubusercontent.com/hodiw1/terrapolis-hdteam/main/instances/debthunt/pack/saves/WINTER%20DebtHunt%20v0.5/region/r.-2.-1.mca"
+    },
+    {
+      "path": "saves/WINTER DebtHunt v0.5/region/r.-2.0.mca",
+      "sha256": "b3919dd2f44d8fdc292142017662e741b6ed1e7ade74d88a8ee41e413324b68f",
+      "size": 192512,
+      "url": "https://raw.githubusercontent.com/hodiw1/terrapolis-hdteam/main/instances/debthunt/pack/saves/WINTER%20DebtHunt%20v0.5/region/r.-2.0.mca"
+    },
+    {
+      "path": "saves/WINTER DebtHunt v0.5/region/r.0.-1.mca",
+      "sha256": "9d82fcb942f1a14fda8a3f91c2862ebb63eaa12f3b0bbc98a880122e1c65db3f",
+      "size": 4370432,
+      "url": "https://raw.githubusercontent.com/hodiw1/terrapolis-hdteam/main/instances/debthunt/pack/saves/WINTER%20DebtHunt%20v0.5/region/r.0.-1.mca"
+    },
+    {
+      "path": "saves/WINTER DebtHunt v0.5/region/r.0.-2.mca",
+      "sha256": "4f0db4acb24ce5742368e5d2f22bbceb2d9fc3acbfa02d269fa4b7772cf6586e",
+      "size": 2215936,
+      "url": "https://raw.githubusercontent.com/hodiw1/terrapolis-hdteam/main/instances/debthunt/pack/saves/WINTER%20DebtHunt%20v0.5/region/r.0.-2.mca"
+    },
+    {
+      "path": "saves/WINTER DebtHunt v0.5/region/r.0.0.mca",
+      "sha256": "43187c964b00d9370dd6970d7de91d48f1d9c6272d9973020d82ef9d48200d2a",
+      "size": 4227072,
+      "url": "https://raw.githubusercontent.com/hodiw1/terrapolis-hdteam/main/instances/debthunt/pack/saves/WINTER%20DebtHunt%20v0.5/region/r.0.0.mca"
+    },
+    {
+      "path": "saves/WINTER DebtHunt v0.5/region/r.0.1.mca",
+      "sha256": "2d5c274e81bb5b4b0ca4e01db547437309fa194a2a6b4e8dec655a4ba40159a7",
+      "size": 1687552,
+      "url": "https://raw.githubusercontent.com/hodiw1/terrapolis-hdteam/main/instances/debthunt/pack/saves/WINTER%20DebtHunt%20v0.5/region/r.0.1.mca"
+    },
+    {
+      "path": "saves/WINTER DebtHunt v0.5/region/r.1.-1.mca",
+      "sha256": "46cfbd3ed64712ead055c59e7f5216a53923d37fbe74c8238a65dd9ee781090f",
+      "size": 782336,
+      "url": "https://raw.githubusercontent.com/hodiw1/terrapolis-hdteam/main/instances/debthunt/pack/saves/WINTER%20DebtHunt%20v0.5/region/r.1.-1.mca"
+    },
+    {
+      "path": "saves/WINTER DebtHunt v0.5/region/r.1.-2.mca",
+      "sha256": "ac39cb722392e3165f469edff96f0b528380f89479a7fe70932ddbbfc4a2aa24",
+      "size": 1409024,
+      "url": "https://raw.githubusercontent.com/hodiw1/terrapolis-hdteam/main/instances/debthunt/pack/saves/WINTER%20DebtHunt%20v0.5/region/r.1.-2.mca"
+    },
+    {
+      "path": "saves/WINTER DebtHunt v0.5/region/r.1.0.mca",
+      "sha256": "f3d940bef29c0cb6d1d4ec87a66d592c9898e072a3a8f72cab580f4c31901028",
+      "size": 1261568,
+      "url": "https://raw.githubusercontent.com/hodiw1/terrapolis-hdteam/main/instances/debthunt/pack/saves/WINTER%20DebtHunt%20v0.5/region/r.1.0.mca"
+    },
+    {
+      "path": "saves/WINTER DebtHunt v0.5/region/r.1.1.mca",
+      "sha256": "b9ce601534077cca2204e8dbf0f7fe90d8310c39cab6b0a586110e220672a3f7",
+      "size": 1163264,
+      "url": "https://raw.githubusercontent.com/hodiw1/terrapolis-hdteam/main/instances/debthunt/pack/saves/WINTER%20DebtHunt%20v0.5/region/r.1.1.mca"
+    },
+    {
+      "path": "saves/WINTER DebtHunt v0.5/stats/31287291-5f5e-34ff-82ba-316f51223913.json",
+      "sha256": "b68f60dad53142c1605dd0794ea3c8127c6d85d562fe531eb201cb16d75dc1b1",
+      "size": 792,
+      "url": "https://raw.githubusercontent.com/hodiw1/terrapolis-hdteam/main/instances/debthunt/pack/saves/WINTER%20DebtHunt%20v0.5/stats/31287291-5f5e-34ff-82ba-316f51223913.json"
+    },
+    {
+      "path": "saves/WINTER DebtHunt v0.5/stats/39e3414f-c4cf-4d12-9cc4-9f1a4dacd35f.json",
+      "sha256": "1bb87ff8a6b8fc3248afc6d6d98dd4db3a8d81b31195be62b0583a3990ea28f7",
+      "size": 220,
+      "url": "https://raw.githubusercontent.com/hodiw1/terrapolis-hdteam/main/instances/debthunt/pack/saves/WINTER%20DebtHunt%20v0.5/stats/39e3414f-c4cf-4d12-9cc4-9f1a4dacd35f.json"
+    },
+    {
+      "path": "saves/WINTER DebtHunt v0.5/stats/9bb2e857-ecd9-4814-abd6-6f46d23021e9.json",
+      "sha256": "06cf4c2194f6b74fa356acde20a12dbcd1b63304ae5cc08fbd2632dee2135b37",
+      "size": 1167,
+      "url": "https://raw.githubusercontent.com/hodiw1/terrapolis-hdteam/main/instances/debthunt/pack/saves/WINTER%20DebtHunt%20v0.5/stats/9bb2e857-ecd9-4814-abd6-6f46d23021e9.json"
+    },
+    {
+      "path": "saves/WINTER DebtHunt v0.5/stats/a5f5fcae-0da3-4c66-9b49-13ee3c04dd97.json",
+      "sha256": "aeac51551ea4c46a211104f7db23214c0db48443134453d42cdcfe8fd01e1896",
+      "size": 264,
+      "url": "https://raw.githubusercontent.com/hodiw1/terrapolis-hdteam/main/instances/debthunt/pack/saves/WINTER%20DebtHunt%20v0.5/stats/a5f5fcae-0da3-4c66-9b49-13ee3c04dd97.json"
+    },
+    {
+      "path": "saves/WINTER DebtHunt v0.5/stats/e9178ab0-e568-3130-986a-21b446f0faee.json",
+      "sha256": "35410a111cb249da9d113c40e6059824c810fa29f9955412cd948078d9dc42fa",
+      "size": 241,
+      "url": "https://raw.githubusercontent.com/hodiw1/terrapolis-hdteam/main/instances/debthunt/pack/saves/WINTER%20DebtHunt%20v0.5/stats/e9178ab0-e568-3130-986a-21b446f0faee.json"
+    },
+    {
+      "path": "saves/WINTER DebtHunt v0.5/structures/123.nbt",
+      "sha256": "40608bccda99a1614ee603f667b4675ac636a6d9e14691a49b5a3ce88e84f0fc",
+      "size": 1741,
+      "url": "https://raw.githubusercontent.com/hodiw1/terrapolis-hdteam/main/instances/debthunt/pack/saves/WINTER%20DebtHunt%20v0.5/structures/123.nbt"
+    },
+    {
+      "path": "saves/WINTER DebtHunt v0.5/structures/empty.nbt",
+      "sha256": "a37b64e56ed6abf4b5f4e6cef2665b120a76f861f59b2f44f7a6b07f339b1589",
+      "size": 8210,
+      "url": "https://raw.githubusercontent.com/hodiw1/terrapolis-hdteam/main/instances/debthunt/pack/saves/WINTER%20DebtHunt%20v0.5/structures/empty.nbt"
+    },
+    {
+      "path": "saves/WINTER DebtHunt v0.5/structures/house_test.nbt",
+      "sha256": "6f5800d5da15fcc7ccd9e0c904b76b4d9bf2f5e9a147cfcad6192165d70f36d8",
+      "size": 14780,
+      "url": "https://raw.githubusercontent.com/hodiw1/terrapolis-hdteam/main/instances/debthunt/pack/saves/WINTER%20DebtHunt%20v0.5/structures/house_test.nbt"
+    },
+    {
+      "path": "saves/WINTER DebtHunt v0.5/structures/loc.nbt",
+      "sha256": "ebd50ade857a1a3848ea5fe3c4e9fdb98ce4a61e4d13bd53272f6801d9411061",
+      "size": 10452,
+      "url": "https://raw.githubusercontent.com/hodiw1/terrapolis-hdteam/main/instances/debthunt/pack/saves/WINTER%20DebtHunt%20v0.5/structures/loc.nbt"
+    },
+    {
+      "path": "saves/WINTER DebtHunt v0.5/structures/loc_building.nbt",
+      "sha256": "b1edada09c55b747c2d80504dc1e819393022620b8a31b987d61352d313163ad",
+      "size": 8226,
+      "url": "https://raw.githubusercontent.com/hodiw1/terrapolis-hdteam/main/instances/debthunt/pack/saves/WINTER%20DebtHunt%20v0.5/structures/loc_building.nbt"
+    },
+    {
+      "path": "saves/WINTER DebtHunt v0.5/structures/loc_camp.nbt",
+      "sha256": "98e050b99293402be9a877465d2b0b83154971c1ad6d5edc9e688a6aaf3833b9",
+      "size": 9831,
+      "url": "https://raw.githubusercontent.com/hodiw1/terrapolis-hdteam/main/instances/debthunt/pack/saves/WINTER%20DebtHunt%20v0.5/structures/loc_camp.nbt"
+    },
+    {
+      "path": "saves/WINTER DebtHunt v0.5/structures/loc_house.nbt",
+      "sha256": "e0fc8fb93539a73fa040ac5b24ee4f0e009131295e7f1b123360e50c9d1a4a39",
+      "size": 15279,
+      "url": "https://raw.githubusercontent.com/hodiw1/terrapolis-hdteam/main/instances/debthunt/pack/saves/WINTER%20DebtHunt%20v0.5/structures/loc_house.nbt"
+    },
+    {
+      "path": "saves/WINTER DebtHunt v0.5/structures/loc_mine.nbt",
+      "sha256": "7e1184bf7902e0c16be67ab02044f391b361ef6070f2476a142310f64b6514cb",
+      "size": 10892,
+      "url": "https://raw.githubusercontent.com/hodiw1/terrapolis-hdteam/main/instances/debthunt/pack/saves/WINTER%20DebtHunt%20v0.5/structures/loc_mine.nbt"
+    },
+    {
+      "path": "saves/WINTER DebtHunt v0.5/structures/loc_shelter.nbt",
+      "sha256": "ebd50ade857a1a3848ea5fe3c4e9fdb98ce4a61e4d13bd53272f6801d9411061",
+      "size": 10452,
+      "url": "https://raw.githubusercontent.com/hodiw1/terrapolis-hdteam/main/instances/debthunt/pack/saves/WINTER%20DebtHunt%20v0.5/structures/loc_shelter.nbt"
+    },
+    {
+      "path": "saves/WINTER DebtHunt v0.5/structures/loc_tower.nbt",
+      "sha256": "a7b80176a654b9fd897768722b224189354ab7d153da27e8e0c06265e4fce6aa",
+      "size": 11407,
+      "url": "https://raw.githubusercontent.com/hodiw1/terrapolis-hdteam/main/instances/debthunt/pack/saves/WINTER%20DebtHunt%20v0.5/structures/loc_tower.nbt"
+    },
+    {
+      "path": "saves/WINTER DebtHunt v0.5/structures/test.nbt",
+      "sha256": "d484af8f994ab0915bb06ff7a979519600f88beffd9603b57fff0d87531cf68d",
+      "size": 291,
+      "url": "https://raw.githubusercontent.com/hodiw1/terrapolis-hdteam/main/instances/debthunt/pack/saves/WINTER%20DebtHunt%20v0.5/structures/test.nbt"
     },
     {
       "path": "shaderpacks/BSL_v8.2.02.zip",

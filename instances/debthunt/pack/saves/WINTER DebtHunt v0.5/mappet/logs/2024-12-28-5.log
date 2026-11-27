@@ -1,0 +1,2 @@
+[2024_12_28 19:40:20] [ERROR] TypeError: null has no such function "getItem" in items.js at line number 957
+[2024_12_28 19:40:20] [ERROR] TypeError: null has no such function "getItem" in items.js (in items.js) at line number 7 in items.js at line number 7

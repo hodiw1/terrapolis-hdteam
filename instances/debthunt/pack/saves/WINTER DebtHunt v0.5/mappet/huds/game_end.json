@@ -1,0 +1,212 @@
+{
+    "Hide": 0b,
+    "Fov": 70.0f,
+    "Morphs": [
+        {
+            "Expire": 90,
+            "Ortho": 1b,
+            "Morph": {
+                "Skin": "b.a:empty/skins/texture.png",
+                "BodyParts": [
+                    {
+                        "Limb": "cube",
+                        "Morph": {
+                            "Background": -16777216,
+                            "Max": 60,
+                            "Color": 16711719,
+                            "Label": "НЕ ПОВЕЗЛО",
+                            "Name": "label",
+                            "Offset": 0.75f
+                        }
+                    },
+                    {
+                        "T": [
+                            0.0f,
+                            0.25f,
+                            0.0f
+                        ],
+                        "Limb": "cube",
+                        "Morph": {
+                            "Background": 16777215,
+                            "Label": "Вам не удалось избавится от долгов",
+                            "Name": "label",
+                            "Offset": 0.75f
+                        }
+                    }
+                ],
+                "Settings": {
+                    "Hands": 1b
+                },
+                "Name": "blockbuster.empty"
+            },
+            "OrthoY": 0.5f,
+            "Scale": [
+                100.0f,
+                100.0f,
+                100.0f
+            ],
+            "OrthoX": 0.5f,
+            "Translate": [
+                0.0f,
+                30.0f,
+                10.0f
+            ]
+        },
+        {
+            "Expire": 91,
+            "Ortho": 1b,
+            "Morph": {
+                "Loop": 1,
+                "List": [
+                    {
+                        "Random": 0.0f,
+                        "SetDuration": 0b,
+                        "Morph": {
+                            "Color": -16777216,
+                            "Animation": {
+                                "Interp": 21,
+                                "Animates": 1b
+                            },
+                            "Texture": "blockbuster:textures/gui/icon.png",
+                            "Name": "blockbuster.image"
+                        },
+                        "Duration": 10.0f,
+                        "EndPoint": 0b
+                    },
+                    {
+                        "Random": 0.0f,
+                        "SetDuration": 0b,
+                        "Morph": {
+                            "Color": 0,
+                            "Animation": {
+                                "Interp": 21,
+                                "Animates": 1b
+                            },
+                            "Texture": "blockbuster:textures/gui/icon.png",
+                            "Name": "blockbuster.image"
+                        },
+                        "Duration": 10.0f,
+                        "EndPoint": 0b
+                    },
+                    {
+                        "Random": 0.0f,
+                        "SetDuration": 0b,
+                        "Morph": {
+                            "Color": 0,
+                            "Animation": {
+                                "Interp": 21,
+                                "Animates": 1b
+                            },
+                            "Texture": "blockbuster:textures/gui/icon.png",
+                            "Name": "blockbuster.image"
+                        },
+                        "Duration": 60.0f,
+                        "EndPoint": 0b
+                    },
+                    {
+                        "Random": 0.0f,
+                        "SetDuration": 0b,
+                        "Morph": {
+                            "Color": -16777216,
+                            "Animation": {
+                                "Interp": 21,
+                                "Animates": 1b
+                            },
+                            "Texture": "blockbuster:textures/gui/icon.png",
+                            "Name": "blockbuster.image"
+                        },
+                        "Duration": 10.0f,
+                        "EndPoint": 0b
+                    },
+                    {
+                        "Random": 0.0f,
+                        "SetDuration": 0b,
+                        "Morph": {
+                            "Color": 0,
+                            "Animation": {
+                                "Interp": 21,
+                                "Animates": 1b,
+                                "Duration": 1
+                            },
+                            "Texture": "blockbuster:textures/gui/icon.png",
+                            "Name": "blockbuster.image"
+                        },
+                        "Duration": 1.0f,
+                        "EndPoint": 0b
+                    }
+                ],
+                "Name": "sequencer",
+                "Offset": [
+                    0.0f,
+                    0.0f,
+                    0.0f
+                ]
+            },
+            "OrthoY": 0.5f,
+            "Scale": [
+                500.0f,
+                500.0f,
+                500.0f
+            ],
+            "OrthoX": 0.5f,
+            "Translate": [
+                0.0f,
+                0.0f,
+                30.0f
+            ]
+        },
+        {
+            "Expire": 100,
+            "Ortho": 1b,
+            "Morph": {
+                "Loop": 1,
+                "List": [
+                    {
+                        "Random": 0.0f,
+                        "SetDuration": 0b,
+                        "Morph": {
+                            "Color": -16777216,
+                            "Animation": {
+                                "Interp": 21,
+                                "Animates": 1b
+                            },
+                            "Texture": "blockbuster:textures/gui/icon.png",
+                            "Name": "blockbuster.image"
+                        },
+                        "Duration": 90.0f,
+                        "EndPoint": 0b
+                    },
+                    {
+                        "Random": 0.0f,
+                        "SetDuration": 0b,
+                        "Morph": {
+                            "Color": 0,
+                            "Animation": {
+                                "Interp": 21,
+                                "Animates": 1b
+                            },
+                            "Texture": "blockbuster:textures/gui/icon.png",
+                            "Name": "blockbuster.image"
+                        },
+                        "Duration": 10.0f,
+                        "EndPoint": 0b
+                    }
+                ],
+                "Name": "sequencer",
+                "Offset": [
+                    0.0f,
+                    0.0f,
+                    0.0f
+                ]
+            },
+            "OrthoY": 0.5f,
+            "Scale": [
+                1000.0f,
+                1000.0f,
+                1000.0f
+            ],
+            "OrthoX": 0.5f
+        }
+    ],
+    "Global": 0b
+}

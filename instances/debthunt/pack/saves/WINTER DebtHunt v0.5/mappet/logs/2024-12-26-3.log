@@ -1,0 +1,17 @@
+[2024_12_26 18:01:29] [ERROR] ReferenceError: "p_name" is not defined in test3.js at line number 9
+[2024_12_26 18:01:29] [ERROR] ReferenceError: "p_name" is not defined in test3.js at line number 9
+[2024_12_26 18:10:46] [ERROR] ReferenceError: "s" is not defined in playerTick.js at line number 1302
+[2024_12_26 18:19:59] [ERROR] ReferenceError: "s" is not defined in test3.js at line number 10
+[2024_12_26 18:19:59] [ERROR] ReferenceError: "s" is not defined in test3.js at line number 10
+[2024_12_26 18:25:31] [ERROR] ReferenceError: "s" is not defined in test3.js at line number 10
+[2024_12_26 18:25:31] [ERROR] ReferenceError: "s" is not defined in test3.js at line number 10
+[2024_12_26 18:26:30] [ERROR] ReferenceError: "s" is not defined in test3.js at line number 10
+[2024_12_26 18:26:30] [ERROR] ReferenceError: "s" is not defined in test3.js at line number 10
+[2024_12_26 18:26:49] [ERROR] ReferenceError: "s" is not defined in test3.js at line number 10
+[2024_12_26 18:26:49] [ERROR] ReferenceError: "s" is not defined in test3.js at line number 10
+[2024_12_26 18:31:45] [ERROR] ReferenceError: "c" is not defined in test4.js at line number 193
+[2024_12_26 18:31:45] [ERROR] ReferenceError: "c" is not defined in test4.js at line number 193
+[2024_12_26 18:38:08] [ERROR] ReferenceError: "s" is not defined in test3.js at line number 10
+[2024_12_26 18:38:08] [ERROR] ReferenceError: "s" is not defined in test3.js at line number 10
+[2024_12_26 18:38:33] [ERROR] ReferenceError: "s" is not defined in test3.js at line number 10
+[2024_12_26 18:38:33] [ERROR] ReferenceError: "s" is not defined in test3.js at line number 10

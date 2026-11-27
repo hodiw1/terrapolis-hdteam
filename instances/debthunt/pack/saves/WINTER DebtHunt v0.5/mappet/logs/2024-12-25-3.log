@@ -1,0 +1,35 @@
+[2024_12_25 16:06:23] [ERROR] null
+[2024_12_25 16:06:25] [ERROR] null
+[2024_12_25 16:06:36] [ERROR] null
+[2024_12_25 16:06:56] [ERROR] null
+[2024_12_25 16:07:02] [ERROR] SyntaxError: Invalid JSON: <json>:1:0 Expected json literal but found eof
+
+^ in playerTick.js at line number 1346
+[2024_12_25 16:07:04] [ERROR] null
+[2024_12_25 16:07:04] [ERROR] null
+[2024_12_25 16:07:18] [ERROR] SyntaxError: Invalid JSON: <json>:1:0 Expected json literal but found eof
+
+^ in playerTick.js at line number 1346
+[2024_12_25 16:07:20] [ERROR] null
+[2024_12_25 16:08:11] [ERROR] The value 8485 is not in the specified inclusive range of 0 to 8191
+[2024_12_25 16:08:21] [ERROR] The value 8386 is not in the specified inclusive range of 0 to 8191
+[2024_12_25 16:08:25] [ERROR] The value 8386 is not in the specified inclusive range of 0 to 8191
+[2024_12_25 16:08:27] [ERROR] The value 8386 is not in the specified inclusive range of 0 to 8191
+[2024_12_25 16:08:27] [ERROR] The value 8485 is not in the specified inclusive range of 0 to 8191
+[2024_12_25 16:08:28] [ERROR] The value 8485 is not in the specified inclusive range of 0 to 8191
+[2024_12_25 16:08:30] [ERROR] The value 8386 is not in the specified inclusive range of 0 to 8191
+[2024_12_25 16:08:30] [ERROR] The value 8386 is not in the specified inclusive range of 0 to 8191
+[2024_12_25 16:12:34] [ERROR] TypeError: null has no such function "getPosition" in test.js at line number 3
+[2024_12_25 16:12:34] [ERROR] TypeError: null has no such function "getPosition" in test.js at line number 3
+[2024_12_25 16:12:34] [ERROR] TypeError: null has no such function "getPosition" in test.js at line number 3
+[2024_12_25 16:12:34] [ERROR] TypeError: null has no such function "getPosition" in test.js at line number 3
+[2024_12_25 16:12:37] [ERROR] TypeError: null has no such function "getPosition" in test.js at line number 3
+[2024_12_25 16:12:37] [ERROR] TypeError: null has no such function "getPosition" in test.js at line number 3
+[2024_12_25 16:12:38] [ERROR] TypeError: null has no such function "getPosition" in test.js at line number 3
+[2024_12_25 16:12:38] [ERROR] TypeError: null has no such function "getPosition" in test.js at line number 3
+[2024_12_25 16:12:39] [ERROR] SyntaxError: Invalid JSON: <json>:1:0 Expected json literal but found eof
+
+^ in playerTick.js at line number 1346
+[2024_12_25 16:13:30] [ERROR] wolfAI.js:402:8 Variable "pos" has already been declared
+    var pos = c.getNPC().getPosition();
+        ^ in wolfAI.js at line number 402 at column number 8

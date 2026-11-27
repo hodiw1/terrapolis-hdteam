@@ -1,0 +1,31 @@
+[2024_12_28 23:43:45] [ERROR] SyntaxError: Invalid JSON: <json>:1:0 Expected json literal but found eof
+
+^ in playerTick.js at line number 1785
+[2024_12_28 23:43:45] [ERROR] SyntaxError: Invalid JSON: <json>:1:0 Expected json literal but found eof
+
+^ in playerTick.js at line number 1785
+[2024_12_28 23:43:56] [ERROR] SyntaxError: Invalid JSON: <json>:1:0 Expected json literal but found eof
+
+^ in playerTick.js at line number 1785
+[2024_12_28 23:43:56] [ERROR] SyntaxError: Invalid JSON: <json>:1:0 Expected json literal but found eof
+
+^ in playerTick.js at line number 1785
+[2024_12_28 23:43:56] [ERROR] SyntaxError: Invalid JSON: <json>:1:0 Expected json literal but found eof
+
+^ in playerTick.js at line number 1785
+[2024_12_28 23:45:19] [ERROR] SyntaxError: Invalid JSON: <json>:1:0 Expected json literal but found eof
+
+^ in playerTick.js at line number 1785
+[2024_12_28 23:45:19] [ERROR] SyntaxError: Invalid JSON: <json>:1:0 Expected json literal but found eof
+
+^ in playerTick.js at line number 1785
+[2024_12_28 23:47:28] [ERROR] SyntaxError: Invalid JSON: <json>:1:0 Expected json literal but found eof
+
+^ in playerTick.js at line number 1785
+[2024_12_28 23:47:28] [ERROR] SyntaxError: Invalid JSON: <json>:1:0 Expected json literal but found eof
+
+^ in playerTick.js at line number 1785
+[2024_12_28 23:47:39] [ERROR] The value 8386 is not in the specified inclusive range of 0 to 8191
+[2024_12_28 23:47:39] [ERROR] The value 8386 is not in the specified inclusive range of 0 to 8191
+[2024_12_28 23:47:39] [ERROR] The value 8386 is not in the specified inclusive range of 0 to 8191
+[2024_12_28 23:47:43] [ERROR] The value 8386 is not in the specified inclusive range of 0 to 8191

@@ -1,0 +1,17 @@
+[2024_12_30 11:54:26] [ERROR] SyntaxError: Invalid JSON: <json>:1:0 Expected json literal but found eof
+
+^ in playerTick.js at line number 961
+[2024_12_30 12:06:42] [DEBUG] 17
+[2024_12_30 12:15:05] [ERROR] TypeError: c.closeUI is not a function in test1.js at line number 5
+[2024_12_30 12:15:05] [ERROR] TypeError: c.closeUI is not a function in test1.js at line number 5
+[2024_12_30 12:16:19] [ERROR] TypeError: Cannot read property "split" from undefined in ui_note.js at line number 644
+[2024_12_30 12:16:19] [ERROR] TypeError: Cannot read property "split" from undefined in ui_note.js (in ui_note.js) at line number 1 in ui_note.js at line number 1
+[2024_12_30 12:19:08] [DEBUG] 19
+[2024_12_30 12:29:48] [DEBUG] 21
+[2024_12_30 12:41:42] [DEBUG] 23
+[2024_12_30 12:53:48] [DEBUG] 25
+[2024_12_30 12:59:56] [DEBUG] 25
+[2024_12_30 13:00:07] [ERROR] SyntaxError: Invalid JSON: <json>:1:0 Expected json literal but found eof
+
+^ in playerTick.js at line number 961
+[2024_12_30 13:02:21] [ERROR] ReferenceError: "data" is not defined in shotgun.js at line number 317

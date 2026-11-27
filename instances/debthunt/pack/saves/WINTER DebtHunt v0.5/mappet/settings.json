@@ -1,0 +1,492 @@
+{
+    "Triggers": {
+        "player_item_toss": {
+            "Blocks": [
+                {
+                    "Script": "items.js",
+                    "Function": "",
+                    "Type": "script",
+                    "CustomData": "",
+                    "Frequency": 1,
+                    "Inline": 0b,
+                    "Code": ""
+                }
+            ]
+        },
+        "entity_death": {
+            "Blocks": [
+            ]
+        },
+        "player_journal": {
+            "Blocks": [
+            ]
+        },
+        "player_eat": {
+            "Blocks": [
+            ]
+        },
+        "player_mouse": {
+            "Blocks": [
+                {
+                    "Script": "camera.js",
+                    "Function": "mouse",
+                    "Type": "script",
+                    "CustomData": "",
+                    "Frequency": 1,
+                    "Inline": 0b,
+                    "Code": ""
+                },
+                {
+                    "Script": "shotgun.js",
+                    "Function": "shoot",
+                    "Type": "script",
+                    "CustomData": "",
+                    "Frequency": 1,
+                    "Inline": 0b,
+                    "Code": ""
+                },
+                {
+                    "Script": "playerInteract.js",
+                    "Function": "mouseItemUse",
+                    "Type": "script",
+                    "CustomData": "",
+                    "Frequency": 1,
+                    "Inline": 0b,
+                    "Code": ""
+                }
+            ]
+        },
+        "living_fall": {
+            "Blocks": [
+                {
+                    "Script": "items.js",
+                    "Function": "landing",
+                    "Type": "script",
+                    "CustomData": "",
+                    "Frequency": 1,
+                    "Inline": 0b,
+                    "Code": ""
+                },
+                {
+                    "Script": "playerTick.js",
+                    "Function": "fall",
+                    "Type": "script",
+                    "CustomData": "",
+                    "Frequency": 1,
+                    "Inline": 0b,
+                    "Code": ""
+                }
+            ]
+        },
+        "player_tick": {
+            "Blocks": [
+                {
+                    "Script": "playerTick.js",
+                    "Function": "",
+                    "Type": "script",
+                    "CustomData": "",
+                    "Frequency": 1,
+                    "Inline": 0b,
+                    "Code": ""
+                },
+                {
+                    "Script": "ui_laptop.js",
+                    "Function": "update",
+                    "Type": "script",
+                    "CustomData": "",
+                    "Frequency": 5,
+                    "Inline": 0b,
+                    "Code": ""
+                }
+            ]
+        },
+        "player_dimension_change": {
+            "Blocks": [
+            ]
+        },
+        "server_tick": {
+            "Blocks": [
+                {
+                    "Script": "game.js",
+                    "Function": "timeUpdate",
+                    "Type": "script",
+                    "CustomData": "",
+                    "Frequency": 20,
+                    "Inline": 0b,
+                    "Code": ""
+                },
+                {
+                    "Script": "playerTick.js",
+                    "Function": "generator",
+                    "Type": "script",
+                    "CustomData": "",
+                    "Frequency": 1,
+                    "Inline": 0b,
+                    "Code": ""
+                }
+            ]
+        },
+        "entity_damaged": {
+            "Blocks": [
+            ]
+        },
+        "player_lmb": {
+            "Blocks": [
+            ]
+        },
+        "block_click": {
+            "Blocks": [
+            ]
+        },
+        "block_interact": {
+            "Blocks": [
+                {
+                    "Script": "playerInteract.js",
+                    "Function": "",
+                    "Type": "script",
+                    "CustomData": "",
+                    "Frequency": 2,
+                    "Inline": 0b,
+                    "Code": ""
+                }
+            ]
+        },
+        "player_open_gui": {
+            "Blocks": [
+                {
+                    "Script": "playerTick.js",
+                    "Function": "hideInventory",
+                    "Type": "script",
+                    "CustomData": "",
+                    "Frequency": 1,
+                    "Inline": 0b,
+                    "Code": ""
+                }
+            ]
+        },
+        "player_logout": {
+            "Blocks": [
+                {
+                    "Script": "playerTick.js",
+                    "Function": "playerLeave",
+                    "Type": "script",
+                    "CustomData": "",
+                    "Frequency": 1,
+                    "Inline": 0b,
+                    "Code": ""
+                },
+                {
+                    "Script": "ui_gameStart.js",
+                    "Function": "voteClose",
+                    "Type": "script",
+                    "CustomData": "",
+                    "Frequency": 1,
+                    "Inline": 0b,
+                    "Code": ""
+                }
+            ]
+        },
+        "player_rmb": {
+            "Blocks": [
+            ]
+        },
+        "living_jump": {
+            "Blocks": [
+                {
+                    "Script": "playerTick.js",
+                    "Function": "jumpBoostBan",
+                    "Type": "script",
+                    "CustomData": "",
+                    "Frequency": 1,
+                    "Inline": 0b,
+                    "Code": ""
+                }
+            ]
+        },
+        "player_chat": {
+            "Blocks": [
+            ]
+        },
+        "player_death": {
+            "Blocks": [
+            ]
+        },
+        "player_close_gui": {
+            "Blocks": [
+            ]
+        },
+        "player_open_container": {
+            "Blocks": [
+            ]
+        },
+        "player_close_container": {
+            "Blocks": [
+            ]
+        },
+        "state_changed": {
+            "Blocks": [
+            ]
+        },
+        "server_load": {
+            "Blocks": [
+            ]
+        },
+        "player_respawn": {
+            "Blocks": [
+            ]
+        },
+        "block_place": {
+            "Blocks": [
+            ]
+        },
+        "player_drink": {
+            "Blocks": [
+            ]
+        },
+        "living_knockback": {
+            "Blocks": [
+            ]
+        },
+        "entity_attacked": {
+            "Blocks": [
+            ]
+        },
+        "player_walking": {
+            "Blocks": [
+            ]
+        },
+        "living_equipment_change": {
+            "Blocks": [
+                {
+                    "Script": "camera.js",
+                    "Function": "swapBan",
+                    "Type": "script",
+                    "CustomData": "",
+                    "Frequency": 1,
+                    "Inline": 0b,
+                    "Code": ""
+                },
+                {
+                    "Script": "playerTick.js",
+                    "Function": "equipmentChange",
+                    "Type": "script",
+                    "CustomData": "",
+                    "Frequency": 1,
+                    "Inline": 0b,
+                    "Code": ""
+                }
+            ]
+        },
+        "player_login": {
+            "Blocks": [
+                {
+                    "Script": "playerTick.js",
+                    "Function": "playerJoin",
+                    "Type": "script",
+                    "CustomData": "",
+                    "Frequency": 1,
+                    "Inline": 0b,
+                    "Code": ""
+                },
+                {
+                    "Script": "ui_gameStart.js",
+                    "Function": "voteClose",
+                    "Type": "script",
+                    "CustomData": "",
+                    "Frequency": 1,
+                    "Inline": 0b,
+                    "Code": ""
+                }
+            ]
+        },
+        "player_item_interact": {
+            "Blocks": [
+                {
+                    "Script": "camera.js",
+                    "Function": "",
+                    "Type": "script",
+                    "CustomData": "",
+                    "Frequency": 1,
+                    "Inline": 0b,
+                    "Code": ""
+                }
+            ]
+        },
+        "projectile_impact": {
+            "Blocks": [
+                {
+                    "Script": "shotgun.js",
+                    "Function": "hit",
+                    "Type": "script",
+                    "CustomData": "",
+                    "Frequency": 1,
+                    "Inline": 0b,
+                    "Code": ""
+                }
+            ]
+        },
+        "block_break": {
+            "Blocks": [
+                {
+                    "Script": "playerInteract.js",
+                    "Function": "mineralrock",
+                    "Type": "script",
+                    "CustomData": "",
+                    "Frequency": 1,
+                    "Inline": 0b,
+                    "Code": ""
+                }
+            ]
+        },
+        "player_entity_interact": {
+            "Blocks": [
+            ]
+        },
+        "player_entity_leash": {
+            "Blocks": [
+            ]
+        },
+        "player_item_pickup": {
+            "Blocks": [
+            ]
+        }
+    },
+    "Hotkeys": {
+        "Hotkeys": [
+            {
+                "Trigger": {
+                    "Blocks": [
+                        {
+                            "Script": "beartrap.js",
+                            "Function": "space",
+                            "Type": "script",
+                            "CustomData": "",
+                            "Frequency": 1,
+                            "Inline": 0b,
+                            "Code": ""
+                        }
+                    ]
+                },
+                "Toggle": 0b,
+                "Keycode": 57,
+                "Enabled": {
+                    "Condition": {
+                    },
+                    "Mode": 1
+                }
+            },
+            {
+                "Trigger": {
+                    "Blocks": [
+                        {
+                            "Script": "",
+                            "Function": "",
+                            "Type": "script",
+                            "CustomData": "",
+                            "Frequency": 1,
+                            "Inline": 1b,
+                            "Code": "if (c.getSubject().getStates().getNumber(\"inCamera\")) {
+    c.getSubject().setPerspective(0);
+}"
+                        }
+                    ]
+                },
+                "Toggle": 0b,
+                "Keycode": 63,
+                "Enabled": {
+                    "Condition": {
+                    },
+                    "Mode": 1
+                }
+            },
+            {
+                "Trigger": {
+                    "Blocks": [
+                        {
+                            "Script": "shotgun.js",
+                            "Function": "reload",
+                            "Type": "script",
+                            "CustomData": "",
+                            "Frequency": 1,
+                            "Inline": 0b,
+                            "Code": ""
+                        }
+                    ]
+                },
+                "Toggle": 0b,
+                "Keycode": 19,
+                "Enabled": {
+                    "Condition": {
+                    },
+                    "Mode": 1
+                }
+            },
+            {
+                "Trigger": {
+                    "Blocks": [
+                        {
+                            "Script": "ui_gameStart.js",
+                            "Function": "y",
+                            "Type": "script",
+                            "CustomData": "",
+                            "Frequency": 1,
+                            "Inline": 0b,
+                            "Code": ""
+                        }
+                    ]
+                },
+                "Toggle": 0b,
+                "Keycode": 21,
+                "Enabled": {
+                    "Condition": {
+                    },
+                    "Mode": 1
+                }
+            },
+            {
+                "Trigger": {
+                    "Blocks": [
+                        {
+                            "Script": "ui_gameStart.js",
+                            "Function": "n",
+                            "Type": "script",
+                            "CustomData": "",
+                            "Frequency": 1,
+                            "Inline": 0b,
+                            "Code": ""
+                        }
+                    ]
+                },
+                "Toggle": 0b,
+                "Keycode": 49,
+                "Enabled": {
+                    "Condition": {
+                    },
+                    "Mode": 1
+                }
+            },
+            {
+                "Trigger": {
+                    "Blocks": [
+                        {
+                            "Script": "ui_gameStart.js",
+                            "Function": "f",
+                            "Type": "script",
+                            "CustomData": "",
+                            "Frequency": 1,
+                            "Inline": 0b,
+                            "Code": ""
+                        }
+                    ]
+                },
+                "Toggle": 0b,
+                "Keycode": 33,
+                "Enabled": {
+                    "Condition": {
+                    },
+                    "Mode": 1
+                }
+            }
+        ]
+    }
+}

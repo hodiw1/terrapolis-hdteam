@@ -1,0 +1,54 @@
+[2025_01_22 14:19:52] [DEBUG] 17
+[2025_01_22 14:20:18] [DEBUG] 17
+[2025_01_22 14:25:30] [ERROR] SyntaxError: Invalid JSON: <json>:1:0 Expected json literal but found eof
+
+^ in playerTick.js at line number 1157
+[2025_01_22 14:27:03] [DEBUG] 17
+[2025_01_22 14:29:18] [ERROR] SyntaxError: Invalid JSON: <json>:1:0 Expected json literal but found eof
+
+^ in playerInteract.js at line number 344
+[2025_01_22 14:29:18] [ERROR] SyntaxError: Invalid JSON: <json>:1:0 Expected json literal but found eof
+
+^ in playerInteract.js at line number 344
+[2025_01_22 14:29:18] [ERROR] SyntaxError: Invalid JSON: <json>:1:0 Expected json literal but found eof
+
+^ in playerInteract.js at line number 344
+[2025_01_22 14:29:18] [ERROR] SyntaxError: Invalid JSON: <json>:1:0 Expected json literal but found eof
+
+^ in playerInteract.js at line number 344
+[2025_01_22 14:29:18] [ERROR] SyntaxError: Invalid JSON: <json>:1:0 Expected json literal but found eof
+
+^ in playerInteract.js at line number 344
+[2025_01_22 14:29:18] [ERROR] SyntaxError: Invalid JSON: <json>:1:0 Expected json literal but found eof
+
+^ in playerInteract.js at line number 344
+[2025_01_22 14:29:18] [ERROR] SyntaxError: Invalid JSON: <json>:1:0 Expected json literal but found eof
+
+^ in playerInteract.js at line number 344
+[2025_01_22 14:29:18] [ERROR] SyntaxError: Invalid JSON: <json>:1:0 Expected json literal but found eof
+
+^ in playerInteract.js at line number 344
+[2025_01_22 14:29:18] [ERROR] SyntaxError: Invalid JSON: <json>:1:0 Expected json literal but found eof
+
+^ in playerInteract.js at line number 344
+[2025_01_22 14:29:18] [ERROR] SyntaxError: Invalid JSON: <json>:1:0 Expected json literal but found eof
+
+^ in playerInteract.js at line number 344
+[2025_01_22 14:29:18] [ERROR] SyntaxError: Invalid JSON: <json>:1:0 Expected json literal but found eof
+
+^ in playerInteract.js at line number 344
+[2025_01_22 14:29:18] [ERROR] SyntaxError: Invalid JSON: <json>:1:0 Expected json literal but found eof
+
+^ in playerInteract.js at line number 344
+[2025_01_22 14:29:18] [ERROR] SyntaxError: Invalid JSON: <json>:1:0 Expected json literal but found eof
+
+^ in playerInteract.js at line number 344
+[2025_01_22 14:29:18] [ERROR] SyntaxError: Invalid JSON: <json>:1:0 Expected json literal but found eof
+
+^ in playerInteract.js at line number 344
+[2025_01_22 14:29:18] [ERROR] SyntaxError: Invalid JSON: <json>:1:0 Expected json literal but found eof
+
+^ in playerInteract.js at line number 344
+[2025_01_22 14:29:18] [ERROR] SyntaxError: Invalid JSON: <json>:1:0 Expected json literal but found eof
+
+^ in playerInteract.js at line number 344

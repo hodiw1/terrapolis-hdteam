@@ -1,0 +1,14 @@
+[2024_12_31 15:41:57] [ERROR] TypeError: null has no such function "getStates" in playerTick.js at line number 1104
+[2024_12_31 15:41:57] [ERROR] TypeError: null has no such function "getStates" in playerTick.js (in playerTick.js) at line number 144 in playerTick.js at line number 144
+[2024_12_31 15:50:18] [ERROR] playerTick.js:1047:21 Expected ; but found .
+            _0x673395.getPlayer().setSetting('keyBindswapHands', 0x0);
+                     ^ in playerTick.js at line number 1047 at column number 21
+[2024_12_31 15:50:28] [ERROR] playerTick.js:1047:21 Expected ; but found .
+            _0x535b6c.setSetting('keyBindswapHands', 0);
+                     ^ in playerTick.js at line number 1047 at column number 21
+[2024_12_31 16:18:58] [ERROR] No such function otherloot
+[2024_12_31 16:19:09] [ERROR] TypeError: _0x567a37.spawnNpc is not a function in generation.js at line number 868
+[2024_12_31 16:19:09] [ERROR] TypeError: _0x567a37.spawnNpc is not a function in items.js (in generation.js) at line number 1 in items.js at line number 1
+[2024_12_31 16:19:10] [ERROR] TypeError: _0x567a37.spawnNpc is not a function in generation.js at line number 868
+[2024_12_31 16:19:10] [ERROR] TypeError: _0x567a37.spawnNpc is not a function in items.js (in generation.js) at line number 1 in items.js at line number 1
+[2024_12_31 16:19:22] [ERROR] The value 8386 is not in the specified inclusive range of 0 to 8191

@@ -1,0 +1,78 @@
+{
+    "Hide": 0b,
+    "Fov": 70.0f,
+    "Morphs": [
+        {
+            "Expire": 4,
+            "Ortho": 1b,
+            "Morph": {
+                "List": [
+                    {
+                        "Random": 0.0f,
+                        "SetDuration": 0b,
+                        "Morph": {
+                            "Lighting": 0b,
+                            "Color": -16777216,
+                            "Animation": {
+                                "Animates": 1b
+                            },
+                            "Texture": "blockbuster:textures/gui/icon.png",
+                            "Shaded": 0b,
+                            "Name": "blockbuster.image"
+                        },
+                        "Duration": 10.0f,
+                        "EndPoint": 0b
+                    },
+                    {
+                        "Random": 0.0f,
+                        "SetDuration": 0b,
+                        "Morph": {
+                            "Lighting": 0b,
+                            "Color": 0,
+                            "Animation": {
+                                "Interp": 23,
+                                "Animates": 1b
+                            },
+                            "Texture": "blockbuster:textures/gui/icon.png",
+                            "Shaded": 0b,
+                            "Name": "blockbuster.image"
+                        },
+                        "Duration": 10.0f,
+                        "EndPoint": 0b
+                    },
+                    {
+                        "Random": 0.0f,
+                        "SetDuration": 0b,
+                        "Morph": {
+                            "Lighting": 0b,
+                            "Color": 0,
+                            "Animation": {
+                                "Interp": 23,
+                                "Animates": 1b
+                            },
+                            "Texture": "blockbuster:textures/gui/icon.png",
+                            "Shaded": 0b,
+                            "Name": "blockbuster.image"
+                        },
+                        "Duration": 2.0f,
+                        "EndPoint": 1b
+                    }
+                ],
+                "Name": "sequencer",
+                "Offset": [
+                    0.0f,
+                    0.0f,
+                    0.0f
+                ]
+            },
+            "OrthoY": 0.5f,
+            "Scale": [
+                1000.0f,
+                1000.0f,
+                1000.0f
+            ],
+            "OrthoX": 0.5f
+        }
+    ],
+    "Global": 0b
+}

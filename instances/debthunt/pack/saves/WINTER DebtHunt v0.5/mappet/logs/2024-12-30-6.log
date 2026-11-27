@@ -1,0 +1,52 @@
+[2024_12_30 10:19:10] [ERROR] ui_gameStart.js:644:8 Expected ; but found main
+unction main(_0x192e93) {
+        ^ in ui_gameStart.js at line number 644 at column number 8
+[2024_12_30 10:19:11] [ERROR] ui_gameStart.js:644:8 Expected ; but found main
+unction main(_0x192e93) {
+        ^ in ui_gameStart.js at line number 644 at column number 8
+[2024_12_30 10:30:56] [ERROR] TypeError: uiContext.get("toggle").set is not a function in test.js at line number 19
+[2024_12_30 10:31:01] [ERROR] TypeError: uiContext.get("toggle").set is not a function in test.js at line number 19
+[2024_12_30 10:36:05] [ERROR] TypeError: uiContext.get("toggle").get is not a function in test.js at line number 17
+[2024_12_30 10:36:06] [ERROR] TypeError: uiContext.get("toggle").get is not a function in test.js at line number 17
+[2024_12_30 10:36:06] [ERROR] TypeError: uiContext.get("toggle").get is not a function in test.js at line number 17
+[2024_12_30 10:36:06] [ERROR] TypeError: uiContext.get("toggle").get is not a function in test.js at line number 17
+[2024_12_30 10:36:06] [ERROR] TypeError: uiContext.get("toggle").get is not a function in test.js at line number 17
+[2024_12_30 10:36:07] [ERROR] TypeError: uiContext.get("toggle").get is not a function in test.js at line number 17
+[2024_12_30 10:36:07] [ERROR] TypeError: uiContext.get("toggle").get is not a function in test.js at line number 17
+[2024_12_30 10:36:10] [ERROR] TypeError: uiContext.get("toggle").get is not a function in test.js at line number 17
+[2024_12_30 10:36:10] [ERROR] TypeError: uiContext.get("toggle").get is not a function in test.js at line number 17
+[2024_12_30 10:37:37] [ERROR] TypeError: data.getString("toggle").get is not a function in test.js at line number 17
+[2024_12_30 10:37:37] [ERROR] TypeError: data.getString("toggle").get is not a function in test.js at line number 17
+[2024_12_30 10:39:52] [ERROR] test.js:19:11 Expected an operand but found )
+        if()
+           ^ in test.js at line number 19 at column number 11
+[2024_12_30 10:39:53] [ERROR] test.js:19:11 Expected an operand but found )
+        if()
+           ^ in test.js at line number 19 at column number 11
+[2024_12_30 10:39:53] [ERROR] test.js:19:11 Expected an operand but found )
+        if()
+           ^ in test.js at line number 19 at column number 11
+[2024_12_30 10:39:53] [ERROR] test.js:19:11 Expected an operand but found )
+        if()
+           ^ in test.js at line number 19 at column number 11
+[2024_12_30 10:40:38] [ERROR] test.js:21:4 Expected an operand but found }
+    }
+    ^ in test.js at line number 21 at column number 4
+[2024_12_30 10:48:29] [ERROR] TypeError: ui.snowsT is not a function in test.js at line number 9
+[2024_12_30 10:48:29] [ERROR] TypeError: ui.snowsT is not a function in test.js at line number 9
+[2024_12_30 10:48:33] [ERROR] TypeError: ui.snowsT is not a function in test.js at line number 9
+[2024_12_30 10:48:33] [ERROR] TypeError: ui.snowsT is not a function in test.js at line number 9
+[2024_12_30 10:48:53] [ERROR] ReferenceError: "snowsT" is not defined in test.js at line number 12
+[2024_12_30 10:48:53] [ERROR] ReferenceError: "snowsT" is not defined in test.js at line number 12
+[2024_12_30 10:53:58] [ERROR] ui_gameStart.js:655:4 Expected statement but found let declaration
+    let snowsTs = true
+    ^ in ui_gameStart.js at line number 655 at column number 4
+[2024_12_30 10:53:59] [ERROR] ui_gameStart.js:655:4 Expected statement but found let declaration
+    let snowsTs = true
+    ^ in ui_gameStart.js at line number 655 at column number 4
+[2024_12_30 10:54:11] [ERROR] ui_gameStart.js:654:4 Expected statement but found let declaration
+    let snowsTs = true
+    ^ in ui_gameStart.js at line number 654 at column number 4
+[2024_12_30 10:54:13] [ERROR] ui_gameStart.js:654:4 Expected statement but found let declaration
+    let snowsTs = true
+    ^ in ui_gameStart.js at line number 654 at column number 4

@@ -1,0 +1,8 @@
+[2024_12_29 16:49:20] [ERROR] TypeError: null has no such function "getItem" in items.js at line number 959
+[2024_12_29 16:49:20] [ERROR] TypeError: null has no such function "getItem" in items.js (in items.js) at line number 1 in items.js at line number 1
+[2024_12_29 16:51:57] [ERROR] game.js:1149:16 Missing space after numeric literal
+        'x': 0x2с,
+                ^ in game.js at line number 1149 at column number 16
+[2024_12_29 16:52:39] [ERROR] game.js:1191:50 Missing space after numeric literal
+    _0x52с988.balance = Math.floor(mappet.random(0xс4));
+                                                  ^ in game.js at line number 1191 at column number 50

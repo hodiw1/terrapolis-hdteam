@@ -1,0 +1,80 @@
+[2024_12_27 17:49:55] [ERROR] TypeError: null has no such function "getEntityData" in beartrap.js at line number 411
+[2024_12_27 17:49:56] [ERROR] TypeError: null has no such function "getEntityData" in beartrap.js at line number 411
+[2024_12_27 17:49:56] [ERROR] TypeError: null has no such function "getEntityData" in beartrap.js at line number 411
+[2024_12_27 17:49:57] [ERROR] TypeError: null has no such function "getEntityData" in beartrap.js at line number 411
+[2024_12_27 17:49:58] [ERROR] TypeError: null has no such function "getEntityData" in beartrap.js at line number 411
+[2024_12_27 17:49:59] [ERROR] TypeError: null has no such function "getEntityData" in beartrap.js at line number 411
+[2024_12_27 17:49:59] [ERROR] TypeError: null has no such function "getEntityData" in beartrap.js at line number 411
+[2024_12_27 17:50:00] [ERROR] TypeError: null has no such function "getEntityData" in beartrap.js at line number 411
+[2024_12_27 17:50:01] [ERROR] TypeError: null has no such function "getEntityData" in beartrap.js at line number 411
+[2024_12_27 17:50:01] [ERROR] TypeError: null has no such function "getEntityData" in beartrap.js at line number 411
+[2024_12_27 17:50:03] [ERROR] TypeError: null has no such function "getEntityData" in beartrap.js at line number 411
+[2024_12_27 17:50:03] [ERROR] TypeError: null has no such function "getEntityData" in beartrap.js at line number 411
+[2024_12_27 17:50:05] [ERROR] TypeError: null has no such function "getEntityData" in beartrap.js at line number 411
+[2024_12_27 17:50:05] [ERROR] TypeError: null has no such function "getEntityData" in beartrap.js at line number 411
+[2024_12_27 17:50:06] [ERROR] TypeError: null has no such function "getEntityData" in beartrap.js at line number 411
+[2024_12_27 17:50:08] [ERROR] TypeError: null has no such function "getEntityData" in beartrap.js at line number 411
+[2024_12_27 17:50:08] [ERROR] TypeError: null has no such function "getEntityData" in beartrap.js at line number 411
+[2024_12_27 17:50:14] [ERROR] TypeError: null has no such function "getEntityData" in beartrap.js at line number 411
+[2024_12_27 17:50:15] [ERROR] TypeError: null has no such function "getEntityData" in beartrap.js at line number 411
+[2024_12_27 17:50:16] [ERROR] TypeError: null has no such function "getEntityData" in beartrap.js at line number 411
+[2024_12_27 17:50:16] [ERROR] TypeError: null has no such function "getEntityData" in beartrap.js at line number 411
+[2024_12_27 17:50:17] [ERROR] TypeError: null has no such function "getEntityData" in beartrap.js at line number 411
+[2024_12_27 17:50:18] [ERROR] TypeError: null has no such function "getEntityData" in beartrap.js at line number 411
+[2024_12_27 17:57:48] [ERROR] TypeError: null has no such function "getEntityData" in beartrap.js at line number 411
+[2024_12_27 17:57:54] [ERROR] TypeError: null has no such function "getEntityData" in beartrap.js at line number 411
+[2024_12_27 17:58:04] [ERROR] rayCasting.js:810:1 Expected } but found eof
+}
+ ^ in rayCasting.js at line number 810 at column number 1
+[2024_12_27 18:00:24] [ERROR] TypeError: null has no such function "getEntityData" in beartrap.js at line number 411
+[2024_12_27 18:00:44] [ERROR] TypeError: null has no such function "getEntityData" in beartrap.js at line number 411
+[2024_12_27 18:00:44] [ERROR] TypeError: null has no such function "getEntityData" in beartrap.js at line number 411
+[2024_12_27 18:01:44] [ERROR] rayCasting.js:797:1 Expected } but found eof
+}
+ ^ in rayCasting.js at line number 797 at column number 1
+[2024_12_27 18:03:01] [ERROR] TypeError: null has no such function "getEntityData" in beartrap.js at line number 411
+[2024_12_27 18:06:02] [DEBUG] 17
+[2024_12_27 18:15:21] [ERROR] TypeError: null has no such function "getEntityData" in beartrap.js at line number 411
+[2024_12_27 18:15:23] [ERROR] TypeError: null has no such function "getEntityData" in beartrap.js at line number 411
+[2024_12_27 18:15:24] [ERROR] TypeError: null has no such function "getEntityData" in beartrap.js at line number 411
+[2024_12_27 18:15:24] [ERROR] TypeError: null has no such function "getEntityData" in beartrap.js at line number 411
+[2024_12_27 18:15:26] [ERROR] TypeError: null has no such function "getEntityData" in beartrap.js at line number 411
+[2024_12_27 18:15:27] [ERROR] TypeError: null has no such function "getEntityData" in beartrap.js at line number 411
+[2024_12_27 18:15:28] [ERROR] TypeError: null has no such function "getEntityData" in beartrap.js at line number 411
+[2024_12_27 18:15:29] [ERROR] TypeError: null has no such function "getEntityData" in beartrap.js at line number 411
+[2024_12_27 18:15:29] [ERROR] TypeError: null has no such function "getEntityData" in beartrap.js at line number 411
+[2024_12_27 18:15:32] [ERROR] TypeError: null has no such function "getEntityData" in beartrap.js at line number 411
+[2024_12_27 18:15:37] [ERROR] No such function main
+[2024_12_27 18:19:13] [ERROR] ui_skin.js:85:1178 Expected , but found ;
+    let _0x2fb649 = layout.morph(mappet.createMorph(mappet.createMorph("{Hitbox:{Eye:0.9f,Sneak:1.65f,Enabled:1b,Height:1.8f},Pose:{Pose:{head:{},right_knee:{},right_arm:{},left_leg:{},torso:{},left_arm:{},right_leg:{},model:{},right_elbow:{},left_knee:{},left_elbow:{}}},Transition:{Interp:21,Duration:5},Skin:\""+JSON.parse(s.getStates().getString('skin')).link+"\",Scale:0.925f,BodyParts:[{R:[0.0f,180.0f,0.0f],S:["+JSON.parse(s.getStates().getString('skinhead')).scaleX+"f,"+JSON.parse(s.getStates().getString('skinhead')).scaleY+"f,"+JSON.parse(s.getStates().getString('skinhead')).scaleZ+"f],T:["+JSON.parse(s.getStates().getString('skinhead')).posX+"f,"+JSON.parse(s.getStates().getString('skinhead')).posY+"f,"+JSON.parse(s.getStates().getString('skinhead')).posZ+"f],Limb:\"head\",Morph:{Materials:{"+JSON.parse(s.getStates().getString('skinhead')).materials+":\""+JSON.parse(s.getStates().getString('skinhead')).texture+"\"},Settings:{Hands:1b},Name:\""+JSON.parse(s.getStates().getString('skinhead')).model+"\"}}],Settings:{Hands:1b},Name:\"chameleon.hnt_" + (JSON.parse(s.getStates().getString('skin')).type == 'fred' ? 'male' : 'female') + "\"}")).id('morphPlayer');
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          ^ in ui_skin.js at line number 85 at column number 1178
+[2024_12_27 18:19:36] [ERROR] ui_skin.js:85:1178 Expected , but found ;
+    let _0x2fb649 = layout.morph(mappet.createMorph(mappet.createMorph("{Hitbox:{Eye:0.9f,Sneak:1.65f,Enabled:1b,Height:1.8f},Pose:{Pose:{head:{},right_knee:{},right_arm:{},left_leg:{},torso:{},left_arm:{},right_leg:{},model:{},right_elbow:{},left_knee:{},left_elbow:{}}},Transition:{Interp:21,Duration:5},Skin:\""+JSON.parse(s.getStates().getString('skin')).link+"\",Scale:0.925f,BodyParts:[{R:[0.0f,180.0f,0.0f],S:["+JSON.parse(s.getStates().getString('skinhead')).scaleX+"f,"+JSON.parse(s.getStates().getString('skinhead')).scaleY+"f,"+JSON.parse(s.getStates().getString('skinhead')).scaleZ+"f],T:["+JSON.parse(s.getStates().getString('skinhead')).posX+"f,"+JSON.parse(s.getStates().getString('skinhead')).posY+"f,"+JSON.parse(s.getStates().getString('skinhead')).posZ+"f],Limb:\"head\",Morph:{Materials:{"+JSON.parse(s.getStates().getString('skinhead')).materials+":\""+JSON.parse(s.getStates().getString('skinhead')).texture+"\"},Settings:{Hands:1b},Name:\""+JSON.parse(s.getStates().getString('skinhead')).model+"\"}}],Settings:{Hands:1b},Name:\"chameleon.hnt_" + (JSON.parse(s.getStates().getString('skin')).type == 'fred' ? 'male' : 'female') + "\"}")).id('morphPlayer');
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          ^ in ui_skin.js at line number 85 at column number 1178
+[2024_12_27 18:19:42] [ERROR] ui_skin.js:85:1178 Expected , but found ;
+    let _0x2fb649 = layout.morph(mappet.createMorph(mappet.createMorph("{Hitbox:{Eye:0.9f,Sneak:1.65f,Enabled:1b,Height:1.8f},Pose:{Pose:{head:{},right_knee:{},right_arm:{},left_leg:{},torso:{},left_arm:{},right_leg:{},model:{},right_elbow:{},left_knee:{},left_elbow:{}}},Transition:{Interp:21,Duration:5},Skin:\""+JSON.parse(s.getStates().getString('skin')).link+"\",Scale:0.925f,BodyParts:[{R:[0.0f,180.0f,0.0f],S:["+JSON.parse(s.getStates().getString('skinhead')).scaleX+"f,"+JSON.parse(s.getStates().getString('skinhead')).scaleY+"f,"+JSON.parse(s.getStates().getString('skinhead')).scaleZ+"f],T:["+JSON.parse(s.getStates().getString('skinhead')).posX+"f,"+JSON.parse(s.getStates().getString('skinhead')).posY+"f,"+JSON.parse(s.getStates().getString('skinhead')).posZ+"f],Limb:\"head\",Morph:{Materials:{"+JSON.parse(s.getStates().getString('skinhead')).materials+":\""+JSON.parse(s.getStates().getString('skinhead')).texture+"\"},Settings:{Hands:1b},Name:\""+JSON.parse(s.getStates().getString('skinhead')).model+"\"}}],Settings:{Hands:1b},Name:\"chameleon.hnt_" + (JSON.parse(s.getStates().getString('skin')).type == 'fred' ? 'male' : 'female') + "\"}")).id('morphPlayer');
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          ^ in ui_skin.js at line number 85 at column number 1178
+[2024_12_27 18:19:46] [ERROR] TypeError: null has no such function "getEntityData" in beartrap.js at line number 411
+[2024_12_27 18:19:48] [ERROR] TypeError: null has no such function "getEntityData" in beartrap.js at line number 411
+[2024_12_27 18:19:49] [ERROR] TypeError: null has no such function "getEntityData" in beartrap.js at line number 411
+[2024_12_27 18:19:52] [ERROR] TypeError: null has no such function "getEntityData" in beartrap.js at line number 411
+[2024_12_27 18:19:53] [ERROR] TypeError: null has no such function "getEntityData" in beartrap.js at line number 411
+[2024_12_27 18:20:00] [ERROR] TypeError: null has no such function "getEntityData" in beartrap.js at line number 411
+[2024_12_27 18:20:01] [ERROR] TypeError: null has no such function "getEntityData" in beartrap.js at line number 411
+[2024_12_27 18:20:03] [ERROR] TypeError: null has no such function "getEntityData" in beartrap.js at line number 411
+[2024_12_27 18:20:06] [ERROR] TypeError: null has no such function "getEntityData" in beartrap.js at line number 411
+[2024_12_27 18:20:08] [ERROR] TypeError: null has no such function "getEntityData" in beartrap.js at line number 411
+[2024_12_27 18:20:12] [ERROR] TypeError: null has no such function "getEntityData" in beartrap.js at line number 411
+[2024_12_27 18:20:13] [ERROR] TypeError: null has no such function "getEntityData" in beartrap.js at line number 411
+[2024_12_27 18:20:13] [ERROR] TypeError: null has no such function "getEntityData" in beartrap.js at line number 411
+[2024_12_27 18:20:14] [ERROR] TypeError: null has no such function "getEntityData" in beartrap.js at line number 411
+[2024_12_27 18:20:25] [ERROR] TypeError: null has no such function "getEntityData" in beartrap.js at line number 411
+[2024_12_27 18:20:39] [ERROR] TypeError: null has no such function "getEntityData" in beartrap.js at line number 411
+[2024_12_27 18:20:40] [ERROR] TypeError: null has no such function "getEntityData" in beartrap.js at line number 411
+[2024_12_27 18:20:41] [ERROR] TypeError: null has no such function "getEntityData" in beartrap.js at line number 411
+[2024_12_27 18:20:56] [ERROR] TypeError: null has no such function "getEntityData" in beartrap.js at line number 411
+[2024_12_27 18:20:59] [ERROR] TypeError: null has no such function "getEntityData" in beartrap.js at line number 411
+[2024_12_27 18:21:04] [ERROR] TypeError: null has no such function "getEntityData" in beartrap.js at line number 411
+[2024_12_27 18:21:17] [ERROR] TypeError: null has no such function "getEntityData" in beartrap.js at line number 411
+[2024_12_27 18:21:39] [ERROR] TypeError: null has no such function "getEntityData" in beartrap.js at line number 411
+[2024_12_27 18:21:48] [ERROR] TypeError: null has no such function "getEntityData" in beartrap.js at line number 411

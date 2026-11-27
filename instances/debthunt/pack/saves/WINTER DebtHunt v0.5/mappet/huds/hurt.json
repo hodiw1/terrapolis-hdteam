@@ -1,0 +1,53 @@
+{
+    "Hide": 0b,
+    "Fov": 70.0f,
+    "Morphs": [
+        {
+            "Expire": 11,
+            "Ortho": 1b,
+            "Morph": {
+                "Skin": "b.a:empty/skins/texture.png",
+                "Settings": {
+                    "Hands": 1b
+                },
+                "Name": "blockbuster.empty"
+            },
+            "OrthoY": 0.5f,
+            "Scale": [
+                960.0f,
+                960.0f,
+                960.0f
+            ],
+            "OrthoX": 0.5f,
+            "Translate": [
+                0.0f,
+                0.0f,
+                10.0f
+            ]
+        },
+        {
+            "Expire": 5,
+            "Ortho": 1b,
+            "Morph": {
+                "Skin": "b.a:empty/skins/texture.png",
+                "Settings": {
+                    "Hands": 1b
+                },
+                "Name": "blockbuster.empty"
+            },
+            "OrthoY": 0.5f,
+            "Scale": [
+                960.0f,
+                960.0f,
+                960.0f
+            ],
+            "OrthoX": 0.5f,
+            "Translate": [
+                0.0f,
+                0.0f,
+                8.0f
+            ]
+        }
+    ],
+    "Global": 0b
+}
