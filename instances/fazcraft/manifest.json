@@ -1,6 +1,6 @@
 {
   "name": "Fazcraft: Reborned",
-  "version": "1.0.1",
+  "version": "1.0.3",
   "minecraft_version": "1.20.1",
   "loader": {
     "type": "forge",
@@ -274,6 +274,12 @@
       "url": "https://raw.githubusercontent.com/hodiw1/terrapolis-hdteam/main/instances/fazcraft/pack/mods/Drip%20Sounds-0.6.3%2B1.20.1-Forge.jar"
     },
     {
+      "path": "mods/embeddium-0.3.31+mc1.20.1.jar",
+      "sha256": "eed3d1325f2acc2fd4e69bb495e5ccb91d962126ac5330f0582ebc2a3daf47fb",
+      "size": 1320675,
+      "url": "https://raw.githubusercontent.com/hodiw1/terrapolis-hdteam/main/instances/fazcraft/pack/mods/embeddium-0.3.31%2Bmc1.20.1.jar"
+    },
+    {
       "path": "mods/entityculling-forge-1.12.2-mc1.20.1.jar",
       "sha256": "d82f6350b6e4b5ac48d4054ad5a54469ab14f019040e9053f38c192b4b1adc9d",
       "size": 1529393,
@@ -338,6 +344,12 @@
       "sha256": "520c07bceb8987c4bb355d32b495ae03e4f106553df47b1a9691a08420016fa2",
       "size": 287393,
       "url": "https://raw.githubusercontent.com/hodiw1/terrapolis-hdteam/main/instances/fazcraft/pack/mods/MRU-1.0.4%2B1.20.1%2Bforge.jar"
+    },
+    {
+      "path": "mods/oculus-mc1.20.1-1.8.0.jar",
+      "sha256": "0945df0cba0f62b3901dd80c3268e5311b770ece78c78037a45db12ac0425fef",
+      "size": 2851119,
+      "url": "https://raw.githubusercontent.com/hodiw1/terrapolis-hdteam/main/instances/fazcraft/pack/mods/oculus-mc1.20.1-1.8.0.jar"
     },
     {
       "path": "mods/Presence Footsteps [FORGE] 1.0.0.jar",
@@ -410,12 +422,6 @@
       "sha256": "bd05da3d9df29b914165583f1c6dfd918a138996447ff32c0418329824027a8f",
       "size": 1105891,
       "url": "https://raw.githubusercontent.com/hodiw1/terrapolis-hdteam/main/instances/fazcraft/pack/mods/yet_another_config_lib_v3-3.6.6%2B1.20.1-forge.jar"
-    },
-    {
-      "path": "servers.dat",
-      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
-      "size": 0,
-      "url": "https://raw.githubusercontent.com/hodiw1/terrapolis-hdteam/main/instances/fazcraft/pack/servers.dat"
     },
     {
       "path": "shaderpacks/Solas Shader V3.9.zip",
